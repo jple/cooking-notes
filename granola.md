@@ -1,60 +1,24 @@
 # source
-http://toquedechoc.com/2015/05/granola-ou-mc-vities-maison/
-    150g de farine blanche (T55 ou T45)
-    50g de farine de blé complète (T110)
-    30g de flocons d’avoine hachés (soit 4 cas)
-    80g de beurre demi-sel mou
-    70g de cassonade
-    1 oeuf
-    1 cac de bicarbonate de soude
-    quelques gouttes d’arôme de beurre-vanille
 
-    150g choco
-
-https://www.quelquesgrammesdegourmandise.com/biscuits-granola-faits-maison/
-	125 g de Farine T80
-	125 g de Flocons d'avoine ( petits de préférence)
-	60 g de Sucre roux (ou de la cassonade)
-	1 Oeuf(s)
-	125 g de Beurre demi sel
-	1 càc de Bicarbonate de soude
-
-	200g choco
-
-https://www.bulle-de-patisserie.fr/biscuits-granola-maison
-    125 g de farine
-    75 g de flocons d'avoines
-    40 g de cassonade
-    1 grosse pincée de fleur de sel
-    1/2 cuillère à café rase de bicarbonate de soude
-    75 g de beurre mou
-    40 g d'eau froide
-    
-    150 g de chocolat au lait
-
-https://cuisine.journaldesfemmes.fr/recette/349025-biscuits-granola-maison
-
-    Pour 20 biscuits :
-    80 g de farine de châtaigne
-    70 g de farine de sarrasin
-    50 g de farine blanche
-    80 g de beurre coupé en dés
-    50 g de sucre roux
-    1 oeuf
-    1 cuillère à café rase de bicarbonate alimentaire
-    1 pincée de sel
-    100 g environ de chocolat au lait
-
+|                  | toque | qq gr |  bulle  | jdf  |  regal  | perle | dim |
+| :--------------: | :---: | :---: | :-----: | :--: | :-----: | :---: | :-: |
+| farine chataigne |       |       |         |  80  |         |      |     |
+| farine sarrazin  |       |       |         |  70  |         |       |     |
+|      farine      |  150  |       |   125   |  50  |   125   |       |     |
+|    farine T80    |       |  125  |         |      |   75    |       |     |
+|   farine T110    |  50   |       |         |      |         |       |     |
+|  flocon avoine   |  30   |  125  |   75    |      |         |       |     |
+|    cassonade     |  70   |  60   |   40    |  50  |   60    |       |     |
+|      beurre      |  80   |  125  |   75    |  80  |   75    |       |     |
+|       oeuf       |   1   |   1   |         |  1   |         |       |     |
+|      bicarb      | 1 cac | 1 cac | 1/2 cac | 1cac |         |       |     |
+|      levure      |       |       |         |      |   3g    |       |     |
+|      choco       |  150  |  200  |   150   | 100  |   150   |       |     |
+|       eau        |       |       |   40    |      |  5 cas  |       |     |
+|       sel        |       |       |         | oui  | 1/2 cac |       |     |
+|                  |       |       |         |      |         |       |     |
+|                  |       |       |         |      |         |       |     |
 https://www.regal.fr/inspiration/coin-des-enfants/biscuits-granola-15968
-	125 g Farine blanche 
-	75 g Farine complète
-	60 g Sucre cassonade
-	3 g Levure chimique
-	1/2 c. à café Sel
-	75 g Beurre doux
-	5 c. à soupe Eau froide
-	150 g Chocolat au lait
-
 
 https://perleensucre.com/biscuits-granola-maison/
 INGRÉDIENTS pour une vingtaine de biscuits :
@@ -79,4 +43,18 @@ https://macuisinedudimanche.com/2015/03/22/biscuits-granola-maison/
     3 g de levure chimique
     1/2 cuillère à café de sel
     150 g de chocolat au lait
+
+
+http://toquedechoc.com/2015/05/granola-ou-mc-vities-maison/
+   beurre demi-sel mou
+
+
+https://www.quelquesgrammesdegourmandise.com/biscuits-granola-faits-maison/
+    beurre demi sel
+
+https://www.bulle-de-patisserie.fr/biscuits-granola-maison
+
+https://cuisine.journaldesfemmes.fr/recette/349025-biscuits-granola-maison
+
+
 
