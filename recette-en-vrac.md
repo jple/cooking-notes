@@ -50,7 +50,7 @@ Recette à trouver (cuisine du terroir)
 # Tous en cuisine et cie
 ** à faire : ** recette Les recettes du 7 au 11 septembre
 
-nouille ou riz
+## nouille ou riz
 https://www.cuisineaz.com/recettes/spaghettis-aux-saucisses-et-a-la-sauce-tomate-de-cyril-lignac-110956.aspx
 https://www.cuisineaz.com/recettes/linguine-bolognaise-de-legumes-de-cyril-lignac-110965.aspx
 https://www.cuisineaz.com/recettes/chili-con-carne-de-cyril-lignac-110888.aspx
@@ -58,7 +58,7 @@ https://www.cuisineaz.com/recettes/rougail-saucisses-de-cyril-lignac-110947.aspx
 
 
 
-plat
+## plat
 https://www.cuisineaz.com/recettes/saumon-gravlax-vinaigrette-aux-herbes-111514.aspx
 https://www.lemonde.fr/les-recettes-du-monde/article/2020/01/10/porc-au-caramel-la-recette-de-minh-tran-huy_6025428_5324493.html
 
@@ -67,12 +67,12 @@ https://www.cuisineaz.com/recettes/escalope-milanaise-salade-caprese-de-cyril-li
 
 https://www.cuisineaz.com/recettes/burger-oignons-confits-sauce-tartare-de-cyril-lignac-110945.aspx
 
-pain à la viande
+## pain à la viande
 https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/20/la-tourtiere-a-la-viande-de-porc-la-recette-de-marie-claude-lortie_6033805_5324493.html
 https://www.lemonde.fr/les-recettes-du-monde/article/2020/12/25/le-pirog-pain-de-viande-la-recette-de-mikael-petrossian_6064492_5324493.html
 https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/20/la-tourtiere-a-la-viande-de-porc-la-recette-de-marie-claude-lortie_6033805_5324493.html
 
-plat au four
+## plat au four
 https://www.lemonde.fr/les-recettes-du-monde/article/2020/04/10/la-pizza-sfincione-la-recette-d-alexandre-guarneri_6036205_5324493.html
 https://www.cuisineaz.com/recettes/tarte-feuilletee-aux-champignons-de-paris-de-cyril-lignac-111002.aspx
 https://www.cuisineaz.com/recettes/boeuf-wellington-111516.aspx
@@ -82,19 +82,19 @@ https://www.cuisineaz.com/recettes/gratin-de-poissons-legumes-citronnes-de-cyril
 https://www.cuisineaz.com/recettes/endives-au-jambon-au-maroilles-de-cyril-lignac-110882.aspx
 
 
-leger
+## leger
 https://www.cuisineaz.com/recettes/veloute-de-carottes-parfume-au-curcuma-110048.aspx
 https://www.cuisineaz.com/recettes/soupe-au-pistou-de-cyril-lignac-110958.aspx
 https://www.cuisineaz.com/recettes/minestrone-de-legumes-de-cyril-lignac-110948.aspx
 https://www.cuisineaz.com/recettes/oeufs-benedicte-pancakes-au-sarrasin-111493.aspx
 
-amuse bouche
+## amuse bouche
 https://www.cuisineaz.com/recettes/pain-surprise-au-saumon-fume-creme-aux-herbes-111508.aspx
 https://www.cuisineaz.com/recettes/falafels-de-cyril-lignac-111001.aspx
 https://www.cuisineaz.com/recettes/blinis-de-pommes-de-terre-creme-acidulee-truite-fumee-110159.aspx
 https://www.cuisineaz.com/recettes/houmous-de-cyril-lignac-111000.aspx
 
-dessert
+## dessert
 https://www.cuisineaz.com/recettes/tiramisu-a-la-chicoree-de-cyril-lignac-110883.aspx
 https://www.cuisineaz.com/recettes/soupe-au-chocolat-110145.aspx
 https://www.cuisineaz.com/recettes/souffle-glace-aux-poires-111510.aspx
