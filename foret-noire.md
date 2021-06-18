@@ -1,37 +1,42 @@
 # Genoise
 
-| ingrédient | poids    | original    |
-| :--------- | :------- | :---------- |
-| farine     | 70g      |             |
-| cacao      | 20g      |             |
-| cassonade  | 66g      | 90g (sucre) |
-| oeuf       | 150g (3) |             |
+- farine    :   70g
+- cacao     :   20g
+- cassonade :   66g (original: 90g = poids farine + cacao)
+- oeuf      :   150g (3)
+
 
 Remarque : 
 - farine + cacao = 90g au total
-- recette original : sucre à 90g (au lieu de cassonade)
+- modification à la recette original : 
+    - sucre au lieu de cassonade
+    - poids sucre = poids farine + cacao 
 
 recette : https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/ 
 
 # Chantilly
-200ml crème liquide fleurette 
-16g sucre (mercotte: 40g, livre 30g) 
+- crème liquide :   200ml
+- sucre         :   16g (mercotte: 40g, livre 30g) 
 
-(150ml creme, 15g sucre, 15g vanillé)
+remarque : 
+- préférer crème liquide fleurette
 
+
+conseils : 
 - foutter à vitesse faible, puis augmenter la vitesse
 - en fin de parcours, incorporer le solide tout en fouettant
 
-https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%e2%80%99amandes/
+recette: https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%e2%80%99amandes/
+
 
 # Ganache crémeuse
-125g lait
-32g jaunes d'oeuf (norm. 25g)
-12g sucre
-60g chocolat noir
+- lait          :   125g
+- jaune oeuf    :   32g (original 25g)
+- sucre         :   12g
+- chocolat noir :   60g 
 
 # chablon
-20g choco
+- 20g choco
 
 # Punch
 sans sucre
