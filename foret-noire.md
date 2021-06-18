@@ -1,9 +1,9 @@
 # Genoise
 
-|ingrédient|poids|
-|:-|:-|
-|farine|70g|
-|cassonade|66g|
+| ingrédient | poids |
+| :--------- | :---- |
+| farine     | 70g   |
+| cassonade  | 66g   |
 
 70g farine + 20g cacao (90g au total)
 66g cassonade (sucre normalement 90g)
