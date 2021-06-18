@@ -1,13 +1,15 @@
 # Genoise
 
-| ingrédient | poids |
-| :--------- | :---- |
-| farine     | 70g   |
-| cassonade  | 66g   |
+| ingrédient | poids    | original    |
+| :--------- | :------- | :---------- |
+| farine     | 70g      |             |
+| cacao      | 20g      |             |
+| cassonade  | 66g      | 90g (sucre) |
+| oeuf       | 150g (3) |             |
 
-70g farine + 20g cacao (90g au total)
-66g cassonade (sucre normalement 90g)
-150g oeuf
+Remarque : 
+- farine + cacao = 90g au total
+- recette original : sucre à 90g (au lieu de cassonade)
 
 recette : https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/ 
 
