@@ -1,0 +1,11 @@
+# Creme diplomate
+- crème patissiere
+    - lait          :   400ml
+    - jaune d'oeuf  :   64g
+    - sucre         :   64g (ou 48g ??)
+    - fecule maïs   :   35g
+    - vanille       :   1 gousse
+- gelatine          :   6,4g (1 feuille = 2g)
+- crème montée
+    - crème liquide :   160g
+    - mascarpone    :   106g
