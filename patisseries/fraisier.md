@@ -1,5 +1,14 @@
 Voir aussi la recette de https://www.lespatisseriesdaurelien.fr/2020/04/15/fraisier/
 
+Pour la prochaine
+==================
+
+- ajouter un peu de sucre dans la crème
+- (mettre 2 gousses de vanilles ?)
+- battre un peu plus la crème (trop liquide)
+
+
+
 # Dimension
 - cercle 20cm
 
@@ -26,7 +35,7 @@ recette : https://www.mercotte.fr/2019/05/01/
     - lait          :   400ml
     - vanille       :   1 gousse
     - jaune d'oeuf  :   64g (3) 
-    - sucre         :   50g --> parfait 
+    - sucre         :   50g --> 65g ? (la crème est bien, mais dans le tout, c'est pas assez)
     - fecule maïs   :   35g
 - gelatine          :   6g (orig. 6,4g)
 - crème montée
