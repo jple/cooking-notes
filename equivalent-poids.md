@@ -12,10 +12,12 @@ sel: 1 cuillère à café pour 5 g
 | miel        |      7g      |      21g      |
 | sucre       |      7g      |      21g      |
 
-| Ingrédients  | Poids |
-| :----------- | :---: |
-| Oeuf         |  55g  |
-| Oeuf (blanc) |  35g  |
-| Oeuf (jaune) |  20g  |
+| Ingrédients      | Poids |
+| :--------------- | :---: |
+| Oeuf             |  55g  |
+| Oeuf (blanc)     |  35g  |
+| Oeuf (jaune)     |  20g  |
+| jus citron jaune |  70g  |
+| jus citron vert  |  35g  |
 
 25 g de levure fraîche = 7g de levure déshydratée = 1 sachet
