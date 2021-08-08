@@ -3,21 +3,21 @@
 20 biscuits
 
 |                      | toque | qq gr |  bulle  | jdf  |  regal  |    perle     |   dim   |  test   |
-| :------------------: | :---: | :---: | :-----: | :--: | :-----: | :----------: | :-----: | :-----: |
-|   farine chataigne   |       |       |         |  80  |         |              |         |         |
-|   farine sarrazin    |       |       |         |  70  |         |              |         |         |
-|        farine        |  150  |       |   125   |  50  |   125   |     100      |   125   |   125   |
-|      farine T80      |       |  125  |         |      |   75    |              |         |         |
-|     farine T110      |  50   |       |         |      |         |     100      |   75    |   75    |
+| :------------------- | :---: | :---: | :-----: | :--: | :-----: | :----------: | :-----: | :-----: |
+| farine chataigne     |       |       |         |  80  |         |              |         |         |
+| farine sarrazin      |       |       |         |  70  |         |              |         |         |
+| farine               |  150  |       |   125   |  50  |   125   |     100      |   125   |   125   |
+| farine T80           |       |  125  |         |      |   75    |              |         |         |
+| farine T110          |  50   |       |         |      |         |     100      |   75    |   75    |
 | flocon avoine (mixé) |  30   |  125  |   75    |      |         |              |         |         |
-|      cassonade       |  70   |  60   |   40    |  50  |   60    |      50      |   60    |   40    |
-|        beurre        |  80   |  125  |   75    |  80  |   75    |      75      |   75    |   75    |
-|         oeuf         |   1   |   1   |         |  1   |         |              |         |         |
-|        bicarb        | 1 cac | 1 cac | 1/2 cac | 1cac |         |              |         |         |
-|        levure        |       |       |         |      |   3g    | 3g (1/4 cac) |   3g    |   3g    |
-|        choco         |  150  |  200  |   150   | 100  |   150   |     150      |   150   |   150   |
-|         eau          |       |       |   40    |      |  5 cas  |    5 cas     |  5 cas  |  5 cas  |
-|         sel          |       |       |         | oui  | 1/2 cac |   1/2 cac    | 1/2 cac | 1/2 cac |
+| cassonade            |  70   |  60   |   40    |  50  |   60    |      50      |   60    |   40    |
+| beurre               |  80   |  125  |   75    |  80  |   75    |      75      |   75    |   75    |
+| oeuf                 |   1   |   1   |         |  1   |         |              |         |         |
+| bicarb               | 1 cac | 1 cac | 1/2 cac | 1cac |         |              |         |         |
+| levure               |       |       |         |      |   3g    | 3g (1/4 cac) |   3g    |   3g    |
+| choco                |  150  |  200  |   150   | 100  |   150   |     150      |   150   |   150   |
+| eau                  |       |       |   40    |      |  5 cas  |    5 cas     |  5 cas  |  5 cas  |
+| sel                  |       |       |         | oui  | 1/2 cac |   1/2 cac    | 1/2 cac | 1/2 cac |
 
 
 # Recette
