@@ -32,15 +32,13 @@
 
 - faire fondre choco au bain marie
 - étaler choco sur gateau
-- motifs avec couteau / fourchette
+- attendre 2-3mn, puis faire motifs avec couteau / fourchette
 - éventuellement mettre au frais pour prendre plus vite
 
 # Références
 
 http://toquedechoc.com/2015/05/granola-ou-mc-vities-maison/
-   beurre demi-sel mou
 https://www.quelquesgrammesdegourmandise.com/biscuits-granola-faits-maison/
-    beurre demi sel
 https://www.bulle-de-patisserie.fr/biscuits-granola-maison
 https://cuisine.journaldesfemmes.fr/recette/349025-biscuits-granola-maison
 https://perleensucre.com/biscuits-granola-maison/
