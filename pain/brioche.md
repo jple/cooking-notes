@@ -9,7 +9,7 @@
 
 | Ingrédients    | Poids | Poids bis               | essai 1 | essai 2         | à tester  |
 | :------------- | :---- | :---------------------- | ------- | --------------- | --------- |
-| Farine         | 1000  | 250                     | 500     | 500             | 500       |
+| Farine T65     | 1000  | 250                     | 500     | 500             | 500       |
 | sucre          | 100   | 25                      | 25      | 50              | 60      ! |
 | oeuf           | 500   | 125                     | 125     | 125             | 250       |
 | Beurre (froid) | 500   | 125                     | 125     | 125             | 125       |
@@ -22,13 +22,17 @@
 5
 
 Remarque
-    Il est important de travailler la pâte longuement (entre 15 et 20 minutes au robot, deux fois plus à la main) afin de permettre à la farine de bien incorporer tous les ingrédients et d’avoir une pâte légère et aérée au maximum. 
+    Il est important de travailler la pâte "longuement" (entre 15 et 20 minutes au robot, deux fois plus à la main) afin de permettre à la farine de bien incorporer tous les ingrédients et d’avoir une pâte légère et aérée au maximum. 
 
 
 Autolyse (optionnel)
     mélanger eau + farine
     pétrir rapidement (5mn)
+    filmer au contact 
     laisser reposer 45mn (< 1h)
+
+    permet de préparer le réseaux glutineux
+    la pate de vient plus elastique
 
 Préparation
     préparer levure + eau/lait
