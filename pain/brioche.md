@@ -7,29 +7,44 @@
 - http://roseandcook.canalblog.com/archives/2012/10/02/25232149.html
 
 
-| Ingrédients    | Poids | Poids bis               | essai 1 | essai 2         | à tester  |
-| :------------- | :---- | :---------------------- | ------- | --------------- | --------- |
-| Farine T65     | 1000  | 250                     | 500     | 500             | 500       |
-| sucre          | 100   | 25                      | 25      | 50              | 60      ! |
-| oeuf           | 500   | 125                     | 125     | 125             | 250       |
-| Beurre (froid) | 500   | 125                     | 125     | 125             | 125       |
-| Levure         | 20    | ~~5~~ (3g levure sèche) |         | 7g levure deshy | 7g        |
-| sel            | 15    | 3,75                    |         |                 | 1 cac     |
-| Eau (levure)   | 50g   | 12,5g                   | 125     | 125             |           |
-| lait (levure)  | 50g   | 12,5g                   | 125     | 125             | 4cas      |
+| Ingrédients    | merco        | merco-sansoupap | bis              | breizh     | dumiel (essai 3) | essai 1 | essai 2         | à tester  |
+| :------------- | :----------- | :-------------- | :--------------- | :--------- | :--------------- | ------- | --------------- | --------- |
+| Farine T65     | 260          | 1000            | 250              | 500        | 500              | 500     | 500             | 500       |
+| sucre          | 28           | 100             | 25               | 50         | 50               | 25      | 50              | 60      ! |
+| oeuf           | 150          | 500             | 125              | 3          | 5 oeufs (225g)   | 125     | 125             | 250       |
+| Beurre (froid) | 210          | 500             | 125              | 250        | 250              | 125     | 125             | 125       |
+| Levure         | 10 (fraîche) | 20              | ~~5~~ (3g sèche) | 6g (seche) | 18g (fraîche)    |         | 7g levure deshy | 7g        |
+| sel            | 6            | 15              | 3,75             | 10         | 12               |         |                 | 1 cac     |
+| Eau (levure)   |              | 50g             | 12,5g            |            |                  | 125     | 125             |           |
+| lait (levure)  | 15g          | 50g             | 12,5g            | 180g       | 50cl             | 125     | 125             | 4cas      |
+
+
+DUMIEL : TROP DE LAIT !!!
+<details>
+| Ingrédients    | dumiel (essai 3) | bis  | test       |
+| :------------- | :--------------- | :--- | :--------- |
+| Farine T65     | 500              | 250  | 250        |
+| sucre          | 50               | 25   | 25         |
+| oeuf           | 5 oeufs (225g)   | 110g | 110g       |
+| Beurre (froid) | 250              | 125  | 125        |
+| Levure         | 18g (fraîche)    | 9g   | 3g (sèche) |
+| sel            | 12               | 6    | 6          |
+| Eau (levure)   |                  |      |            |
+| lait (levure)  | 50cl             | 25   | 25         |
+</details>
 
 25 g de levure fraîche = 7g de levure déshydratée.
-5
 
 Remarque
-    Il est important de travailler la pâte "longuement" (entre 15 et 20 minutes au robot, deux fois plus à la main) afin de permettre à la farine de bien incorporer tous les ingrédients et d’avoir une pâte légère et aérée au maximum. 
+    - Il est important de travailler la pâte "longuement" (entre 15 et 20 minutes au robot, deux fois plus à la main) afin de permettre à la farine de bien incorporer tous les ingrédients et d’avoir une pâte légère et aérée au maximum. 
+    - essai 1 vient d'une erreur initiale dans les quantités. Ca a abouti à un résultat plutôt sympa
 
 
 Autolyse (optionnel)
     mélanger eau + farine
     pétrir rapidement (5mn)
     filmer au contact 
-    laisser reposer 45mn (< 1h)
+    laisser reposer 45mn (< 1h) à l'air
 
     permet de préparer le réseaux glutineux
     la pate de vient plus elastique
@@ -43,15 +58,15 @@ Petrissage
     dans cuve : farine, 2/3 sucre, sel
         melanger avec la levure, eau/levure
         ajouter 2/3 oeufs
-        pétrir 2mn
+            pétrir 2mn
         dès que la pate décolle, ajouter oeufs
-        pétrir 4mn
+            pétrir 4mn
         dès que la pate décolle
     couper beurre en dés
         ajouter beurre
-        pétrir (*)
+            pétrir (*)
         lorsque beurre incorporé
-        ajouter reste sucre poursuivre 7mn
+            ajouter reste sucre poursuivre 7mn
         pate décollé
 
 (*) Eviter de trop pétrir une fois que l’on incorpore le beurre, arrêter dès que la pâte est lisse
