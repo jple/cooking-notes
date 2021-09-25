@@ -1,4 +1,4 @@
-# pate a choux
+## pate a choux
 
 | ingrédients | book    | moi | you | you-calc | merc | merc-calc | test |
 | :---------- | :------ | :-- | :-- | :------- | :--- | :-------- | :--- |
@@ -30,6 +30,25 @@ Portez lentement à frémissements l’eau le sel le sucre et le beurre. si l’
 La pâte à choux : vous pouvez utiliser 250g d’eau ou  2/3 eau et 1/3 lait. Classiquement le poids des oeufs doit être égal au poids de liquide. Après avoir incorporé la farine en une seule fois et hors du feu,  bien dessécher le mélange remis sur le feu pour avoir des choux légers et gonflés. Attention, si vous desséchez trop vos choux risquent d’éclater à la cuisson. Pour obtenir la bonne consistance finale : mettre le pâton dans le robot muni du fouet plat, faire tourner un peu pour le refroidir avant d’incorporer les œufs légèrement battus à vitesse moyenne. Si vous n’avez pas de robot transvaser la pâte dans un cul de poule et incorporer les œufs petit à petit à la cuillère en bois. Arrêter de mélanger quand la pâte a un aspect satiné.  Si vous tracez une ligne avec votre doigt dans la pâte le sillon doit se refermer. Prenez soin de préparer à l’avance vos plaques recouvertes d’un tapis silpat ou de papier cuisson ainsi que votre poche à douille, cette pâte n’attends pas, elle se dresse encore tiède. Par contre vous pouvez la dresser tiède dans des demi sphères en silicone de 2.5cm et les congeler.  Il faudra les démouler sur votre plaque de cuisson et les laisser revenir à T° avant de les enfourner. Les choux seront ainsi tous identiques.
 Les choux préparés uniquement à l’eau restent plus secs et se conservent mieux. Avec le mélange lait et eau, il peut arriver qu’ils dégonflent à la cuisson et ils ont parfois tendance à ramollir. En fait je trouve que si l’on veut obtenir un développement régulier et un gros vide il est préférable de faire la pâte à base d’eau, on limite les risques.
 La cuisson : Préférer la chaleur statique ou convection naturelle en opposition à la chaleur tournante, je trouve que le résultat est plus satisfaisant, mais une fois encore cela dépend de votre four donc si ça marche mieux en chaleur tournante ne changez rien. Vous pouvez également chauffer très fortement votre four 220/230°. Quand la température est atteinte, l’éteindre, enfourner les choux ou éclairs, les laisser pousser  et se développer, on le voit à l’oeil, ne me demandez pas combien de temps, puis rallumer le  four à 180° pour terminer la cuisson. 
+
+### recette https://www.youtube.com/watch?v=Xrh4rrD0g5c
+- beurrre, eau, sel, sucre à bouillir
+- hors du feu, ajouter farine, mélanger jusque pate épaisse et homogène
+- désècher la pâte
+    - désécher à feux doux (5mn), jusqu'à ce que lorsqu'on agite la casserole, la pâte s'agglomère toute seule.
+    Elle doit être homogène et légèrement satinée
+        - la pate peut un peu coller le fond
+    - pas assez : pas gonflé
+    - trop : gonflé mais s'ouvrir
+- c'est mtn une panade
+
+- ajouter les oeufs 1 à 1, et incorporer (ou les fouetter avant)
+- la texture doit être lisse, souple, brillante, un peu liquide
+    - en coupant à la spatule, la pâte doit se refermer lentement
+- pour pocher, ne pas tourner
+- 180°, 30mn (une fois formé). Puis baisser à 140°
+<img src="pate-cuite.png">
+
 
 ## crème patissiere
 
