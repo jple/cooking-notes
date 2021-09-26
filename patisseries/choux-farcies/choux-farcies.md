@@ -11,13 +11,18 @@
 | Sel         | 2       |     | 2      | 2           | 4    | 2         |      |          |            |
 
 Résultat
-- test n'a pas marché (il faut bien déhydrater avant les oeufs)
-- 2° essai avec la récette "moi" : pas marché non plus 
-    - à cause de T65 ? je n'avais plus de farine
-    - à cause du fait que cette pate à choux est pour les gougères ? (ie. pas besoin de gonflé)
-- TODO: regarder à nouveau la vidéo "astuce" 
-- TODO? proportion 1, 4, 8, 16
-    - 1L eau, 400g beurre, 800g farine, 16 oeufs (16*70g)
+- 1
+    - test n'a pas marché (il faut bien déhydrater avant les oeufs)
+    - 2° essai avec la récette "moi" : pas marché non plus 
+        - à cause de T65 ? je n'avais plus de farine
+        - à cause du fait que cette pate à choux est pour les gougères ? (ie. pas besoin de gonflé)
+    - TODO: regarder à nouveau la vidéo "astuce" 
+- 2
+    - TODO? proportion 1, 4, 8, 16
+        - 1L eau, 400g beurre, 800g farine, 16 oeufs (16*70g)
+    - resultat : 
+        - plutot bon
+        - four 230° jusqu'au développement (~12mn), puis 180° (~10mn)
 
 test est un mix de "moi" et "book"
 
