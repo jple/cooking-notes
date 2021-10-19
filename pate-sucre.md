@@ -10,3 +10,8 @@
 - Hermé, Cyril Lignac et Benoit Couvrand : https://www.mercotte.fr/generalites-sur-les-pates-astuces-et-tours-de-main/
 - https://www.lespatisseriesdaurelien.fr/2020/04/25/tutoriel-foncage-pate/
 - https://www.iletaitunefoislapatisserie.com/2019/01/recette-de-la-pate-sucree-facon.html
+
+# Quantité
+- cercle ou un moule de 16 cm, il faut 140g de pâte, 
+- un de 22cm, 200g de pâte et ainsi de suite….
+- toujours 20g de moins que la taille choisie!
