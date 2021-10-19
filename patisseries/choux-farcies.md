@@ -61,6 +61,26 @@ La cuisson : Préférer la chaleur statique ou convection naturelle en oppositio
 | maizena     | 50         |      | 10     |
 | chocolat    | 120        | 30 ? |        |
 
+pour 200g de crème
+| ingrédients | book | moi  | mercot |
+| :---------- | :--- | :--- | :----- |
+| lait        | 125  | 125  | 125    |
+| jaune oeuf  | 25g  | 1    | 2      |
+| sucre       | 30   | 15   | 25     |
+| farine      |      | 15   | 5      |
+| maizena     | 12,5 |      | 5      |
+| chocolat    | 30   | 30 ? |        |
+
+pour 400g de crème
+| ingrédients | book | moi  | mercot |
+| :---------- | :--- | :--- | :----- |
+| lait        | 250  | 250  | 250    |
+| jaune oeuf  | 50g  | 2    | 4      |
+| sucre       | 60   | 30   | 50     |
+| farine      |      | 30   | 10     |
+| maizena     | 25   |      | 10     |
+| chocolat    | 60   | 60 ? |        |
+
 astuce
 - https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%E2%80%99amandes/
 - https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
