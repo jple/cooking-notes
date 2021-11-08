@@ -1,0 +1,4 @@
+- pain frit : damfnudeles
+- pain vapeur
+    - man tou / baozi(nord chine : sans lait/sucre, Sud : avec)
+    - voir https://fr.wikipedia.org/wiki/Baozi pour les variantes
