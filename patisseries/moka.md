@@ -1,15 +1,18 @@
 Revoir les proportions
 
+Pour moule 16cm
+
 # Genoise
-- farine    :   100g
-- cassonade :   50g (original = poids farine)
-- oeuf      :   150g (3)
+- farine    :   66g
+- cassonade :   17g (original = poids farine)
+- oeuf      :   50g 
 
 # creme mousseline (normalement creme au beurre)
-Pour 200g de crème
+Pour 600g de crème
 - creme patissiere
-    - lait: 125g
-    - jaune oeuf: 1
-    - sucre: 15g
-    - farine: 15g
-- beurre pommade: 25g
+    - lait          : 375g
+    - jaune oeuf    : 3
+    - sucre         : 45g
+    - farine        : 45g
+- beurre pommade    : 75g
+
