@@ -78,14 +78,14 @@ source principale :
 | chocolat    | 120        | 30 ? |        |
 
 pour 200g de crème
-| ingrédients | book | moi  | mercot |
-| :---------- | :--- | :--- | :----- |
-| lait        | 125  | 125  | 125    |
-| jaune oeuf  | 25g  | 1    | 2      |
-| sucre       | 30   | 15   | 25     |
-| farine      |      | 15   | 5      |
-| maizena     | 12,5 |      | 5      |
-| chocolat    | 30   | 30 ? |        |
+| ingrédients | book | moi     | mercot  |
+| :---------- | :--- | :------ | :------ |
+| lait        | 125  | 125     | 125     |
+| jaune oeuf  | 25g  | 20g (1) | 40g (2) |
+| sucre       | 30   | 15      | 25      |
+| farine      |      | 15      | 5       |
+| maizena     | 12,5 |         | 5       |
+| chocolat    | 30   | 30 ?    |         |
 
 pour 400g de crème
 | ingrédients | book | moi  | mercot |
