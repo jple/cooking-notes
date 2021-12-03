@@ -9,11 +9,12 @@ Pour moule 16cm
 
 
 
-- préparer bain marie
-- mettre oeufs + sucre dans un cul-de-poule 
-- lorsque eau frémissante, mettre le cul-de-poule dessus, et battre jusque 40°C-50°C (sans dépasser 50°C) --> ~5mn
+- (opt) préparer bain marie
     - si on monte à froid à petites quantité : petites bulles d’air, une mie serrée et une texture moelleuse
     - si on monte à chaud en grande quantité : grosses bulles d’air et une texture plus sèche.
+- mettre oeufs + sucre dans un cul-de-poule 
+- lorsque eau frémissante, mettre le cul-de-poule dessus, et battre jusque 40°C-50°C (sans dépasser 50°C) --> ~5mn
+
 - battre jusque refroidissement --> "ça doit faire un ruban" (voir book)
 - incorporer la farine à la maryse
 - couler aussitôt dans le moule en étalant à la spatule
