@@ -28,7 +28,7 @@ Pour la prochaine
 - modification à la recette original : 
     - sucre au lieu de cassonade
 
-recette : https://www.mercotte.fr/2019/05/01/
+recette : https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/
 
 # Creme diplomate
 - crème patissiere
