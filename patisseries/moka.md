@@ -43,7 +43,7 @@ alors que pour un moule à 16cm, on serait à 1/2
 Pour 200g de crème ?
 - creme patissiere
     - lait          : 125g
-    - jaune oeuf    : 2&
+    - jaune oeuf    : 1
     - sucre         : 20g (15g c'est tout juste, voire manque un peu de sucré)
     - farine        : 15g
     - café          : 2,5g
@@ -62,6 +62,7 @@ Pour 200g de crème ?
     - tout remettre à la casserole
     - mélanger, jusque épaississement (1mn30 ?)
 - débarrasser, laisser refroidir, filmer au contact et mettre au frigo
+    - --> crème et beurre à la même température ?
 - à tester:
     - fouetter le beurre, et incorporer la crème
 - essai 1
