@@ -68,3 +68,4 @@ Pour 200g de crème ?
 - essai 1
     - fouetter crème 3-5 mn
     - incorporer le beurre tout en fouettant 
+- une fois homogène, continuer à foutettes un peu 5mn ?
