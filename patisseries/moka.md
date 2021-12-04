@@ -4,8 +4,8 @@ Pour moule 16cm
 
 # Genoise
 - farine    :   66g
-- cassonade :   17g (original = poids farine)
-- oeuf      :   50g 
+- cassonade :   33g (original = poids farine)
+- oeuf      :   100g (2)
 
 
 
