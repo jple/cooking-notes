@@ -1,11 +1,12 @@
 Revoir les proportions
 
-Pour moule 16cm
+Attention : recette à 2/3 d'un moule de 24cm
+alors que pour un moule à 16cm, on serait à 1/2
 
 # Genoise
-- farine    :   66g
-- cassonade :   33g (original = poids farine)
-- oeuf      :   100g (2)
+- farine    :   33g
+- cassonade :   17g (original = poids farine)
+- oeuf      :   50g (1)
 
 
 
@@ -39,14 +40,20 @@ Pour moule 16cm
     - La matière grasse : la quantité de MG agit directement sur le volume et le gonflement de la pâte. Plus elle est importante, moins la génoise sera aérée après cuisson. La matière grasse fixe les arômes, agit sur la coloration et apporte aussi du moelleux à la pâte, freine son dessèchement, elle se conserve plus longtemps.
 
 # creme mousseline (normalement creme au beurre)
-Pour 600g de crème
+Pour 200g de crème ?
 - creme patissiere
-    - lait          : 375g
-    - jaune oeuf    : 3
-    - sucre         : 45g
-    - farine        : 45g
-    - café
-- beurre pommade    : 75g
+    - lait          : 125g
+    - jaune oeuf    : 2&
+    - sucre         : 20g (15g c'est tout juste, voire manque un peu de sucré)
+    - farine        : 15g
+    - café          : 2,5g
+- beurre pommade    : 50g ?
+
+- remarque: 
+    - mercotte dit poids du beurre = 1/2 poids de la crème patissière https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%e2%80%99amandes/
+    - éventuellement, on peut compter beurre = 1/2 poids du lait https://devenirpatissier.fr/creme-mousseline/
+    - beurre = 2/5 de lait https://chefsimon.com/gourmets/chef-simon/recettes/creme-mousseline--3
+  
 
 - realiser la creme patissiere
     - blanchir jaune avec sucre, puis farine
@@ -55,5 +62,8 @@ Pour 600g de crème
     - tout remettre à la casserole
     - mélanger, jusque épaississement (1mn30 ?)
 - débarrasser, laisser refroidir, filmer au contact et mettre au frigo
-- fouetter 3-5 mn
-- incorporer le beurre tout en fouettant
+- à tester:
+    - fouetter le beurre, et incorporer la crème
+- essai 1
+    - fouetter crème 3-5 mn
+    - incorporer le beurre tout en fouettant 
