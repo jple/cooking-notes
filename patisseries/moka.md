@@ -18,8 +18,10 @@ alors que pour un moule à 16cm, on serait à 1/2
 
 - battre jusque refroidissement --> "ça doit faire un ruban" (voir book)
 - incorporer la farine à la maryse
+    - la tamiser ! (super important)
 - couler aussitôt dans le moule en étalant à la spatule
 - four 180°C 15-25mn
+    - la durée dépend de l'épaisseur : si c'est directement sur la plaque : 5-8mn
 - démouler à chaud pour éviter humidité du fond
 - une fois refroidi, filmer pour éviter le déssèchement
 
@@ -44,10 +46,11 @@ Pour 200g de crème ?
 - creme patissiere
     - lait          : 125g
     - jaune oeuf    : 1
+        - à tester : oeuf entier? 
     - sucre         : 20g (15g c'est tout juste, voire manque un peu de sucré)
     - farine        : 15g
-    - café          : 2,5g
-- beurre pommade    : 50g ?
+    - café          : 2,5g (--> 2g ?)
+- beurre pommade    : 50g
 
 - remarque: 
     - mercotte dit poids du beurre = 1/2 poids de la crème patissière https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%e2%80%99amandes/
@@ -63,9 +66,5 @@ Pour 200g de crème ?
     - mélanger, jusque épaississement (1mn30 ?)
 - débarrasser, laisser refroidir, filmer au contact et mettre au frigo
     - --> crème et beurre à la même température ?
-- à tester:
-    - fouetter le beurre, et incorporer la crème
-- essai 1
-    - fouetter crème 3-5 mn
-    - incorporer le beurre tout en fouettant 
+- fouetter le beurre, et incorporer la crème en plusieurs fois
 - une fois homogène, continuer à foutettes un peu 5mn ?
