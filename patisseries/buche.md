@@ -22,4 +22,11 @@
   
 # Mousse
 - quantité du bouquin
-- sucre : 10g ?
+- sucre : 10g --> 0g si choco lait ?
+
+- trop de chocolat...
+
+Par manque de choco lait, on a fait
+- 260g choco lait
+- le reste choco noir
+--> résultat plutôt bien, mais trop chocolaté
