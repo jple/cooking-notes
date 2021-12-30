@@ -10,6 +10,21 @@
 - De cannelle
 - De muscade
 
+# alternative: ras el hanout
+- 1 cuillère à café de sel
+- 1 cuillère à café de cumin moulu
+- 1 cuillère à café de gingembre en poudre
+- 1 cuillère à café de curcuma en poudre
+- 3/4 cuillère à café de cannelle en poudre
+- 3/4 cuillère à café de poivre noir moulu
+- 1/2 cuillère à café de poivre blanc moulu
+- 1/2 cuillère à café de coriandre moulue
+- 1/2 cuillère à café de piment de Cayenne
+- 1/2 cuillère à café de bois d’Inde (poivre de la Jamaïq)
+- 1/2 cuillère à café de muscade en poudre
+- 1/4 cuillère à café de clous de girofle en poudre
+
+
 # ingrédient
 10 personnes
 
