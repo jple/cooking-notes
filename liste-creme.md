@@ -6,3 +6,7 @@
     - fromage gras à pâte fraîche
     - empresurage (chauffe l'eau jusque 35°C, puis acidifié par jus de citron ou vinaigre)... https://fr.wikipedia.org/wiki/Ricotta
     - 
+- fromage blanc
+    - 0%, 20%, 40% de matière grasse est sur l'extrait sec
+    Le vrai pourcentage est 0%, 3.5% et 7%
+    - https://fr.wikipedia.org/wiki/Fromage_blanc
