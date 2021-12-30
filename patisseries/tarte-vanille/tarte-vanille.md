@@ -1,31 +1,31 @@
-# ingrédient
-
 Pour un moule 12x12 cm (3 personnes):
 
-- pate sablée
-    - 100g farine
-    - 35g beurre
-    - 20g sucre glace
-    - 25g oeuf
-    - sel
-- biscuit --> un peu sucré
-    - meringue
-        - 50g blanc d'oeuf
-        - 35g sucre glace --> normal ?
-    - biscuit
-        - 30g amande
-        - 20g sucre
-        - 7g farine
-        - (1/2 gousse vanille)
-- mousse vanille --> pile poil (voire +5g sucre)
-    - creme anglaise
-        - 90g creme liquide
-        - 30g jaune oeuf (3)
-        - 15g sucre
-        - 1 gousse vanille
-        - 2,5g gelatine
-    - creme montée
-        - 90g creme liquide
+# pate sablée
+- 100g farine
+- 35g beurre
+- 20g sucre glace
+- 25g oeuf
+- sel
+
+# biscuit --> un peu sucré
+- meringue
+    - 50g blanc d'oeuf
+    - 35g sucre glace --> normal ?
+- biscuit
+    - 30g amande
+    - 20g sucre
+    - 7g farine
+    - (1/2 gousse vanille)
+
+# mousse vanille --> pile poil (voire +5g sucre)
+- creme anglaise
+    - 90g creme liquide
+    - 30g jaune oeuf (3)
+    - 15g sucre
+    - 1 gousse vanille
+    - 2,5g gelatine
+- creme montée
+    - 90g creme liquide
 
 # Recette
 1. Pate sablée
