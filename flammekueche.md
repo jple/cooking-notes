@@ -4,6 +4,8 @@
 - eau       :   100 ml
 - sel       :   1 pincée
 
+Note : trop trop gras !!!
+
 ## variante 1
 - huile     :   30 ml
 - eau       :   120 ml
