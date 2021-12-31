@@ -24,9 +24,12 @@
 - quantité du bouquin
 - sucre : 10g --> 0g si choco lait ?
 
-- trop de chocolat...
-
 Par manque de choco lait, on a fait
 - 260g choco lait
 - le reste choco noir
 --> résultat plutôt bien, mais trop chocolaté
+
+## remarque pour la prochaine
+- trop de chocolat...
+- trop de mousse : essayer 2/3 de quantité ?
+
