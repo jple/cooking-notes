@@ -5,13 +5,19 @@
 - sel       :   1 pincée
 
 Note : trop trop gras !!!
+Note 2 : j'ai dû me tromper en pesant lors de l'essai
+
+variante testé :
+- huile     :   25 ml (2 cas)
+- eau       :   130 ml
+
+Il faut retesté 50ml
+
 
 ## variante 1
 - huile     :   30 ml
 - eau       :   120 ml
 
-- huile     :   25 ml
-- eau       :   150 ml
 
 - huile     :   1 cas
 - eau       :   150 ml
