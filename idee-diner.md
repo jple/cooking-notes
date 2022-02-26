@@ -20,10 +20,11 @@
     - tomate, courgette, aubergine farcie
     - courge farcie ? https://www.lacuisinedebernard.com/2018/09/kabocha-farcie-au-poulet-chataignes.html
 - mijotée
-    - pot au feu (boeuf legume)
-        - pot au feu
-        - potée normande, campagnarde, flamande
-        - hochepot
+    - pot au feu
+        - pot au feu (base de boeuf)
+        - potée (base de porc, charcut) (=hochepot) normande, campagnarde, flamande, savoyarde, bourguignonne
+        - garbure
+        - poule au pot (base de poulet)
         - kig ha farz
     - carbonnade flamande (bourguignon biere) https://www.lacuisinedebernard.com/2012/01/la-carbonade-flamande.html
     - blanquette de veau
