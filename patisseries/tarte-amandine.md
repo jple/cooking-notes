@@ -1,5 +1,8 @@
 synonymes :
-- tarte amandine
+- tarte bourdaloue
+
+# Recette similaire
+- tarte conversation: https://www.mercotte.fr/2012/11/28/tarte-conversation-recette-trucs-astuces-et-explications/
 
 # Sources
 - recette CAP: https://www.encoreungateau.com/tarte-bourdaloue/
@@ -18,13 +21,13 @@ synonymes :
 - 25g oeuf (~1/2) (ok si on prend plus de blanc pour finir l'oeuf)
 - sel
 
-## crème d'amande
-- beurre pommade : 100g
-- sucre : 80g
-- amande : 120g
-- oeufs : 1
+## crème d'amande (quantité tout juste)
+- beurre pommade : 50g
+- sucre : 40g
+- amande : 60g
+- oeufs : 1/2
 
-- original : 100g de tout
+- original : 50g de tout
 
 
 # Recette
