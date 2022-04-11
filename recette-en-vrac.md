@@ -40,6 +40,20 @@ Couvrez le tout avec 2-3 feuilles de blettes restantes.
 Placez au four à 180-200 °C temps de 40 minutes.
 Servez très chaud avec de la crème fraîche et de la polenta ou comme moi avec du pain Energus10 fait maison.
 
+
+# Gratin dauphinois
+- patate
+- creme liquide
+- lait éventuellement
+
+- couper les patates en rondelles
+- patates + creme + lait
+- couvrir de film alu
+- four 160°C, 1h
+
+
+
+
 # plat traditionnelle chou frisée brême
 Recette à trouver (cuisine du terroir)
 
