@@ -41,7 +41,7 @@ Placez au four à 180-200 °C temps de 40 minutes.
 Servez très chaud avec de la crème fraîche et de la polenta ou comme moi avec du pain Energus10 fait maison.
 
 
-# Gratin dauphinois
+# Gratin dauphinois (rapidos)
 - patate
 - creme liquide
 - lait éventuellement
