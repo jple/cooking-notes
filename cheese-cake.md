@@ -1,0 +1,4 @@
+- https://www.cestmafournee.com/2015/05/le-cheesecakepar-jean-francois-piege.html
+- https://lespetiteschouquettes.wordpress.com/2015/09/09/cheesecake-par-jean-francois-piege-et-ludovic-chaussard-gateau-thoumieux/
+- http://lesateliersdhys.canalblog.com/archives/2012/03/07/23690123.html
+- https://www.mercotte.fr/2010/04/07/cheesecake-a-lananas-le-dessert-de-paques/
