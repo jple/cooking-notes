@@ -60,7 +60,9 @@
     - 250°C, 30mn, diminuer de 20°C 10mn avant la fin, puis 20°C 5mn avant la fin
 
 - source ?
-    - autolyse
+    - autolyse: https://dupainsurlaplancheounourrirsatribu.blog4ever.com/l-autolyse-ou-faire-son-pain-comme-chez-le-boulanger
+        - humidifier la farine avec l'eau (retirer un peu pour la levure)
+        - laisser reposer 30mn
     - 1cac citron 
 
 
