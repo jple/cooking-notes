@@ -1,5 +1,11 @@
 # Source
-https://couteaux-et-tirebouchons.com/coq-au-vin-recette-traditionnelle-gastronomique/
+- recette
+    - [vu](https://couteaux-et-tirebouchons.com/coq-au-vin-recette-traditionnelle-gastronomique/)
+    - [à voir](https://chefsimon.com/gourmets/chef-simon/recettes/coq-au-vin--10)
+- découpe
+    - [cuisse](https://chefsimon.com/gourmets/chef-simon/recettes/decouper-une-volaille-a-cru-en-4-ou-8-morceaux-la-decoupe-des-cuisses)
+    - [flanc](https://chefsimon.com/gourmets/chef-simon/recettes/decouper-une-volaille-a-cru-en-4-ou-8-morceaux-la-decoupe-des-flancs)
+    - [fin](https://chefsimon.com/gourmets/chef-simon/recettes/decouper-une-volaille-a-cru-en-8-morceaux-la-decoupe-pour-poulet-fermier)
 
 # Ingrédients 6p
 - coq et fond
