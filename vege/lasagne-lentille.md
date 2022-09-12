@@ -1,3 +1,7 @@
+# Source
+- https://www.kilometre-0.fr/recettes/lasagnes-aux-lentilles-et-a-la-scarole/
+- https://www.myrtee.fr/?p=7316
+
 # Types de lentille
 - lentille verte : France, bon goût noisette en nature, bonne tenu en cuisson
 - lentille corail : cuisson plus rapide, plus digeste, plus moelleux (voire écrasé), davantage de fibre ?, pour purée et potage
@@ -15,8 +19,6 @@
     - beurre    : 40g
     - ...
     
-- https://www.kilometre-0.fr/recettes/lasagnes-aux-lentilles-et-a-la-scarole/
-- https://www.myrtee.fr/?p=7316
 
 # Recette mieux
 - préparer le coulis de tomate
