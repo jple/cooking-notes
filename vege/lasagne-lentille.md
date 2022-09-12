@@ -22,19 +22,20 @@
 - préparer le coulis de tomate
     - cuire 20mn
     - ne pas trop sécher le liquide (servira pour cuire les lentilles)
-- couper carotte en petite dés
-- les faire griller 5mn à la casserole, feu fort
-- ajouter lentilles vertes, tomate (pulpe, coulis), thym, ail, sel, curcuma
-- cuire à feu moyen ~20mn
-    - les lentilles doivent être quasiment cuit, limite : pas mou, pas croustillants
-    - la fin de cuisson se fera au four
-
+- préparer les lentilles
+    - couper carotte en petite dés
+    - les faire griller 5mn à la casserole, feu fort
+    - ajouter lentilles vertes, tomate (pulpe, coulis), thym, ail, sel, curcuma
+    - cuire à feu moyen ~20mn
+        - les lentilles doivent être quasiment cuit, limite : pas mou, pas croustillants
+        - la fin de cuisson se fera au four
 - couper courgettes en lamelles fines
 - préparer la [bechamel](../bechamel.md)
 
 - montage lasagne
     - lentille, courgette, bechamel, pâte
     - finir par lentille, bechamel, fromage
+
 - four 180°, 20mn
 
 
