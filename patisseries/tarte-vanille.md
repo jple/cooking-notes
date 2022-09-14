@@ -3,25 +3,25 @@ Pour un moule 12x12 cm (3 personnes):
 # pate sablée
 - 100g farine
 - 35g beurre
-- 20g sucre glace
+- 15g sucre roux
 - 25g oeuf (~1/2) (ok si on prend plus de blanc pour finir l'oeuf)
 - sel
 
-# biscuit --> un peu sucré
+# biscuit --> un peu sucré ?
 - meringue
     - 50g blanc d'oeuf (~1-2)
-    - 35g sucre glace (--> normal ?)
+    - 35g sucre glace
 - biscuit
     - 30g amande
-    - 10g sucre --> test 5g
+    - 10g sucre roux
     - 7g farine
     - (1/2 gousse vanille)
 
-# mousse vanille --> pile poil (voire +5g sucre)
+# mousse vanille --> pile poil
 - creme anglaise
     - 90g creme liquide
     - 30g jaune oeuf (~1-2)
-    - 20g sucre (bien !)
+    - 20g sucre roux (bien !)
     - 1 gousse vanille
     - 2,5g gelatine (1 feuille)
 - creme montée

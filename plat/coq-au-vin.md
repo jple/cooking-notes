@@ -63,10 +63,10 @@ Les étapes
 - cuisson
     - faire revenir les lardons, jusque dorée
     - les retirer et réserver
+    - faire revenir le coq (avec huile si besoin), puis réserver
     - faire revenir oignons et ail
-    - mettre le coq + déglacer au cognac
-    - ajouter marinade
-    - compléter à hauteur avec fond de coq
+    - remettre le coq + déglacer au cognac
+    - ajouter marinade, et compléter à hauteur avec fond de coq
     - mijoter 1h45 (à couvert 1h, puis ouvert pour réduire)
 - optionnel : croustiller la peau du coq
     - sortir les morceaux de coq
