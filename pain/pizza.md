@@ -16,3 +16,16 @@ levure déhydratée
 [2]: https://www.jujube-en-cuisine.fr/faire-sa-pate-a-pizza-maison/
 [3]: https://www.papillesetpupilles.fr/2018/04/pate-a-pizza-epaisse-et-moelleuse.html/
 [4]: https://www.undejeunerdesoleil.com/2012/10/la-pate-pizza-du-pizzaiolo-2-recettes-4_17.html
+
+moi : OK
+manque version Francine
+
+# Pizza allégé en farine (moins lourd)
+- farine :
+    - 154g farine blé
+    - 71g de sarrazin
+
+# Pizza à la pôele
+- sur poêle huilée, feu doux, faire dorer la pâte (5mn)
+- la retourner et mettre de suite la garniture, et couvrir
+- (sinon au grill)
