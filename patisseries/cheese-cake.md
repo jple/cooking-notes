@@ -38,9 +38,10 @@
     - 180 g de mascarpone
     - 40g de sucre
     - 1 c-à-c de vanille liquide
-- Base biscuit
-    - 125 g de biscuits type Spéculoos ou palets bretons
-    - 30g de beurre fondu
+- Base biscuit (éventuellement 3/4)
+    - 250 g de biscuits type Spéculoos ou palets bretons
+    - 60g de beurre fondu
+    - **Attention** ça semble pas assez coller
 - (Option) Marmelade de framboise
     - 120 g de framboises surgelées
     - 2 c-à-s de sucre à confiture (ou sucre cristallisé)
