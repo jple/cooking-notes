@@ -21,7 +21,7 @@
 
 # Recette
 - Préparation du biscuit
-    - Mélanger les farines, levure, sel, sucre
+    - Mélanger les farines (et noisettes), levure, sel, sucre
     - Ajouter beurre --> sabler
     - Ajouter l'eau froide --> uniforme
     - Etaler grossièrement
