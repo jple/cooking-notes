@@ -27,8 +27,9 @@ manque version Francine
 # Pizza
 
 ## Ingrédients
-- farine        : 155g
-- sarrazin      : 70g
+- les farines (225g)
+    - blé       : 155g
+    - sarrazin  : 70g
 - eau           : 125g
 - levure (*)    : 1/2 sachet
 - huile         : 2 cuillère à soupe
