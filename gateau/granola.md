@@ -22,12 +22,11 @@
 # Recette
 - Préparation du biscuit
     - Mélanger les farines (et noisettes), levure, sel, sucre
-    - Ajouter beurre --> sabler
-    - Ajouter l'eau froide --> uniforme
-    - Etaler grossièrement
-    - (opt) Filmer la pâte au contact --> 2h au froid
+    - Ajouter beurre --> Sabler la pâte
+    - Ajouter l'eau froide --> pétrir jusqu'à obtenir une pâte homogène
+    - (opt) Etaler grossièrement, filmer la pâte au contact --> mettre 2h au froid
     - Etaler la pâte 5mm, emporte-piécer ou découper au couteau
-    - Enfour 180°C, 15mn (biscuit "mou") - 20mn (biscuit sec)
+    - Enfour 180°C, pendant 15mn (pour biscuit "mou") - 20mn (pour biscuit sec)
     - Laisser refroidir sur une grille
 
 - Préparation du chocolat
