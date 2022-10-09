@@ -4,11 +4,11 @@
 - biscuit
     - les farines (200g)
         - farine T45    : 125g
-        - farine T110   : 75g (à tester 65g ?)
+        - farine T110   : 75g
     - (opt) noisette concassé : 20g
     - sucre (cassonade) : 40g
     - levure            : 3g
-    - beurre froid      : 75g   (**à tester 65g**)
+    - beurre froid      : 75g  (**à tester 65g**)
     - eau               : 40ml
     - sel               : 1/2 c-à-café
 
