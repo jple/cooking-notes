@@ -1,3 +1,6 @@
+# Pleins de recettes
+https://www.auxdelicesdupalais.net/cat/pain
+
 # Notes
 
 - eau entre 58%-75% d'eau
