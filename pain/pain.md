@@ -1,45 +1,48 @@
 # Pleins de recettes
 https://www.auxdelicesdupalais.net/cat/pain
 
-# Notes
 
+# Techniques
+## Quantité
 - eau entre 58%-75% d'eau
 - levure : biga, poolish, levain
 
-- étape : 
-    - frasage : mélange des ingrédients homogène (éventuellement autolyse ici) --> consistance
-    - pétrissage --> développe les qualités plastiques (étirage fleurage soufflage ???)
-    - pointage : 1° fermentation
-    - opt
-        - divisage : on découpe la pate en plusieurs pains
-        - boulage : former les boules (2:22 https://www.youtube.com/watch?v=-QrgsQWOPHU)
-            - mettre le pouce au milieu
-            - rabattre le bord du paton vers le centre
-            - tourner le paton
-            - poursuivre jusqu'à ce qu'on a tout rabattu (10x)
-            - retourner le paton
-            - augmenter l'aspect rond : 
-                - enfourcher les doigts en dessous du paton plusieurs fois pour dégager le centre
-                - "travailler de gauche à droite" (faire translater la boule en enfourchant...)
-                - en fait, il faut pas forcer...
-        -  detente : repos et fermentation
-    - façonnage
-    - apprêt : 2° période de repos
-    - cuisson
+## Les étapes 
+- frasage : mélange des ingrédients homogène (éventuellement autolyse ici) --> consistance
+- pétrissage --> développe les qualités plastiques (étirage fleurage soufflage ???)
+- pointage : 1° fermentation
+- opt
+    - divisage : on découpe la pate en plusieurs pains
+    - boulage : former les boules (2:22 https://www.youtube.com/watch?v=-QrgsQWOPHU)
+        - mettre le pouce au milieu
+        - rabattre le bord du paton vers le centre
+        - tourner le paton
+        - poursuivre jusqu'à ce qu'on a tout rabattu (10x)
+        - retourner le paton
+        - augmenter l'aspect rond : 
+            - enfourcher les doigts en dessous du paton plusieurs fois pour dégager le centre
+            - "travailler de gauche à droite" (faire translater la boule en enfourchant...)
+            - en fait, il faut pas forcer...
+    -  detente : repos et fermentation
+- façonnage
+- apprêt : 2° période de repos
+- cuisson
 
-- pourquoi 2 fermentations : https://brunomasson.net/index.php?static10/panification
-    - plus il y a repos, plus y a goût
-    - mais trop de repos tue la l'élasticité de gluten, et le pain retombe
-    - solution : 2 fermentations, avec ~~dégaze après la première~~
-    - (certains disent : pointage : arôme, apprêt : volume)
+## pourquoi 2 fermentations ?
+https://brunomasson.net/index.php?static10/panification
 
-- faut-il dégazer ?
-    - non : http://www.dumieletdusel.com/archives/2010/09/02/18811579.html
-        - étirer doucement, puis replier sur lui-même
-        - pas lu : http://boulanger-amateur.fr/viewtopic.php?t=177
-    - oui :
-        - homogéneise le gaz : https://www.chefnini.com/faire-son-pain-maison-foire-aux-questions/ 
-        - par contre, au façonnage, on ne fait que former la pâte : pas de pétrissage
+- plus il y a repos, plus y a goût
+- mais trop de repos tue la l'élasticité de gluten, et le pain retombe
+- solution : 2 fermentations, avec ~~dégaze après la première~~
+- (certains disent : pointage : arôme, apprêt : volume)
+
+## Faut-il dégazer ?
+- non : http://www.dumieletdusel.com/archives/2010/09/02/18811579.html
+    - étirer doucement, puis replier sur lui-même
+    - pas lu : http://boulanger-amateur.fr/viewtopic.php?t=177
+- oui :
+    - homogéneise le gaz : https://www.chefnini.com/faire-son-pain-maison-foire-aux-questions/ 
+    - par contre, au façonnage, on ne fait que former la pâte : pas de pétrissage
 
 # Questions
 
@@ -75,7 +78,6 @@ https://www.auxdelicesdupalais.net/cat/pain
 ## Mots-clés
 
 - pannification
-
 - autolyse
 
 ## Conseils généraux
