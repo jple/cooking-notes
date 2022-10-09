@@ -18,7 +18,8 @@
 
 
 # Choix du fromage
-- **fromage frais, cream cheese, (fromage à pâte fraiche)**
+
+- fromage frais, cream cheese, (fromage à pâte fraiche) : 
     - philadelphia : 30% matière grasse (22g lipide / 100g)
     - saint morêt : 25% (18g / 100g) : 
 
@@ -28,25 +29,33 @@
 
 # Cheesecake sans cuisson 
 ## mesdelicieuse creations
-- la recette https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
+
+- !!! la recette https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
 - les alternatives https://mesdelicieusescreations.com/category/cheesecake/
 
-# Ingrédients
+### Ingrédients
 - crème
-    - 100 g de Philadelphia (ou St Morêt)
-    - 20cl crème liquide
-    - 180 g de mascarpone
-    - 40g de sucre
-    - 1 c-à-c de vanille liquide
-- Base biscuit (éventuellement 3/4)
-    - 250 g de biscuits type Spéculoos ou palets bretons
-    - 60g de beurre fondu
+    - Fromage frais     : 100g (st Morêt)
+    - Crème liquide     : 20cl
+    - Mascarpone        : 180g
+    - Sucre             : 40g
+    - vanille liquide   : 1 c-à-café
+- Base biscuit (éventuellement utiliser seulement 3/4 ?)
+    - biscuits (*)  : 250g (type Spéculoos ou palets bretons )
+    - Beurre fondu  : 60g
     - **Attention** ça semble pas assez coller
 - (Option) Marmelade de framboise
-    - 120 g de framboises surgelées
-    - 2 c-à-s de sucre à confiture (ou sucre cristallisé)
+    - framboises    : 120 g
+    - sucre à confiture (ou sucre cristallisé) : 2 c-à-soupe
+
+### Recette
+voir https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
+
+
+---
 
 Les autres 
+
 
 ## yumelise
  - https://www.yumelise.fr/cheesecake-speculoos-sans-cuisson/
