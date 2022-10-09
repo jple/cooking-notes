@@ -26,7 +26,7 @@
     - Ajouter l'eau froide --> pétrir jusqu'à obtenir une pâte homogène
     - (opt) Etaler grossièrement, filmer la pâte au contact --> mettre 2h au froid
     - Etaler la pâte 5mm, emporte-piécer ou découper au couteau
-    - Enfour 180°C, pendant 15mn (pour biscuit "mou") - 20mn (pour biscuit sec)
+    - Enfourner à 180°C, pendant 15mn (pour biscuit "mou") - 20mn (pour biscuit sec)
     - Laisser refroidir sur une grille
 
 - Préparation du chocolat
