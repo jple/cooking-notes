@@ -1,3 +1,6 @@
+# TODO
+- Banh bao chinois : https://www.lemonde.fr/les-recettes-du-monde/article/2021/03/27/le-char-siu-bao-la-recette-de-chi-wah-chan_6074674_5324493.html
+
 # Ingrédients
 
 - 10 brioches
@@ -47,3 +50,12 @@
 - étaler le pâton (épais au centre, fin sur le bord)
 - ajouter la farce, et refermer la brioche
 - faire cuire à la vapeur 10mn
+
+
+# Ressources
+- https://www.youtube.com/watch?v=M32p8pzjzaM
+- https://www.evasionsgourmandes.com/recette-du-banh-bao/
+- éventuellement pour les recettes / conseils (pas lu)
+    - https://www.jujube-en-cuisine.fr/banh-bao-brioche-vapeur-vietnamienne/
+    - https://christinapotvin.com/pate-pour-brioches-vapeur-banh-bao/
+    - https://misstamkitchenette.com/banh-bao-brioche-a-la-vapeur-farcie-au-porc-et-aux-champignons/
