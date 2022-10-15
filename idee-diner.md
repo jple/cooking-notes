@@ -60,7 +60,6 @@
     - 
 
 - asie :
-    - ban bao
     - brioche de shangai (ban bao sauté) https://www.lacuisinedebernard.com/2010/01/brioche-de-shanghai-au-porc-juteux.html
     - pain à la viande
     - thit xa xiu
