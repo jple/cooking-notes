@@ -1,3 +1,7 @@
+# Synonyme
+- chapatis
+- 
+
 # Conseils
 - ne pas trouer la pâte, sinon ça ne gonfle pas
 - ne pas trop cuire la 1e face, sinon idem
@@ -9,6 +13,7 @@ https://www.auxdelicesdupalais.net/pain-pita-sans-levure-facile.html
 - farine    : 250g
 - eau       : 150g
 - sel       : 2g
+- (huile)   : 1-2 cas
 
 - Tout mélanger, jusque pâte homogène
 - Découper en 4 patons
