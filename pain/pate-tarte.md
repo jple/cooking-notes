@@ -22,6 +22,8 @@ Note :
 - pas sûr pour l'eau
 - au four, c'est pas vraiment croustillant. Manque de beurre ? trop d'eau ?
 
+## Farce 
+https://www.mesinspirationsculinaires.com/article-chausson-sale-frit-ou-au-four.html
 
 # quiche lorraine
 https://www.meilleurduchef.com/fr/recette/quiche-lorraine.html
