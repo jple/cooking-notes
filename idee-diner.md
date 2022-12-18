@@ -10,6 +10,7 @@
     - tarte au beaufort (ou abondance)
     - tourte
         - poulet https://www.lacuisinedebernard.com/2012/11/les-empadas-de-frango-com-catupiry.html
+        - patate (pâté bourbonnais) https://www.lemonde.fr/m-styles/article/2020/10/02/le-pate-bourbonnais-la-recette-de-loic-ballet_6054546_4497319.html
 - gratin
     - gratin au pont leveque (spécialité pays d'auge)
     - parmentier (végé : carotte, navet, poireau, celeri, champi : https://www.marmiton.org/recettes/recette_hachis-parmentier-vegetarien_14594.aspx)
