@@ -1,7 +1,10 @@
-- https://www.cestmafournee.com/2015/05/le-cheesecakepar-jean-francois-piege.html
-- https://lespetiteschouquettes.wordpress.com/2015/09/09/cheesecake-par-jean-francois-piege-et-ludovic-chaussard-gateau-thoumieux/
-- http://lesateliersdhys.canalblog.com/archives/2012/03/07/23690123.html
-- https://www.mercotte.fr/2010/04/07/cheesecake-a-lananas-le-dessert-de-paques/
+- [Choix du fromage](#choix-du-fromage)
+- [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
+    - [mesdelicieuse creations](#mesdelicieuse-creations)
+        - [Ingrédients](#ingrédients)
+        - [Recette](#recette)
+    - [yumelise](#yumelise)
+- [Chessecake japonais](#chessecake-japonais)
 
 
 | ingrédient    | crea | yum1 | yum2 | usa |
@@ -58,4 +61,8 @@ Les autres
 
 
 ## yumelise
- - https://www.yumelise.fr/cheesecake-speculoos-sans-cuisson/
+- https://www.yumelise.fr/cheesecake-speculoos-sans-cuisson/
+
+
+# Chessecake japonais
+
