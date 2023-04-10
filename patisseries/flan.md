@@ -7,20 +7,24 @@ https://www.youtube.com/watch?v=M67njzFksaw&list=PL43OynbWaTMJDLQiEt2-omu3Ebekin
 - 30 g de Maïzena
 - Et une belle gousse de vanille
 
-- fouetter/blanchir oeufs, sucre, maizena
 
-- verser dans casserole lait, creme, vanille
-	- frémir légèrement à feu doux
-	- laisser 15mn
+- casserole à feu doux lait, creme, vanille
+- mettre à feu doux pendant 15mn pour frémir légèrement
 
-	- ajouter oeufs à feux doux, ~ 1mn
-		- épaissi un peu d'un coup, coagule
-		- on veut un truc assez épais (sorte de danette)
-	- mixer hors du feu pour avoir un truc bien lisse
+- pendant ce temps fouetter/blanchir oeufs, sucre
+- ajouter progressivement la maizena pour éviter grumeaux
 
-- dans un moule de 16cm (sinon 20cm), beurrer et fariner le bord, mettre l'appareil
+- après 15mn sur le feu, ajouter dans la casserole oeufs à feux doux (ça épaissit d'un coup !)
+- fouetter énergétiquement
+- on veut un truc assez épais (sorte de danette)
+
+- mixer hors du feu pour avoir un truc bien lisse
+- **tout de suite après avoir mixé**, verser dans un moule de 16cm x 4 cm hauteur (sinon 20cm x 2cm)
+	- (sinon ça coagule, et ça fait des grumeaux)
+
 - laisser reposer 30mn pour refroidir et coaguler
-- four 190°C tournant, 40mn
-	- surface doit être bronzé
-- laisser refroidir 30mn à temps ambiant
+- four 180°C tournant, 40mn
+	- la surface bronze vite (20mn), mais laisser la température, sinon le coeur ne cuit pas
+
+- laisser refroidir à T° ambiant
 - laisser 1h au frigo
