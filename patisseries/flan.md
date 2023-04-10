@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=M67njzFksaw&list=PL43OynbWaTMJDLQiEt2-omu3EbekinzcD&index=103
 
+# Ingrédients
 - 250 g de lait entier
 - 250 g de crème fleurette
 - 30 g de sucre semoule
@@ -7,7 +8,7 @@ https://www.youtube.com/watch?v=M67njzFksaw&list=PL43OynbWaTMJDLQiEt2-omu3Ebekin
 - 30 g de Maïzena
 - Et une belle gousse de vanille
 
-
+# Recette
 - casserole à feu doux lait, creme, vanille
 - mettre à feu doux pendant 15mn pour frémir légèrement
 
