@@ -3,10 +3,10 @@ https://www.youtube.com/watch?v=M67njzFksaw&list=PL43OynbWaTMJDLQiEt2-omu3Ebekin
 # Ingrédients
 - 250 g de lait entier
 - 250 g de crème fleurette
-- 30 g de sucre semoule
+- 25 g de sucre semoule
 - 3 oeufs
 - 30 g de Maïzena
-- Et une belle gousse de vanille
+- 1 gousse de vanille
 
 # Recette
 - casserole à feu doux lait, creme, vanille
