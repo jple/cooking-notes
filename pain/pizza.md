@@ -16,13 +16,6 @@ levure déhydratée
 [3]: https://www.papillesetpupilles.fr/2018/04/pate-a-pizza-epaisse-et-moelleuse.html/
 [4]: https://www.undejeunerdesoleil.com/2012/10/la-pate-pizza-du-pizzaiolo-2-recettes-4_17.html
 
-moi, francine : OK
-TODO: refaire moi
-
-# Ingrédients allégée en farine (moins lourd)
-- farine :
-    - 154g farine blé
-    - 71g de sarrazin
 
 # Pizza
 
@@ -35,7 +28,7 @@ TODO: refaire moi
 - huile         : 2 cuillère à soupe
 - sel           : 2 cuillère à café
 
-**Remarque** : levure boulangère en sachet
+**Remarque** : (*) levure boulangère en sachet
 
 ## Préparation de la pâte
 - Préparer la levure si nécessaire
@@ -48,6 +41,7 @@ TODO: refaire moi
 
 - Dégazer la pâte en l'aplatissant du poing
 - Reformer une boule
+- (éventuellement mettre au frigo si on veut la conserver)
 - Etaler la pâte
 
 ## Cuisson
