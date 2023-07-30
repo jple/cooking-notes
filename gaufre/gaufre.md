@@ -1,22 +1,17 @@
 # Ingrédients (5 gaufres)
 
 - farine		: 250g
-- sucre			: 60
+- sucre			: 30
 - sel			: (1 pincée)
-- oeufs			: 2
+- oeufs			: 1
 - levure		: 1/2 sachet
 - lait tiède	: 110g
-- beurre mou 	: 50g (ou 70g ?)
+- beurre mou (?): 50g (ou 70g ?)
 
 
 # Recette
 
-- 500g farine = 10/12 boules
-- lait tiède
-- beurre mou ?
-
-
-- préparer levure avec lait
+<- préparer levure avec lait
 
 - mélanger farine, sucre, sel
 - ajouter oeufs
