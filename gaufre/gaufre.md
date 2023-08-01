@@ -1,17 +1,17 @@
-# Ingrédients (5 gaufres)
+# Ingrédients (6 gaufres)
 
 - farine		: 250g
-- sucre			: 30
+- sucre			: 30 (--> tester 40g? 45g?)
 - sel			: (1 pincée)
 - oeufs			: 1
 - levure		: 1/2 sachet
 - lait tiède	: 110g
-- beurre mou (?): 50g (ou 70g ?)
+- beurre mou (?): 50g (--> trop sec. Tester 80g? 100g?)
 
 
 # Recette
 
-<- préparer levure avec lait
+- préparer levure avec lait
 
 - mélanger farine, sucre, sel
 - ajouter oeufs
@@ -28,6 +28,7 @@
 - (repos ~10mn ? 30mn ?)
 
 - cuire ~5mn, en tournant à mi-cuisson
+	- (--> cramé. Puissance 4, 45s chacun ? 3/1mn15 ?)
 
 
 - remarques :
