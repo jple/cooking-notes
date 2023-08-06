@@ -1,12 +1,12 @@
 # Ingrédients (6 gaufres)
 
 - farine		: 250g
-- sucre			: 30 (--> tester 40g? 45g?)
+- sucre			: 45g
 - sel			: (1 pincée)
 - oeufs			: 1
-- levure		: 1/2 sachet
+- levure boul.	: 1/2 sachet
 - lait tiède	: 110g
-- beurre mou (?): 50g (--> trop sec. Tester 80g? 100g?)
+- beurre mou (?): 80g
 
 
 # Recette
@@ -17,19 +17,23 @@
 - ajouter oeufs
 - ajouter levure-lait
 - pétrir 10mn
-- (laisser lever 15mn ? 30mn ?) (1)
+- la pâte est pas mal collante.  
+Ne pas hésitez à laisser 30s de repos régulèrement
+- laisser lever 15mn(-30mn), pour plus facilement travailler la pâte, qui sera plus sèche et aérée
 
 - ajouter beurre et pétrir --> homogène
 
 - repos 1h30mn à T° ambiant (filmer au contact ou torchon sur bol) --> double de volume
 - dégazer
 - incorporer sucre perlé, sans trop petrir
-- former 12 boules aplaties légèrement
-- (repos ~10mn ? 30mn ?)
+- former 6 boules aplaties légèrement
+- repos 30mn
 
-- cuire ~5mn, en tournant à mi-cuisson
-	- (--> cramé. Puissance 4, 45s chacun ? 3/1mn15 ?)
+- cuire ~2mn en tournant à mi-cuisson
 
 
-- remarques :
-	- la plupart des recettes indique un repos de 30mn avant l'ajout du beurre, puis un autre repos de 30mn encore
+## Cuisson (spécifique à mon gaufrier)
+- en puissance 4, 1mn de cuisson est bien (peut-être 1mn15)
+- la première fournée est un peu plus dorée que les suivantes
+- bien doré les gaufres pour qu'elles soient cuites au coeur
+
