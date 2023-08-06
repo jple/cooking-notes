@@ -8,6 +8,7 @@
 - lait tiède	: 110g
 - beurre mou (?): 80g
 
+Astuce : si le beurre est froid, l'écraser (à la main) pour qui se rechauffe plus vite
 
 # Recette
 
@@ -16,11 +17,11 @@
 - mélanger farine, sucre, sel
 - ajouter oeufs
 - ajouter levure-lait
-- pétrir 10mn
-- la pâte est pas mal collante.  
-Ne pas hésitez à laisser 30s de repos régulèrement
-- laisser lever 15mn(-30mn), pour plus facilement travailler la pâte, qui sera plus sèche et aérée
+- pétrir 10mn  
+La pâte est pas mal collante.  
+Ne pas hésitez à laisser 30 sec de repos régulèrement
 
+- laisser reposer 15mn(-30mn), pour plus facilement travailler la pâte, qui sera plus sèche et aérée
 - ajouter beurre et pétrir --> homogène
 
 - repos 1h30mn à T° ambiant (filmer au contact ou torchon sur bol) --> double de volume
@@ -29,7 +30,7 @@ Ne pas hésitez à laisser 30s de repos régulèrement
 - former 6 boules aplaties légèrement
 - repos 30mn
 
-- cuire ~2mn en tournant à mi-cuisson
+- cuire ~1mn en tournant à mi-cuisson
 
 
 ## Cuisson (spécifique à mon gaufrier)
