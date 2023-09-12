@@ -26,7 +26,8 @@ https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 6. diviser en 3 patons
 7. aplatir à 5 mm
 
-10. cuire à la pôele à vif, graissé à l'essuie-tout
+10. cuire à la pôele à vif, graissé à l'essuie-tout  
+Retourner fréquemment ?
 
 # Pita sans levure
 https://www.auxdelicesdupalais.net/pain-pita-sans-levure-facile.html
