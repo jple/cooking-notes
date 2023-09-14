@@ -1,6 +1,7 @@
 # Synonyme
 - !!! **[pide](https://cuisinezavecdjouza.fr/recette-pain-a-kebab-maison)**
 - [chawarma](https://cuisinezavecdjouza.fr/pain-au-yaourt-a-la-poele/)
+- durum
 - pain libanais
 - chapatis
 
@@ -13,18 +14,19 @@
 https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 
 - farine T55    : 150 g
-- eau           : 100 g (**à tester**: 90g)
+- eau           : 90 g (**à tester**: 80-85 g)
 - sel           : 1 g
 - levure        : 1/2 sachet de levure instantané (5,5g)
-- huile olive   : 1 cas
+- huile olive   : 2 cas
 
 1. mélanger farine, levure, eau, sel
 2. pétrir jusque homogène (pas trop sinon, élastique)
 4. repos 1h
 
-5. dégazer
-6. diviser en 3 patons
-7. aplatir à 5 mm
+1. dégazer
+2. diviser en 3 patons
+3. **à tester** : vraiment bien fariné la surface pour étaler
+4. aplatir à 5 mm
 
 10. cuire à la pôele à vif, graissé à l'essuie-tout  
 Retourner fréquemment ?
