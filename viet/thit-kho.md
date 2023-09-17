@@ -54,7 +54,7 @@ Ingrédients
 
 - pré-cuisson
     - dans une poêle huilée, faire revenir les échalottes, ails
-    - faire revnir le porc pour légèrement dorer la surface
+    - faire revenir le porc pour légèrement dorer la surface
 
  - cuisson :
     - faire comme précédemment
