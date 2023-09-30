@@ -1,3 +1,19 @@
+
+<!-- vim-markdown-toc GFM -->
+
+* [Synonyme](#synonyme)
+* [Pita](#pita)
+    * [Ingrédients & recette pour 3 patons (1 personne gourmande)](#ingrédients--recette-pour-3-patons-1-personne-gourmande)
+    * [Conseils](#conseils)
+        * [Quantité d'eau / farine](#quantité-deau--farine)
+        * [Petrissage](#petrissage)
+        * [Etaler la pate](#etaler-la-pate)
+        * [Cuisson](#cuisson)
+    * [Expériences](#expériences)
+* [Pita sans levure](#pita-sans-levure)
+
+<!-- vim-markdown-toc -->
+
 # Synonyme
 - !!! **[pide](https://cuisinezavecdjouza.fr/recette-pain-a-kebab-maison)**
 - [chawarma](https://cuisinezavecdjouza.fr/pain-au-yaourt-a-la-poele/)
@@ -5,28 +21,20 @@
 - pain libanais
 - chapatis
 
-# Conseils
-- ne pas trouer la pâte, sinon ça ne gonfle pas
-- ne pas trop cuire la 1e face, sinon idem
-
-
 # Pita
 
 **à tester** :
-- vraiment bien fariné la surface pour étaler finement
 - faire avec 1/2 sachet de levure, 200 g de farine
-    - avec 150g, c'est pas mal (légèrement gonflé, avec quand même de la mie)
+- comparer la cuisson en retournant régulèrement la pate à la cuisson
 
-
-
-https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
+source : https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 
 ## Ingrédients & recette pour 3 patons (1 personne gourmande)
 
 - farine T65    : 175 g
-- eau           : 105 g (**à tester**: 100 g)
+- eau           : 105 g (100 g, si on a peur que ça colle)
 - sel           : 1 g
-- levure        : 1/2 sachet de levure instantané (5,5g)
+- levure        : 1/2 sachet de levure instantané
 - huile olive   : 2 cas
 
 
@@ -42,15 +50,26 @@ https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 Retourner fréquemment ?
 
 ## Conseils
+
+### Quantité d'eau / farine
+
+On retrouve souvent la proportion de 60% d'eau par rapport à la farine  
+La proportion me semble bien  
+
+Pour info,  on est à la limite : c'est un peu collant
+
+
 ### Petrissage
-Avec 60% d'eau par rapport à la farine, on est à la limite : c'est un peu collant.  
-Pour pétrir, prendre le bord de la pâte pour la rabattre vers l'intérieur.  
+
+Si c'est collant, pétrir en prendre le bord de la pâte pour la rabattre vers l'intérieur.  
 On n'appuie pas sur le centre, qui colle.  
 
 Avec 57% d'eau, ce serait sûrement plsu simple. (Mais j'ai une préférence pour rester sur 60%)
 
 ### Etaler la pate
-Fariner le plan de travail pour facilement récupérer la pate et la mettre en cuisson
+- Fariner le plan de travail pour facilement récupérer la pate et la mettre en cuisson
+- ne pas trouer la pâte, sinon ça ne gonfle pas
+- ne pas trop cuire la 1e face, sinon idem
 
 Etaler d'abord grossièrement à la main pour avoir un pate d'épaisseur homogène et de forme voulue
 
@@ -91,11 +110,9 @@ Avec 175g de farine et 1/2 sachet de levure, on a un pâte fine, légèrement go
 
 **A tester ?** : 200g de farine et 1/2 sachet de levure (tout en gardant la proportion d'eau à 60%)
 
+
+
 # Pita sans levure
-
-**Remarque** : 60% d'eau / farine semble la bonne proportion sur le net
-
-**A tester** : pour étaler finement, soit bien fariné avant, soit mettre 10% d'huile / farine
 
 https://www.auxdelicesdupalais.net/pain-pita-sans-levure-facile.html
 
