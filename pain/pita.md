@@ -18,13 +18,17 @@
     - avec 150g, c'est pas mal (légèrement gonflé, avec quand même de la mie)
 
 
+
 https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 
-- farine T55    : 150 g
-- eau           : 90 g (**à tester**: 80-85 g)
+## Ingrédients & recette pour 3 patons (1 personne gourmande)
+
+- farine T65    : 175 g
+- eau           : 105 g (**à tester**: 100 g)
 - sel           : 1 g
 - levure        : 1/2 sachet de levure instantané (5,5g)
 - huile olive   : 2 cas
+
 
 1. mélanger farine, levure, eau, sel
 2. pétrir jusque homogène (pas trop sinon, élastique)
@@ -34,8 +38,58 @@ https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 2. diviser en 3 patons
 4. aplatir à 5 mm
 
-10. cuire à la pôele à vif, graissé à l'essuie-tout  
+1. cuire à la pôele à vif, graissé à l'essuie-tout  
 Retourner fréquemment ?
+
+## Conseils
+### Petrissage
+Avec 60% d'eau par rapport à la farine, on est à la limite : c'est un peu collant.  
+Pour pétrir, prendre le bord de la pâte pour la rabattre vers l'intérieur.  
+On n'appuie pas sur le centre, qui colle.  
+
+Avec 57% d'eau, ce serait sûrement plsu simple. (Mais j'ai une préférence pour rester sur 60%)
+
+### Etaler la pate
+Fariner le plan de travail pour facilement récupérer la pate et la mettre en cuisson
+
+Etaler d'abord grossièrement à la main pour avoir un pate d'épaisseur homogène et de forme voulue
+
+Une fois grossièrement étalée, si on veut une pate fine, 2 techniques :  
+- prendre la pate par le bord supérieur
+La faire pendre pour l'étirer par gravité  
+Toujours en tenant la pate, longer le bord pour la faire tourner, afin de l'étirer de façon homogène
+
+- prendre la pate à la verticale entre les 2 mains  
+Faire des rotations de gauche à droite pour l'étirer (par inertie) par le bord qui dépasse des mains
+
+### Cuisson
+
+- couvrir systématiquement pour avoir un effet hammam
+
+- **préféré** avec 2 retournements
+    - laisser la galette ~10s sur la première face  
+    Des bulles devraient se voir en surface
+    La face du dessous doit être encore molle lorsqu'on la retourne. 
+    - retourner la galette jusqu'à dorer la face
+    - retourner la galette pour dorer la première face
+
+    - **Resultat** : pate gonflée et moelleuse
+
+- (**à retester**) avec retournements régulier :
+    * précéder comme la 1° méthode, en retournant la pate toutes les ~10s
+    * **Résultat** : pate peut-etre davantage gonflé, peut-être très légèrement caoutchouteuse (mais j'ai aussi raté l'étalage, donc pas sûr)
+
+- avec 1 retournement :
+    * laisser la galette dorer sur la 1° face
+    * retourner et faire de même sur la 2°
+    * **Résultat** : la pate est dur sur la 1° face (ça peut avoir son charme)
+
+
+## Expériences
+
+Avec 175g de farine et 1/2 sachet de levure, on a un pâte fine, légèrement gonflé avec une mie moelleuse.  
+
+**A tester ?** : 200g de farine et 1/2 sachet de levure (tout en gardant la proportion d'eau à 60%)
 
 # Pita sans levure
 

@@ -3,12 +3,18 @@ voir [pita](../pain/pita.md)
 
 # Accompagnement
 
-- crème de feta
-    - recouvrir la feta de crème liquide
-    - (**à tester**: utiliser du fromage blanc pour alléger)
+## Condiments
 - carotte rapé + un peu de balsamique (à tester: citron)
 - tomate
 - oignon cuit jusque tendre (ou caramel)
+
+## Sauce
+- crème de feta
+    - recouvrir la feta de crème liquide
+    - (**à tester**: utiliser du fromage blanc pour alléger)
+
+- sauce blanche de kebab
+
 
 # Viande
 
