@@ -3,7 +3,7 @@
 
 * [Synonyme](#synonyme)
 * [Pita](#pita)
-    * [Ingrédients & recette pour 3 patons (1 personne gourmande)](#ingrédients--recette-pour-3-patons-1-personne-gourmande)
+    * [Ingrédients & recette](#ingrédients--recette)
     * [Conseils](#conseils)
         * [Quantité d'eau / farine](#quantité-deau--farine)
         * [Petrissage](#petrissage)
@@ -29,7 +29,9 @@
 
 source : https://cuisinezavecdjouza.fr/pain-pita-cuit-a-la-poele-pain-libanais/
 
-## Ingrédients & recette pour 3 patons (1 personne gourmande)
+## Ingrédients & recette 
+
+Pour 3 patons (1 personne gourmande)
 
 - farine T65    : 175 g
 - eau           : 105 g (100 g, si on a peur que ça colle)
