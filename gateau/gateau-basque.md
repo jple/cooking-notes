@@ -21,6 +21,30 @@
 
 - source :
     * (mercotte)[https://www.mercotte.fr/2013/02/27/gateau-basque-tout-simplement-et-casting-pour-la-saison-2-du-meilleur-patissier/]
+    * (autre mercotte moins bien)[https://www.mercotte.fr/2020/05/23/gateau-basque-version-thierry-bamas/]
+
+# Ingrédients (à retester...)
+- pate 
+    - beurre mou    :   125 g
+    - sucre         :   80 g
+    - oeuf          :   2
+    - farine        :   300 g
+
+- crème patissière
+    - lait      :   500 ml
+    - vanille   :   1 gousse
+    - oeuf      :  
+        - jaune :   2
+        - oeuf  :   1
+    - sucre     :   90 g
+    - farine    :   50 g
+
+## Note
+
+- crème
+    - la vraie recette demande plutôt 4 jaunes d'oeufs. Mais que faire du blanc...?
+- pate
+    - on peut mettre 1/3 d'amande et 2/3 de farines
 
 # recette 
 
@@ -30,11 +54,21 @@
     * ajouter oeuf 1 à 1
     * puis après avoir ajouté le solide (farine, sel, etc.), travailler le moins possible la pâte (20s)
     * filmer, frigo 24h
+
 - crème patissière
-    * bouillir lait + vanille
+    * bouillir lait + vanille pour faire infuser
 
     * battre à côté : oeuf, sucre
     * ajouter farine
     * verser lait chaud, et battre à homogénéiser
-    * faire chauffre
-    * battre jusque consistant
+    * faire chauffer jusqu'à épaissie. Battre en même temps
+    
+    * laisser refroidir
+
+- montage
+    - faire le fond de tarte + le bord avec 2/3 de la pate
+    - couvrir de crème (qui doit être refroidi)
+    - recouvrir le dessus avec le reste de la pate
+    - (dorer le dessus avec le jaune d'oeuf légèrement mélanger à de l'eau)
+
+- cuisson : 160-180°C pendant 40 mn
