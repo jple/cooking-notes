@@ -3,7 +3,7 @@
 
 # Ingrédients
 
-- 10 brioches
+- 8-10 brioches
 	- farine de blé		: 300 g
 	- fécule de maïs	: 60 g
 	- levure boulangère	: 4 g (1/2 sachet)
@@ -34,7 +34,10 @@
 
 
 - Une fois le pâton fini, on devrait avoir 600g
-- Peser 60g de paton par brioche
+- Peser 60-75 g de paton par brioche
+
+**Note** : 
+- pour le sucre, on ne le sent plus dans la brioche. Eventuellement en mettre 35 g
 
 # Conseils
 - Lors du boulage : faire sortir l'intérieur de la pâte, et rentrer la face extérieur (sèche)
