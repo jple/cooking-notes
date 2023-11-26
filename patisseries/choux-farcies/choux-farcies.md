@@ -88,14 +88,32 @@ pour 200g de crème
 | chocolat    | 30   | 30 ?    |         |
 
 pour 400g de crème
-| ingrédients | book | moi  | mercot |
-| :---------- | :--- | :--- | :----- |
-| lait        | 250  | 250  | 250    |
-| jaune oeuf  | 50g  | 2    | 4      |
-| sucre       | 60   | 30   | 50     |
-| farine      |      | 30   | 10     |
-| maizena     | 25   |      | 10     |
-| chocolat    | 60   | 60 ? |        |
+| ingrédients | book | moi  | mercot | test |
+| :---------- | :--- | :--- | :----- | :--- |
+| lait        | 250  | 250  | 250    |  250 |
+| jaune oeuf  | 50g  | 2    | 4      |      |
+| oeuf        |      |      |        | 50   |
+| sucre       | 60   | 30   | 50     | 30   |
+| farine      |      | 30   | 10     |      |
+| maizena     | 25   |      | 10     | 25   |
+| chocolat    | 60   | 60 ? |        |      |
+
 astuce
 - https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%E2%80%99amandes/
 - https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
+
+
+## New
+- selon mercotte :
+    - jaune : gras qui fixe les aromes, onctueuse, soyeux, couleur
+    - blanc : proteines donc plus ferme
+
+- une fois sucre avec oeuf, fouetter de suite pour ne pas coaguler (réagir)
+- blanchir les oeufs pour réduire le temps de coagulation lorsqu'on verse le liquide chaud
+- pour limiter grumeaux, mélanger dans un 1° temps de l'intérieur vers extérieur
+
+
+- laisser bouillir  feux doux ?(en fouettant) jusque épais
+- quand bouillit, laisser 30s encore
+- on verse pour refroidir sur un plat
+- filmer au contact
