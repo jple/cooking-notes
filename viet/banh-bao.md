@@ -1,32 +1,43 @@
 # TODO
-- Banh bao chinois : https://www.lemonde.fr/les-recettes-du-monde/article/2021/03/27/le-char-siu-bao-la-recette-de-chi-wah-chan_6074674_5324493.html
+- bao chinois : https://www.lemonde.fr/les-recettes-du-monde/article/2021/03/27/le-char-siu-bao-la-recette-de-chi-wah-chan_6074674_5324493.html
 
 # Ingrédients
 
-- 10 brioches
-	- farine de blé		: 300g
-	- fécule de maïs	: 60g
-	- levure boulangère	: 4g (1/2 sachet)
-	- sucre blanc		: 25g
-	- lait tiède		: 150g
-	- huile				: 20g (2 cas)
-	- blanc d'oeuf		: 1
-	- jus de citron		: 1 cas (7g)
+- 8-10 brioches
+	- farine de blé		: 300 g
+	- fécule de maïs	: 60 g
+	- levure boulangère	: 4 g (1/2 sachet)
+	- sucre blanc		: 25 g
+	- huile				: 30 g (2 cas)
+	- lait tiède		: 210 g
+	- jus de citron		: 1 cas (7g) (pour blanchir la pâte ?)
 	- sel				: 2g
 - farce
 	- porc haché		: 150g (ça devrait être large)
 	- champignons noir	: 8 (haché en petit cube)
 	- oeufs dur			: 2
-	- sauce huitre
+    - nuoc mam
+
+    - optionel
+        - echalotte, ail
+        - vermicelle de riz : 15 g
+        - sauce huitre
+        - huile sesame
 
 
 - variante : 
 	- farine riz 50g au lieu du maïs
-	- eau à la place du lait
-	- sans blanc d'oeuf, ni sucre
+	- eau à la place du lait (version chinoise)
+    - ajouter du blanc d'oeuf pour avoir de l'élasticité ?
+        - blanc d'oeuf		: 1
+        - lait tiède		: 150 g
+
 
 - Une fois le pâton fini, on devrait avoir 600g
-- Peser 60g de paton par brioche
+- Peser 60-75 g de paton par brioche
+
+**Note** : 
+- pour le sucre, on ne le sent plus dans la brioche. Eventuellement en mettre 35 g
 
 # Conseils
 - Lors du boulage : faire sortir l'intérieur de la pâte, et rentrer la face extérieur (sèche)
@@ -53,9 +64,5 @@
 
 
 # Ressources
+- https://misstamkitchenette.com/banh-bao-brioche-a-la-vapeur-farcie-au-porc-et-aux-champignons/
 - https://www.youtube.com/watch?v=M32p8pzjzaM
-- https://www.evasionsgourmandes.com/recette-du-banh-bao/
-- éventuellement pour les recettes / conseils (pas lu)
-    - https://www.jujube-en-cuisine.fr/banh-bao-brioche-vapeur-vietnamienne/
-    - https://christinapotvin.com/pate-pour-brioches-vapeur-banh-bao/
-    - https://misstamkitchenette.com/banh-bao-brioche-a-la-vapeur-farcie-au-porc-et-aux-champignons/
