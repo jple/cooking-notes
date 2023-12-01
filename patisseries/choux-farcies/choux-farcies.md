@@ -171,6 +171,12 @@ astuce
 - https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
 
 
+Note : 
+- la dernière recette a été faite avec la "test"
+    - suffisamment sucré. On pourrait essayer de retirer 5g de sucre
+    - en quantité, compter 20 choux = 500g de lait
+
+
 ## New
 - selon mercotte :
     - jaune : gras qui fixe les aromes, onctueuse, soyeux, couleur
