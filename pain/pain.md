@@ -95,4 +95,9 @@ https://brunomasson.net/index.php?static10/panification
 - https://dupainsurlaplancheounourrirsatribu.blog4ever.com/l-autolyse-ou-faire-son-pain-comme-chez-le-boulanger
 
 ## Levain
-- https://www.lesdelicesdalexandre.fr/un-boulanger-vous-explique-comment-faire-sa-levure-ou-son-levain-maison/
+- levain pateux 
+    - rapide : https://www.cuisinedaubery.com/recipe/levain-rapide/
+    - reel : https://www.cuisinedaubery.com/recipe/levain-pateux-naturel/
+- reel levain liquide
+    - https://www.lesdelicesdalexandre.fr/un-boulanger-vous-explique-comment-faire-sa-levure-ou-son-levain-maison/
+    - https://www.radiofrance.fr/franceinter/comment-faire-et-conserver-son-levain-recettes-et-astuces-2440249
