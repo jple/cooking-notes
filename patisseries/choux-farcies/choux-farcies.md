@@ -1,5 +1,7 @@
 ## pate a choux
 
+Avec 110 g de farine, on a ~ 20 choux
+
 | ingrédients | book    | moi | astuce | astuce-calc | merc | merc-calc | test | 1/4/8/16   | 1/4/8/16 calc | you cap |you cap calc |
 | :---------- | :------ | :-- | :----- | :---------- | :--- | :-------- | :--- | :-------   | :---------    | :-------|:------------|
 | farine      | 110     | 125 | 85     | 110         | 150  | 110       | 110  | 200        | 110           | 150     | 110         |
@@ -25,6 +27,9 @@ Résultat
     - resultat : 
         - plutot bon
         - four 230° jusqu'au développement (~12mn), puis 180° (~10mn)
+- 3
+    - la recette CAP est bonne
+    - avoir eu 180 g de liquide / oeuf a semblé mieux marché, plutôt que 160
 
 
 info / conseil :
@@ -120,13 +125,16 @@ source principale :
         - sortir pour refroidir choux
     - soit 180°, tout du long
 
-- laisser les choux dans le four ouvert pour sécher
+- (laisser les choux dans le four ouvert pour sécher)
+- attendre 10mn (moi: pour ne pas brusquer la pate), et laisser refroidir sur une grille pour éviter que le bas prenne l'humidité
 <img src="pate-cuite.png">
 
 
 
 
 ## crème patissiere
+
+Pour ~ 20 choux, faire 500g de lait
 
 | ingrédients | book       | moi  | mercot |
 | :---------- | :--------- | :--- | :----- |
@@ -148,14 +156,34 @@ pour 200g de crème
 | chocolat    | 30   | 30 ?    |         |
 
 pour 400g de crème
-| ingrédients | book | moi  | mercot |
-| :---------- | :--- | :--- | :----- |
-| lait        | 250  | 250  | 250    |
-| jaune oeuf  | 50g  | 2    | 4      |
-| sucre       | 60   | 30   | 50     |
-| farine      |      | 30   | 10     |
-| maizena     | 25   |      | 10     |
-| chocolat    | 60   | 60 ? |        |
+| ingrédients | book | moi  | mercot | test |
+| :---------- | :--- | :--- | :----- | :--- |
+| lait        | 250  | 250  | 250    |  250 |
+| jaune oeuf  | 50g  | 2    | 4      |      |
+| oeuf        |      |      |        | 50   |
+| sucre       | 60   | 30   | 50     | 40   |
+| farine      |      | 30   | 10     |      |
+| maizena     | 25   |      | 10     | 25   |
+| chocolat    | 60   | 60 ? |        |      |
+
 astuce
 - https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%E2%80%99amandes/
 - https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
+
+
+## New
+- selon mercotte :
+    - jaune : gras qui fixe les aromes, onctueuse, soyeux, couleur
+    - blanc : proteines donc plus ferme
+
+- une fois sucre avec oeuf, fouetter de suite pour ne pas coaguler (réagir)
+- blanchir les oeufs pour réduire le temps de coagulation lorsqu'on verse le liquide chaud
+- pour limiter grumeaux, mélanger dans un 1° temps de l'intérieur vers extérieur
+
+- j'ai fait bouillir le lait, avant incorporer un bout dans les oeufs
+    - le temps d'arriver à ebullition ensuite était beaucoup plus court
+- cuisson de la crème
+    - laisser bouillir  feux doux ?(en fouettant) jusque épais
+    - quand bouillit, laisser 30s encore
+    - on verse pour refroidir sur un plat
+    - filmer au contact
