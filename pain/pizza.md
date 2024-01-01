@@ -30,6 +30,33 @@ levure déhydratée
 
 **Remarque** : (*) levure boulangère en sachet
 
+### Ingrédients bis
+
+[Source](https://www.youtube.com/watch?v=wTLfStCLpSs)
+
+En suivant la video,
+- on suggère 60-65% d'eau / farine
+- on commence par mouiller 50% de la farine à l'eau (pour homogénéiser sûrement), avant de tout mettre
+- on ajoute le reste ensuite, jusqu'à complètement humidifier la pâte
+
+- on démoule
+- on pétrit en étirant la pâte sur le côté, en la faisant tourner. De sorte à l'étirer sur tout le diamètre
+- régulièrement, quand la pate est trop grande, on plie la pâte par le même geste (étire horizontalement)
+- et on continue jusque ce soit homogène à peu près (on a une pâte un peu lisse, qui se tient bien)
+- reposer 15 min
+
+- on refait presque le même geste
+- on met les 2 mains sur la pâte, on soulève et on relâche
+- l'objectif est de bouler la pâte par sa propre élasticité
+- on peut diviser la pâte (ou pas)
+- on boule avec une raclette à la fin pour bien tendre la pâte
+- frigo 24h-72h
+
+- avant cuisson, on sort la pate 1-2h avant pour la mettre à température ambiante
+- fariner le plan de travail, et mouler directement la pate
+- pour le moulage, il écrase la pate au centre, puis étire la pate
+- il place aussi la pate sur ses poings pour étirer et tourner la pate
+
 ## Préparation de la pâte
 - Préparer la levure si nécessaire
 - Mettre dans un saladier farine, sarrazin, eau, huile, levure
