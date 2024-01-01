@@ -1,5 +1,18 @@
 
-# Conseil
+<!-- vim-markdown-toc Marked -->
+
+* [Choucroute crue](#choucroute-crue)
+    * [Conseil](#conseil)
+    * [Ingrédient (pour un bocal de 1L)](#ingrédient-(pour-un-bocal-de-1l))
+    * [Recette](#recette)
+    * [Utilisation](#utilisation)
+* [Choucroute garnie](#choucroute-garnie)
+
+<!-- vim-markdown-toc -->
+
+# Choucroute crue
+
+## Conseil
 
 - ingrédients
     - sel : utiliser 1% du poids des feuilles de choux (10 g pour 1 kg)
@@ -25,13 +38,13 @@
 - fermentation : toujours à l'abri de la lumière
 
 
-# Ingrédient (pour un bocal de 1L)
+## Ingrédient (pour un bocal de 1L)
 - chou vert, blanc ou rouge : 1kg
 - sel                       : 10g
 
 Bocal hermétique de : 1L
 
-# Recette
+## Recette
 
 - ressource utile : https://www.lacuisinedaurelie.com/comment-faire-du-chou-lacto-fermente/
 
@@ -70,3 +83,61 @@ Bocal hermétique de : 1L
 
 
     - une fois ouvert, consommer rapidement !
+
+## Utilisation
+
+Avant de consommer, rincer à l'eau froide entre 1 à 3 fois, selon la durée de fermentation  
+Ca doit retirer le sel, et garder un peu d'acidité  
+
+
+# Choucroute garnie
+
+Ingrédients
+
+- choucroute crue : 250g / personne
+- oignon, echalotte
+- pomme de terre
+- epice :
+    - clou de girofle
+    - baie de genevievre
+    - laurier ?
+- gras
+    - huile
+    - ou saindoux
+- liquide : de quoi recouvrir toute la garniture
+    - eau de bouillon : 50%
+    - vin blanc ou bière : 50%
+- viande :
+    - saucisse knack 
+        - saucisse de strasbourg
+        - saucisse de francfort
+    - saucisse fumée / salée
+        - saucisse à l'ail
+        - saucisse de Montbéliard
+        - saucisse de Morteau
+    - viande de porc fumé
+        - poitrine fumée
+        - palette fumée
+        - echine fumée
+    - lard fumé
+
+
+- si la viande de porc N'EST PAS demi-salé, la déssaler en l'immergeant dans l'eau pour 2h
+- rincer le chou
+- émincer les oignons
+- les dorer dans le gras 
+- (?) déglacer à l'alcool
+- mettre la moitié du chou
+- recouvrir la viande (sauf les saucisses pas fumées, qui exploseraient)
+- recouvrir du chou restant
+- recouvrir de liquide
+- laisser cuire à couvert pendant 2h
+    - remuer regulièrement pour ne pas bruler le fond
+
+- le chou doit être fondant
+- cuire les saucisses knacks ainsi que les patates à part, à l'eau
+- une fois cuit, tout mettre dans la choucroute
+
+
+Des variantes :
+- faire dorer les morceaux de viandes fumées pour avoir le sucs, avant de déglacer
