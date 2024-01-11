@@ -88,6 +88,20 @@ https://brunomasson.net/index.php?static10/panification
 - https://www.lesdelicesdalexandre.fr/reussir-son-pain-maison-les-10-astuces-du-chef-boulanger-alexandre/
 - http://www.faire-son-pain.com/La-cuisson
 
+### Pétrissage
+
+- pour ne pas casser le réseau de gluten
+    - éviter de faire de la compression et le cisaillement (compresser et tourner)
+
+- faire de l'élongation / souflage
+    - étirer la pate, 
+    - replier, 
+    - prendre la pate à 90°
+    - soulever
+    - écraser
+
+    - en gros, étirer-replier-tourner-reprendre
+
 ## Autolyse
 - https://www.maryseetcocotte.com/2019/03/17/pain-au-levain-autolyse/
 - http://lamiedupoiraud.over-blog.com/2017/10/tests-autolyse-pour-de-belles-alveoles.html
