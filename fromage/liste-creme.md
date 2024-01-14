@@ -9,7 +9,11 @@
 - fromage blanc
     - 0%, 20%, 40% de matière grasse est sur l'extrait sec
     Le vrai pourcentage est 0%, 3.5% et 7%
+    - ferment + bactérie lactique
     - https://fr.wikipedia.org/wiki/Fromage_blanc
+
+- yaourt 
+    - lait fermenté. Donc ajout de bactérie lactique mais pas de ferment
 
 # Fabrication des crèmes
 
