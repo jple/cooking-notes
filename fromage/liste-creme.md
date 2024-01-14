@@ -10,3 +10,25 @@
     - 0%, 20%, 40% de matière grasse est sur l'extrait sec
     Le vrai pourcentage est 0%, 3.5% et 7%
     - https://fr.wikipedia.org/wiki/Fromage_blanc
+
+# Fabrication des crèmes
+
+- pour obtenir de la crème, on part du lait chauffé à 35°C dans une écrémeuse-centrifugeuse  
+on récupère le gras, qui est la crème
+    - si on la pasteurise, on a la crème fleurette
+    - si on la stérisilise, on a de la crème liquide
+
+- pour épaissir cette crème, on a besoin d'acidité (ensemencement)
+    - avec ferment : (goût acide) devient crème épaisse
+    - avec acide lactique : (goût doux) devient mascarpone, cottage cream, panna
+
+- crème épaisse  
+- à partir de lait cru : crème épaisse cru
+- à partir de lait pasteurisé : crème fraiche épaisse
+
+## Autres crèmes
+
+- crème aigre ou crème acide (Europe de l'est) : obtenue par fermentation bactérienne
+- crème double (Suisse) : pas de ferment. On récupère juste le dessus du lait
+- crème fouettée : crème liquide / fleurette fouettée
+- crème chantilly : crème fouettée sucrée
