@@ -6,7 +6,9 @@
     * [Ingrédient (pour un bocal de 1L)](#ingrédient-(pour-un-bocal-de-1l))
     * [Recette](#recette)
     * [Utilisation](#utilisation)
-* [Choucroute garnie](#choucroute-garnie)
+* [Recette](#recette)
+    * [Choucroute garnie](#choucroute-garnie)
+    * [Oeuf brouillé](#oeuf-brouillé)
 
 <!-- vim-markdown-toc -->
 
@@ -73,6 +75,10 @@ Bocal hermétique de : 1L
     - si le jus ne recouvre pas la feuille de chou, ajouter de la saumure (de l'eau à 3% de sel. Eau à bouillir au préalable)
 
 - fermentation
+    - ce que j'ai fait (28/10/2023) :
+        - température ambiant. Consommation à partir de 3 semaines
+        - après 3 mois, assez bon, bien acide
+
     - méthode 1
         - laisser fermenter 3 semaines à température ambiantes
         - conserver au frais pendant 1 an
@@ -89,8 +95,11 @@ Bocal hermétique de : 1L
 Avant de consommer, rincer à l'eau froide entre 1 à 3 fois, selon la durée de fermentation  
 Ca doit retirer le sel, et garder un peu d'acidité  
 
+J'ai rincé 1 fois, et plus si c'était trop acide.
 
-# Choucroute garnie
+# Recette
+
+## Choucroute garnie
 
 Ingrédients
 
@@ -106,7 +115,7 @@ Ingrédients
     - ou saindoux
 - liquide : de quoi recouvrir toute la garniture
     - eau de bouillon : 50%
-    - vin blanc ou bière : 50%
+    - vin blanc ou bière : 50% (REX: ça faisait un peu sucré. A réduire)
 - viande :
     - saucisse knack 
         - saucisse de strasbourg
@@ -141,3 +150,9 @@ Ingrédients
 
 Des variantes :
 - faire dorer les morceaux de viandes fumées pour avoir le sucs, avant de déglacer
+
+## Oeuf brouillé
+
+- faire rapidement revenir la choucroute
+- mettre les oeufs
+- brouiller. Ne pas trop cuire pour le crémeux
