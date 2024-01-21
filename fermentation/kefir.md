@@ -1,4 +1,15 @@
-- grain de kefir d'eau = tibicos ?
+<!-- vim-markdown-toc Marked -->
+
+* [kefir d'eau](#kefir-d'eau)
+    * [Conseils](#conseils)
+    * [Recette](#recette)
+    * [Conservation](#conservation)
+    * [Réveiller le kefir](#réveiller-le-kefir)
+
+<!-- vim-markdown-toc -->
+
+
+- grain de kefir d'eau = tibicos
 
 - les grains de fruits et ceux de lait n'ont pas les même bactéries
 
