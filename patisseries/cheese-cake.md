@@ -1,10 +1,15 @@
-- [Choix du fromage](#choix-du-fromage)
-- [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
-    - [mesdelicieuse creations](#mesdelicieuse-creations)
-        - [Ingrédients](#ingrédients)
-        - [Recette](#recette)
-    - [yumelise](#yumelise)
-- [Chessecake japonais](#chessecake-japonais)
+<!-- vim-markdown-toc Marked -->
+
+* [Choix du fromage](#choix-du-fromage)
+* [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
+    * [mesdelicieuse creations](#mesdelicieuse-creations)
+        * [Ingrédients](#ingrédients)
+        * [Recette](#recette)
+    * [yumelise](#yumelise)
+* [(todo) Chessecake japonais](#(todo)-chessecake-japonais)
+* [(à tester) Cheesecake à l'avocat](#(à-tester)-cheesecake-à-l'avocat)
+
+<!-- vim-markdown-toc -->
 
 
 | ingrédient    | crea | yum1 | yum2 | usa |
@@ -64,5 +69,38 @@ Les autres
 - https://www.yumelise.fr/cheesecake-speculoos-sans-cuisson/
 
 
-# Chessecake japonais
+# (todo) Chessecake japonais
+
+
+# (à tester) Cheesecake à l'avocat
+
+- base
+    - 125 g noix de pécan torréfiées
+    - 70 g grué de cacao
+    - 185 g dattes dénoyautées
+    - 3 cas de beurre fondue
+
+- crème avocat
+    - 560 g chair avocat (~ 5 avocats)
+    - 100 ml jus de citron (~ 8 citrons)
+    - 190 g sirop érable
+    - 4 cas beurre
+    - 200 g fromage blanc
+
+
+- base : tout mixer
+- crème : tout mixer, jusque soyeux
+- tapisser le fond par la base
+- verser la crème sur le dessus
+
+
+- pour une consistence plus crémeuse :
+    - dilué 2 g d'agar agar dilué dans une boisson végétale
+    - faire bouillir
+    - verser dans la crème, qu'on utilisera ensuite
+
+
+
+- base
+    - tout mixer à la machine
 
