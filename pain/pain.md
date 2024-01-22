@@ -93,7 +93,7 @@ https://brunomasson.net/index.php?static10/panification
 - pour ne pas casser le réseau de gluten
     - éviter de faire de la compression et le cisaillement (compresser et tourner)
 
-- faire de l'élongation / souflage
+- faire de l'élongation / soufflage
     - étirer la pate, 
     - replier, 
     - prendre la pate à 90°
