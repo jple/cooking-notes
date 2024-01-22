@@ -78,8 +78,7 @@ En suivant la video,
 
 - Sur poêle huilée, à feu doux, faire dorer la pâte (environ 2 mn)
     - La poele doit être chaude avant de mettre la pate. (Ensuite, feux doux tout de suite)
-- Retourner la pâte
-- Mettre le feux doux
+- Retourner la pâte. Et mettre à feux doux
 - Mettre tout de suite la garniture, et couvrir environ 4 mn
 
 ### ... à la poêle et au grill
