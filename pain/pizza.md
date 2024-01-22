@@ -76,9 +76,11 @@ En suivant la video,
 
 **Remarque** : il faudra cuire la garniture au préalable !
 
-- Sur poêle huilée, à feu doux, faire dorer la pâte (environ 5 mn)
+- Sur poêle huilée, à feu doux, faire dorer la pâte (environ 2 mn)
+    - La poele doit être chaude avant de mettre la pate. (Ensuite, feux doux tout de suite)
 - Retourner la pâte
-- Mettre tout de suite la garniture, et couvrir environ 10mn
+- Mettre le feux doux
+- Mettre tout de suite la garniture, et couvrir environ 4 mn
 
 ### ... à la poêle et au grill
 https://www.julieandrieu.com/recettes/la-pizza-a-la-poele-de-carine
