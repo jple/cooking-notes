@@ -29,6 +29,37 @@ https://www.auxdelicesdupalais.net/cat/pain
 - apprêt : 2° période de repos
 - cuisson
 
+## Frasage
+
+Objectif : 
+- obtenir une pate homogène
+- former le gluten ?
+
+## Pétrissage
+
+Objectif : 
+- incorporer l'air dans la pâte
+- développer la structure de réseau de gluten qui retiendront les gaz générées (trous dans la mie)
+
+- quand s'arrêter : en tirant, ça s'étire, ne casse pas, ne se troue pas
+
+
+- pour ne pas casser le réseau de gluten
+    - éviter de faire de la compression et le cisaillement (compresser et tourner)
+
+- faire de l'élongation / soufflage
+    - étirer la pate, 
+    - replier, 
+    - prendre la pate à 90°
+    - soulever
+    - écraser
+
+    - en gros, étirer-replier-tourner-reprendre
+
+
+
+
+
 ## pourquoi 2 fermentations ?
 https://brunomasson.net/index.php?static10/panification
 
@@ -44,6 +75,7 @@ https://brunomasson.net/index.php?static10/panification
 - oui :
     - homogéneise le gaz : https://www.chefnini.com/faire-son-pain-maison-foire-aux-questions/ 
     - par contre, au façonnage, on ne fait que former la pâte : pas de pétrissage
+
 
 # Questions
 
@@ -87,20 +119,6 @@ https://brunomasson.net/index.php?static10/panification
 
 - https://www.lesdelicesdalexandre.fr/reussir-son-pain-maison-les-10-astuces-du-chef-boulanger-alexandre/
 - http://www.faire-son-pain.com/La-cuisson
-
-### Pétrissage
-
-- pour ne pas casser le réseau de gluten
-    - éviter de faire de la compression et le cisaillement (compresser et tourner)
-
-- faire de l'élongation / soufflage
-    - étirer la pate, 
-    - replier, 
-    - prendre la pate à 90°
-    - soulever
-    - écraser
-
-    - en gros, étirer-replier-tourner-reprendre
 
 ## Autolyse
 - https://www.maryseetcocotte.com/2019/03/17/pain-au-levain-autolyse/
