@@ -39,6 +39,9 @@ on récupère le gras, qui est la crème
 
 # Transformation du lait
 
+- Le lait contient 2 protéines responsables de la fromagisation : caséine et albumine
+- c'est l'albumine résiduelle dans le petit-lait qui permet de faire encore du fromage
+
 ```mermaid
 flowchart 
     
