@@ -36,3 +36,50 @@ on récupère le gras, qui est la crème
 - crème double (Suisse) : pas de ferment. On récupère juste le dessus du lait
 - crème fouettée : crème liquide / fleurette fouettée
 - crème chantilly : crème fouettée sucrée
+
+# Transformation du lait
+
+```mermaid
+flowchart 
+    
+    lait                  --> lait_aigre
+    lait --  +lait_aigre  --> lait_caillé
+    lait --  +lait_caillé --> yaourt
+    lait --  +yaourt      --> yaourt
+    
+    lait --  + acidité  ---> paneer
+    lait_aigre          --> quark
+    creme_liq -- +acidité      ---> mascarpone
+    creme_liq -- +lait_caillé  --> creme_fraiche
+    creme_liq -- +petit_lait   --> creme_fraiche
+
+    yaourt --> fromage_frais
+    fromage_frais -- + pennicillium --> fromage_frais_bleu
+
+    subgraph ajout_acidité
+        paneer["paneer \n (lait pasteurisé OK)"]
+        mascarpone
+    end
+
+```
+
+Référence au livre "L'art de faire son Fromage" de David Asher :
+- lait caillé   : p 126, 166
+- lait aigre    : p 126, 302
+- yaourt        : p 112
+- fromage frais : p 122 (et avec presure p xxx)
+- penicillium   : p 219
+- paneer        : p 130
+- quark         : p 125, 216
+
+Recette à faire du-dit livre :
+- saint marcellin : p 154
+- beurre          : p 295
+
+
+Quelques notes :
+- lait caillé = lait aigre, selon p 126...
+- babeurre = lait de baratte = lait ribot (p 293)
+    - on pourrait le remplacer par
+        -  250 ml lait, 15 ml vinaigre, repos 5 mn
+        -  ? lait, 250 ml viangire, chauffer 10 mn. Ca épaissira
