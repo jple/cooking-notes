@@ -1,18 +1,29 @@
 
 <!-- vim-markdown-toc Marked -->
 
-* [Choucroute crue](#choucroute-crue)
-    * [Conseil](#conseil)
-    * [Ingrédient (pour un bocal de 1L)](#ingrédient-(pour-un-bocal-de-1l))
-    * [Recette](#recette)
-    * [Utilisation](#utilisation)
-* [Recette](#recette)
-    * [Choucroute garnie](#choucroute-garnie)
-    * [Oeuf brouillé](#oeuf-brouillé)
+- [Choucroute crue](#choucroute-crue)
+    - [Expé du 28/10/2023](#expé-du-28102023)
+    - [Conseil](#conseil)
+    - [Ingrédient (pour un bocal de 1L)](#ingrédient-pour-un-bocal-de-1l)
+    - [Recette](#recette)
+    - [Utilisation](#utilisation)
+- [Recette](#recette-1)
+    - [Choucroute garnie](#choucroute-garnie)
+    - [Oeuf brouillé](#oeuf-brouillé)
 
 <!-- vim-markdown-toc -->
 
 # Choucroute crue
+
+## Expé du 28/10/2023
+
+- chou                                      : 1 182 g
+- chou utile (sans tronc et abimé)          : 989 g
+- chou emincé (sans feuille de couverture)  : 890 g
+- chou fermenté                             : 855 g
+
+- mangeable à 3 semaines, mais peu acide
+- excellent à 3 mois
 
 ## Conseil
 
