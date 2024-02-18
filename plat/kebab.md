@@ -1,6 +1,14 @@
 # Pita
 voir [pita](../pain/pita.md)
 
+# Epice
+
+- reviennent souvent
+    - origan
+    - thym
+    - cannelle
+    - curcuma
+
 # Accompagnement
 
 ## Condiments
@@ -11,6 +19,8 @@ voir [pita](../pain/pita.md)
 - idée
     - chou chinois cuit
     - concombre
+
+- idée : pimenté la marinade !!!
 
 ## Sauce
 - crème de feta
@@ -29,9 +39,10 @@ voir [pita](../pain/pita.md)
 # Viande
 
 ## Ressource
+### Recette 1
 https://cuisine-et-nutrition-enfants.blogspot.com/2016/09/recette-de-doner-kebab-au-poulet-ou.html
 
-## Ingrédients
+
 - dinde         : 250g, fine lamelle
 
 - cumin         : 2 cac
@@ -55,3 +66,23 @@ Laisser mariner la nuit
     - origan
     - girofle
     - muscade
+
+### Recette 2
+
+info : le yaourt fait une sauce pas mal. Et attendri la viande
+
+- cuisse de poulet à désosser : 800g de viande sans os
+- ail       : 2
+- oignon    : 1 (un peu beaucoup)
+
+
+- yaourt        : 250 g
+- cumin         : 2 cac
+- coriandre     : 2 cac
+- gingembre     : 2 cac
+- fenugrec      : 1 cac de grain (apporte rien :( )
+- poivre noir   : 2 cac
+- sel           : 1 cac (legal ?)
+
+
+
