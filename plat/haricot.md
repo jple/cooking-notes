@@ -20,6 +20,7 @@
 
 - cuisson
     - préférez une cuisson à petite ébullition 90° (évite l'éclatement des haricots)
+        - cad environ 1h30
     - ne pas saler l'eau de cuisson, seulement en fin de cuisson si besoin (évite que la peau durcisse)
 
 
