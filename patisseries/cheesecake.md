@@ -1,16 +1,16 @@
 <!-- vim-markdown-toc Marked -->
 
-- [Choix du fromage](#choix-du-fromage)
-- [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
-    - [mesdelicieuse creations](#mesdelicieuse-creations)
-        - [Ingrédients](#ingrédients)
-        - [Recette](#recette)
-- [Cheesecake cuit](#cheesecake-cuit)
-    - [Questions](#questions)
-    - [Ingrédients](#ingrédients-1)
-    - [Recette](#recette-1)
-- [(todo) Chessecake japonais](#todo-chessecake-japonais)
-- [(à tester) Cheesecake à l'avocat](#à-tester-cheesecake-à-lavocat)
+* [Choix du fromage](#choix-du-fromage)
+* [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
+    * [mesdelicieuse creations](#mesdelicieuse-creations)
+        * [Ingrédients](#ingrédients)
+        * [Recette](#recette)
+* [Cheesecake cuit](#cheesecake-cuit)
+    * [Questions](#questions)
+    * [Ingrédients](#ingrédients)
+    * [Recette](#recette)
+* [(todo) Chessecake japonais](#(todo)-chessecake-japonais)
+* [(à tester) Cheesecake à l'avocat](#(à-tester)-cheesecake-à-l'avocat)
 
 <!-- vim-markdown-toc -->
 
@@ -49,10 +49,12 @@
     - Mascarpone        : 180g
     - Sucre             : 40g
     - vanille liquide   : 1 c-à-café
+
 - Base biscuit (éventuellement utiliser seulement 3/4 ?)
     - biscuits (*)  : 250g (type Spéculoos ou palets bretons )
     - Beurre fondu  : 60g
     - **Attention** ça semble pas assez coller
+
 - (Option) Marmelade de framboise
     - framboises    : 120 g
     - sucre à confiture (ou sucre cristallisé) : 2 c-à-soupe
