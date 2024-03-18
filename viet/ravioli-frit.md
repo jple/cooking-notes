@@ -7,6 +7,37 @@ https://www.youtube.com/watch?v=vfRVrHDb5fc
 
 conseil : ajouter huile sesame
 
+# Recette 1
+pate et farce : 
+https://www.youtube.com/watch?v=oKpO3AkTUWQ
+
+- Ingrédients
+    * pate
+        + farine : 300 g
+        + eau frémissante : 160 g
+        + huile  : 15-30 ml (1-2 cas)
+        + sel    : 1/2 cac
+- Recette
+   - Préparation pâte :
+      - farine + sel + eau frémissante (60°C)
+      - Mélanger légèrement
+      - Mettre huile
+      - Mélanger, pétrir 2 mn
+      - filmer au contact, laisser 5 mn pour que ce soit plus maniable
+      - Petrir jusque homogène
+      - filmer ~30mn
+
+   - Préparation ravioli
+      - étaler très finement
+      - porte-empiécer, farcir, refermer
+   
+   - Cuisson
+      - option 1 : frire avec de l'huile à mi-hauteur
+      - option 2 : 
+         - pôeler, avec un filet d'huile, feu fort jusqu'à bien dorer le dessous
+         - mettre de l'eau à tier-hauteur, couvrir 2 mn, puis feux moyen jusque évopration complète
+       
+
 # Recette à faire
 testé et approuvé :
 https://www.youtube.com/watch?v=4CxAdWj6TZU
@@ -42,30 +73,4 @@ https://www.youtube.com/watch?v=4CxAdWj6TZU
 - frire 7 mn jusque croustillant et doré
 
 
-# Recette 1
-pate et farce : 
-https://www.youtube.com/watch?v=oKpO3AkTUWQ
 
-- Ingrédients
-    * pate
-        + farine : 300 g
-        + eau    : 
-            + normal : 80 g
-            + chaude : 80 g
-        + huile  : 15 ml (1 cas)
-        + sel    : 1/2 cac
-    * garniture
-        + chou
-
-- farine + sel
-- mettre eau froide à gauche, mélange le gauche
-- mettre eau chaude à droite, mélanger la droite
-- mettre huile
-- mélanger, pétrir 2 mn
-- filmer au contact, laisser 5 mn pour que ce soit plus maniable
-- filmer 20 mn ? 45 mn ?
-
-- étaler très finement
-- porte-empiécer, farcir, refermer
-- pôeler, avec un filet d'huile, feu fort jusque le fond soit marron
-- mettre de l'eau en fond, couvrir 2 mn, puis feux moyen jusque évopration complète
