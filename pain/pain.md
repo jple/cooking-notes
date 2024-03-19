@@ -1,6 +1,7 @@
 # Pleins de recettes
 https://www.auxdelicesdupalais.net/cat/pain
 
+# Workflow
 
 
 # Techniques
@@ -10,6 +11,8 @@ https://www.auxdelicesdupalais.net/cat/pain
 
 ## Les étapes 
 - frasage : mélange des ingrédients homogène (éventuellement autolyse ici) --> consistance
+- on peut laisser reposer 15-30mn pour plus facilement travailler la pâte ensuite
+- juste après le frasage
 - pétrissage --> développe les qualités plastiques (étirage fleurage soufflage ???)
 - pointage : 1° fermentation
 - opt
@@ -46,6 +49,7 @@ Objectif :
 
 - pour ne pas casser le réseau de gluten
     - éviter de faire de la compression et le cisaillement (compresser et tourner)
+
 
 - faire de l'élongation / soufflage
     - étirer la pate, 

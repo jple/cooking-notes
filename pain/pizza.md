@@ -30,7 +30,7 @@ levure déhydratée
 
 **Remarque** : (*) levure boulangère en sachet
 
-### Ingrédients bis
+### Ingrédients bis (meilleur)
 
 [Source](https://www.youtube.com/watch?v=wTLfStCLpSs)
 
