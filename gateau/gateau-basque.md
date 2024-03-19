@@ -27,43 +27,47 @@
 - pate 
     - beurre mou    :   125 g
     - sucre         :   80 g
-    - oeuf          :   2
+    - oeuf          :   2 (A TESTER avec 1 + fraiser avant filmer)
     - farine        :   300 g
 
 - crème patissière
     - lait      :   500 ml
     - vanille   :   1 gousse
-    - oeuf      :  
-        - jaune :   2
-        - oeuf  :   1
+    - oeuf      :   2
     - sucre     :   90 g
     - farine    :   50 g
 
 ## Note
 
 - crème
-    - la vraie recette demande plutôt 4 jaunes d'oeufs. Mais que faire du blanc...?
+    - historique : 2 jaunes + 1 oeufs
+    - la "vraie" recette demande plutôt 4 jaunes d'oeufs. Mais que faire du blanc...?
 - pate
     - on peut mettre 1/3 d'amande et 2/3 de farines
+    - fraiser la pate avant de filmer (pour que ce soit moins cassant ?)
+    - à tester : 1 oeuf et fraisage avant de filmer
+
+    - avec 1 oeuf en boule : la pate est frillable..
 
 # recette 
 
 - pâte
     * battre beurre + sucre
-    * (puis amande)
+    * (puis amande) --> je le mettrais après avec le solide
     * ajouter oeuf 1 à 1
     * puis après avoir ajouté le solide (farine, sel, etc.), travailler le moins possible la pâte (20s)
-    * filmer, frigo 24h
+    * fraiser 1 ou 2 fois, filmer, frigo 24h
 
 - crème patissière
     * bouillir lait + vanille pour faire infuser
+    (A CONFIRMER: feu doux pour infuser plus longtemps ?)
 
     * battre à côté : oeuf, sucre
     * ajouter farine
     * verser lait chaud, et battre à homogénéiser
     * faire chauffer jusqu'à épaissie. Battre en même temps
     
-    * laisser refroidir
+    * laisser refroidir. Frigo 1h (mieux: 24h (texture ? infuser ?)
 
 - montage
     - faire le fond de tarte + le bord avec 2/3 de la pate
