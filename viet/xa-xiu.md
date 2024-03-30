@@ -17,6 +17,54 @@
 - poivre
 - ail haché
 
+
+- épices
+    - sachet 1
+        - soya bean
+        - sucre
+        - ail
+        - miel
+        - sauce soja
+        - sel
+        - eau
+        - 5 épices
+        - vinaigre riz
+        - farine blé
+    - sachet 2
+        - oignon, ail, ciboulette : 38%
+        - sucre
+        - sauce soja
+        - sel
+        - huile
+        - sauce huitre
+        - fecule mais
+        - colorant : paprika
+    - sachet 3
+        - sauce soja
+        - sucre
+        - sel
+        - huile
+        - anis etoile
+        - canelle
+        - gingembre
+        - piment
+        - clou girofle
+        - curcuma
+        - colorant : paprika
+        - laurier
+        - poivre
+        - graine de coriandre
+        - ail
+        - farine
+        - huile sesame
+    - sachet teriyaki
+        - sucre
+        - sauce soja
+        - canelle
+        - poivre
+        - anis étoilé
+        - ail
+
 ## Recette
 - (éventuellement nettoyer la viande en frottant au sel. La rincer et sécher)
 - découper la viande en rectangle 3D (parallépipède rectangle)
