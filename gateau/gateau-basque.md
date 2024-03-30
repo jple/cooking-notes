@@ -34,7 +34,7 @@
     - lait      :   500 ml
     - vanille   :   1 gousse
     - oeuf      :   2
-    - sucre     :   90 g
+    - sucre     :   80 g
     - farine    :   50 g
 
 ## Note
