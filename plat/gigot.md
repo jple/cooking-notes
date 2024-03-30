@@ -13,7 +13,15 @@
 - 300g / personne (os inclus)
 
 - désosser pour cuisson homogène
-- saler pendant 24h pour tendre ? 
+
+- marinade
+    - saler pendant 24h pour tendre ? 
+    - vinaigre, epice (canelle), herbe (thym, laurier, persil), ail
+    - yaourt, menthe
+    - citron, herbe (persil, coriandre), ail, sauce soja, huile, sel, poivre
+    - liquide (vin blanc, citron, moutarde, huile), herbe (laurier, romarin, thym), ail, sel/poivre
+
+- piquer le gigot avec l'ail
 
 # Cuisson cocotte minute
 - https://www.petitsplatsentreamis.com/gigot-dagneau-en-cocotte/
