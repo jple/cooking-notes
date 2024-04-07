@@ -6,6 +6,10 @@
 * [Recette ultime (**best**)](#recette-ultime-best)
 * [Techniques](#techniques)
     * [Quantité](#quantité)
+    * [Levure](#levure)
+        * [Equivalence fraiche / seche](#equivalence-fraiche--seche)
+        * [Type de levure](#type-de-levure)
+            * [Poolish](#poolish)
     * [Les étapes](#les-étapes)
     * [Frasage](#frasage)
     * [Pétrissage](#pétrissage)
@@ -52,7 +56,65 @@ Recette
 # Techniques
 ## Quantité
 - eau entre 58%-75% d'eau
-- levure : biga, poolish, levain
+
+## Levure
+
+### Equivalence fraiche / seche
+
+Pour 500 g de farine, on utilise :  
+6g de levure sèche = 15g de levure fraiche
+
+On retient 1 g sèche pour 2.5 - 3g de fraîche
+
+### Type de levure
+ressource : 
+- https://www.boulangeriemarionromain.fr/fermentation/poolish/
+
+
+- liquide
+    - levain : eau + farine
+    - sourdough : eau + farine de même quantité
+    - poolish : eau + farine de même quantité + un peu de levure
+        - mie alvéolée de petites alveoles, pain moelleux, gout sans levure, conservation
+    
+- solide
+    - biga (pizza) : eau + farine + levure
+
+#### Poolish
+
+- La quantité d'eau du poolish varie entre 1/2 à 4/5 de la quantité finale de la recette  
+Exemple : avec 500 g de farine et 70% d'eau (350 g), le poolish peut être fait à base de 175 à 280 g d'eau
+- La quantité de levure est à choisir en fonction du temps de repos
+- Le poolish va gonfler, faire des bulles, et s'affaisser au centre (le gluten ne retient plus le gaz de fermentation)
+- Le poolish est prêt lorsque le centre s'affaisse 
+
+- conseil
+    - il est préférable de laisser reposer le poolish dans un recipient haut pour qu'il se développe en hauteur (plus stable apparemment)
+    - ajouter du sucre permet d'activer la fermentation
+    - certains conseille l'eau + levure sont à 25°C lorsqu'on incorpore la farine
+    - température : été eau fraiche (10°C), hiver eau tiède (20°C ?)
+
+- ingrédients
+    1. on part de la quantité finale souhaitée
+    2. pour la poolish, on part sur 50% d'eau, et la même quantité de farine
+    3. pour la levure, on prend selon le temps de repos souhaité
+
+Ingrédients : (à partir de [pain ultime](pain.md#recette-ultime-best)
+- eau tiède (30°C) : 175 g
+- farine           : 175 g
+- levure fraîche : 
+    - 1 g  = 12 h
+    - 5 g  = 8 h de fermentation
+    - 8 g  = 5 h
+    - 15 g = 3 h
+    - 20 g = 2 h
+- (pincée de sucre pour activer la fermentation)
+
+Recette :
+- tout mélanger
+- laisser à température ambiant
+
+
 
 ## Les étapes 
 - autolyse (optionnelle) : premier mélange de farine-eau hogonène, qu'on laisse reposer 30 mn. Réduirait le temps de pétrissage, et un développement de la mie
