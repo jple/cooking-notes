@@ -1,17 +1,17 @@
 
-<!-- vim-markdown-toc Marked -->
+<!-- vim-markdown-toc GFM -->
 
 * [Pizza](#pizza)
     * [Recette 1](#recette-1)
         * [Ingrédients](#ingrédients)
         * [Préparation de la pâte](#préparation-de-la-pâte)
-    * [Recette ultime (**best**)](#recette-ultime-(**best**))
-        * [Ingrédients](#ingrédients)
-        * [Préparation de la pâte](#préparation-de-la-pâte)
+    * [Recette ultime (**best**)](#recette-ultime-best)
+        * [Ingrédients](#ingrédients-1)
+        * [Préparation de la pâte](#préparation-de-la-pâte-1)
     * [Cuisson](#cuisson)
-        * [... à la poêle](#...-à-la-poêle)
-        * [... à la poêle et au grill](#...-à-la-poêle-et-au-grill)
-        * [... au four](#...-au-four)
+        * [... à la poêle](#-à-la-poêle)
+        * [... à la poêle et au grill](#-à-la-poêle-et-au-grill)
+        * [... au four](#-au-four)
 
 <!-- vim-markdown-toc -->
 
@@ -68,7 +68,7 @@ levure déhydratée
 
 ### Ingrédients
 
-Ingrédients: suivre la recette du [pain](pain.md#recette-utime)
+Ingrédients: suivre la recette du [pain](pain.md#recette-ultime-best)
 
 ### Préparation de la pâte 
 

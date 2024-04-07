@@ -27,7 +27,7 @@
 
 Ingrédient : pour 6 pitas (3 personnes)
 - farine : 250 g
-- pour les autres ingrédients, repartir des proportions pour le [pain](pain.md#recette-utime)
+- pour les autres ingrédients, repartir des proportions pour le [pain](pain.md#recette-ultime-best)
 - huile  : 2 cas (pour facilement manipuler la pâte)
 
 Recette :

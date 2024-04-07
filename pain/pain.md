@@ -1,16 +1,16 @@
 
-<!-- vim-markdown-toc Marked -->
+<!-- vim-markdown-toc GFM -->
 
 * [Pleins de recettes](#pleins-de-recettes)
 * [Workflow](#workflow)
-* [Recette ultime (**best**)](#recette-ultime-(**best**))
+* [Recette ultime (**best**)](#recette-ultime-best)
 * [Techniques](#techniques)
     * [Quantité](#quantité)
     * [Les étapes](#les-étapes)
     * [Frasage](#frasage)
     * [Pétrissage](#pétrissage)
-    * [pourquoi 2 fermentations ?](#pourquoi-2-fermentations-?)
-    * [Faut-il dégazer ?](#faut-il-dégazer-?)
+    * [pourquoi 2 fermentations ?](#pourquoi-2-fermentations-)
+    * [Faut-il dégazer ?](#faut-il-dégazer-)
 * [Questions](#questions)
     * [En suspens](#en-suspens)
     * [Aerer la pâte](#aerer-la-pâte)
