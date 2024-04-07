@@ -1,8 +1,53 @@
+
+<!-- vim-markdown-toc Marked -->
+
+* [Pleins de recettes](#pleins-de-recettes)
+* [Workflow](#workflow)
+* [Recette ultime (**best**)](#recette-ultime-(**best**))
+* [Techniques](#techniques)
+    * [Quantité](#quantité)
+    * [Les étapes](#les-étapes)
+    * [Frasage](#frasage)
+    * [Pétrissage](#pétrissage)
+    * [pourquoi 2 fermentations ?](#pourquoi-2-fermentations-?)
+    * [Faut-il dégazer ?](#faut-il-dégazer-?)
+* [Questions](#questions)
+    * [En suspens](#en-suspens)
+    * [Aerer la pâte](#aerer-la-pâte)
+* [Ressources](#ressources)
+    * [Mots-clés](#mots-clés)
+    * [Conseils généraux](#conseils-généraux)
+    * [Autolyse](#autolyse)
+    * [Levain](#levain)
+
+<!-- vim-markdown-toc -->
+
 # Pleins de recettes
 https://www.auxdelicesdupalais.net/cat/pain
 
 # Workflow
 
+
+# Recette ultime (**best**)
+
+Ingrédients:
+- farine T65    : 500 g
+- eau           : 350 g (70%)
+- sel           : 7-8 g 
+- levure déhydr : 5 g (1 sachet)
+
+Recette
+- mettre le sel de côté
+- mettre tous les ingrédients dans un cul de poule
+- frasage : incorporer l'eau à la farine, jusqu'à hydratation complète et homogène de la farine
+    * geste : prendre la pâte de l'extérieur vers l'intérieur pendant 2 min
+- laisser reposer 15mn-30mn (pour plus facilement travailler la pate)
+- incorporer le sel
+- pétrissage : effectuer la technique de souflage (voire plus bas), jusqu'à avoir une bonne élasticité (~15-20 mn. Moins si on prend moins de pâte)
+- pointage / detente ( 1° repos) : couvrir, laisser reposer jusque doubler de volume (2h à température ambiant, ou 24h au frigo)
+- sortir la pâte, la former (bouler)
+- apprêt (2° repos) : repos 1h
+- cuisson : four 240°C ~20 mn
 
 # Techniques
 ## Quantité
@@ -10,9 +55,14 @@ https://www.auxdelicesdupalais.net/cat/pain
 - levure : biga, poolish, levain
 
 ## Les étapes 
-- frasage : mélange des ingrédients homogène (éventuellement autolyse ici) --> consistance
+- autolyse (optionnelle) : premier mélange de farine-eau hogonène, qu'on laisse reposer 30 mn. Réduirait le temps de pétrissage, et un développement de la mie
+- frasage : mélange des ingrédients homogène --> consistance
 - on peut laisser reposer 15-30mn pour plus facilement travailler la pâte ensuite
-- juste après le frasage
+    * étape optionnelle à choisir :
+        + cont* étape optionnelle à choisir :
+        + contre-frasage : ajout de farine
+ re-frasage : ajout de farine (on a mis plus d'eau avant)
+        + bassinage : ajout d'eau (on a mis plus de farine avant)
 - pétrissage --> développe les qualités plastiques (étirage fleurage soufflage ???)
 - pointage : 1° fermentation
 - opt

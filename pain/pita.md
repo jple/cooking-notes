@@ -2,7 +2,8 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Synonyme](#synonyme)
-* [Pita](#pita)
+* [Pita (four) (**best**)](#pita-four-best)
+* [Pita (poele)](#pita-poele)
     * [Ingrédients & recette](#ingrédients--recette)
     * [Conseils](#conseils)
         * [Quantité d'eau / farine](#quantité-deau--farine)
@@ -10,7 +11,7 @@
         * [Etaler la pate](#etaler-la-pate)
         * [Cuisson](#cuisson)
     * [Expériences](#expériences)
-* [Pita sans levure](#pita-sans-levure)
+* [Pita sans levure (poele)](#pita-sans-levure-poele)
 
 <!-- vim-markdown-toc -->
 
@@ -21,7 +22,25 @@
 - pain libanais
 - chapatis
 
-# Pita
+
+# Pita (four) (**best**)
+
+Ingrédient : pour 6 pitas (3 personnes)
+- farine : 250 g
+- pour les autres ingrédients, repartir des proportions pour le [pain](pain.md#recette-utime)
+- huile  : 2 cas (pour facilement manipuler la pâte)
+
+Recette :
+- Procéder comme dans la recette du [pain](pain.md#recette-utime)
+- après le 1° repos, diviser la pâte en 6 et bouler
+- les placer sur le support de cuisson
+- laisser reposer 1h
+- juste avant d'enfourner, aplatir / étaler à la main les pates du centre vers l'extérieur 
+    * environ 0.5 à 1 cm d'épaisseur. Il ne faut pas les écraser trop finement
+* four à 250°C pendant 8-10 mn (la surface doit légèrement dorer)
+
+
+# Pita (poele)
 
 **à tester** :
 - faire avec 1/2 sachet de levure, 200 g de farine
@@ -42,13 +61,13 @@ Pour 3 patons (1 personne gourmande)
 
 1. mélanger farine, levure, eau, sel
 2. pétrir jusque homogène (pas trop sinon, élastique)
-4. repos 1h
+3. repos 1h
 
-1. dégazer
-2. diviser en 3 patons
-4. aplatir à 5 mm
+4. dégazer
+5. diviser en 3 patons
+6. aplatir à 5 mm
 
-1. cuire à la pôele à vif, graissé à l'essuie-tout  
+7. cuire à la pôele à vif, graissé à l'essuie-tout  
 Retourner fréquemment ?
 
 ## Conseils
@@ -114,7 +133,7 @@ Avec 175g de farine et 1/2 sachet de levure, on a un pâte fine, légèrement go
 
 
 
-# Pita sans levure
+# Pita sans levure (poele)
 
 https://www.auxdelicesdupalais.net/pain-pita-sans-levure-facile.html
 
