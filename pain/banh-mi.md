@@ -1,10 +1,22 @@
+
+<!-- vim-markdown-toc GFM -->
+
+* [A voir](#a-voir)
+* [Ingrédients](#ingrédients)
+* [Recette](#recette)
+
+<!-- vim-markdown-toc -->
+
 # A voir
 - https://christinapotvin.com/pain-baguette-pour-banh-mi/
     - https://www.youtube.com/watch?v=eQhESu-67QY
     - recette en bas, et ressource vers contenu
     - https://christinapotvin.com/legumes-marines/
 
+
+
 # Ingrédients
+https://www.youtube.com/watch?v=HEdZlCQVbEM
 
 - start dough
     - farine :  150 g
