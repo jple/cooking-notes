@@ -2,8 +2,10 @@
 <!-- vim-markdown-toc GFM -->
 
 * [A voir](#a-voir)
-* [Ingrédients](#ingrédients)
-* [Recette](#recette)
+* [Experience 1](#experience-1)
+* [Pas encore suivi](#pas-encore-suivi)
+    * [Ingrédients](#ingrédients)
+    * [Recette](#recette)
 
 <!-- vim-markdown-toc -->
 
@@ -13,9 +15,24 @@
     - recette en bas, et ressource vers contenu
     - https://christinapotvin.com/legumes-marines/
 
+# Experience 1
 
+Ingrédient : 
+- suivre recette [pain](pain.md)
+- 2 cas d'huile dans la préparation
 
-# Ingrédients
+Recette
+- suivre recette [pain](pain.md)
+- huiler le cul de poule avant 1° fermentation
+- découper, détente 5mn
+- former les baguettes, repos 45 mn (j'avais la flemme)
+- avant d'enfourner : découpe de la peau, mettre eau
+
+A tester :
+- huiler le paton avant de former les baguettes ? (ça collerait un peu moins, et ferait le croustillant ?)
+
+# Pas encore suivi
+## Ingrédients
 https://www.youtube.com/watch?v=HEdZlCQVbEM
 
 - start dough
@@ -37,7 +54,7 @@ https://www.youtube.com/watch?v=HEdZlCQVbEM
     - farine semi complete T 110 ?
 
 
-# Recette
+## Recette
 
 - starter dougg
     - mélanger farine, levure, eau, puis sel jusque homogène (1-2mn)
