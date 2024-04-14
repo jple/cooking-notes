@@ -30,6 +30,9 @@ Recette
 
 A tester :
 - huiler le paton avant de former les baguettes ? (ça collerait un peu moins, et ferait le croustillant ?)
+- ne pas couvrir de linge en 2° fermentation : humidifer régulièrement la pâte
+- retirer le maximum d'air lors du faconnage ?
+- ajouter de l'eau en cours et fin de cuisson pour dorer le pain - et croustillant
 
 # Pas encore suivi
 ## Ingrédients
