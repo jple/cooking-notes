@@ -29,7 +29,7 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
     * Une fois le fond de tarte refroidi
     * Chablonner le fond de tarte
     * Verser la crème encore tiède sur le fond de tarte
-    * Puis ? Frigo ?
+    * Frigo pour >30mn
 
 # Recette simple
 https://www.mercotte.fr/2010/06/16/simplissime-tarte-au-citron/
