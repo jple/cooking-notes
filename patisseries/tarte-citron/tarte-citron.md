@@ -2,7 +2,9 @@
 
 ## Pate sucré
 
-Voir la recette [tarte vanille](../tarte-vanille.md:5)
+Voir la recette [tarte vanille](../tarte-vanille.md)  
+- [ingrédient](../tarte-vanille.md?plain=1#L3-L8)
+- [recette](../tarte-vanille.md?plain=1#L30-L37)
 
 
 ## Crème citron
