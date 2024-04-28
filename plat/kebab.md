@@ -4,10 +4,30 @@ voir [pita](../pain/pita.md)
 # Epice
 
 - reviennent souvent
-    - origan
+    - origan (plutôt gyro grec)
     - thym
     - cannelle
     - curcuma
+
+
+- cumin, coriandre, ail, cannelle, paprika fumé (poivré fumé ?), curcuma (amer ?), sel, poivre (piquant)
+
+- baharat, cumin, poivre, paprika fumé
+
+- baharat :
+    - version 1
+        * allspice / 4 épices 
+            - poivre jamaique 
+            - version cheap:  gingembre + girofle + muscade + poivre/cannelle
+        * piment
+        * cardamome
+        * cannelle 
+        * ail 
+        * coriandre
+        * cumin
+        * poivre
+    - version 2
+        * cannelle, coriandre, cumin, girofle, poivre, muscade
 
 # Accompagnement
 
@@ -59,13 +79,7 @@ https://cuisine-et-nutrition-enfants.blogspot.com/2016/09/recette-de-doner-kebab
 
 Laisser mariner la nuit
 
-- voir ras el hanout
 
-- autres épices ?
-    - curcuma
-    - origan
-    - girofle
-    - muscade
 
 ### Recette 2
 

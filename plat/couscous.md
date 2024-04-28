@@ -11,18 +11,14 @@
 - De muscade
 
 # alternative: ras el hanout
-- 1 cuillère à café de sel
-- 1 cuillère à café de cumin moulu
-- 1 cuillère à café de gingembre en poudre
-- 1 cuillère à café de curcuma en poudre
-- 3/4 cuillère à café de cannelle en poudre
-- 3/4 cuillère à café de poivre noir moulu
-- 1/2 cuillère à café de poivre blanc moulu
-- 1/2 cuillère à café de coriandre moulue
-- 1/2 cuillère à café de piment de Cayenne
-- 1/2 cuillère à café de bois d’Inde (poivre de la Jamaïq)
-- 1/2 cuillère à café de muscade en poudre
-- 1/4 cuillère à café de clous de girofle en poudre
+- version 1
+    - 1 portion : cumin, gigembre, curcuma, sel
+    - 3/4 portion : coriandre, poivre
+    - 1/2 portion : cannelle, piment, poivre Jamaïque, muscade
+    - 1/4 portion : girofle
+- version indus
+    * 1 : coriandre, sel, curcurma, cumin, poivre, fenugrec, poivre/piment, gingembre, fenouille, il
+    * 2 : 
 
 
 # ingrédient
