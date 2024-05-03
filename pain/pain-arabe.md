@@ -1,0 +1,3 @@
+- matlouh : pain plat cuite à la pôele, avec une belle mie
+- msemen : crepe feuilleté
+- majoubah, mhajeb : msemen farci de boeuf bolo
