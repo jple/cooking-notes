@@ -1,6 +1,7 @@
 <!-- vim-markdown-toc Marked -->
 
 * [Choix du fromage](#choix-du-fromage)
+* [Biscuit](#biscuit)
 * [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
     * [mesdelicieuse creations](#mesdelicieuse-creations)
         * [Ingrédients](#ingrédients)
@@ -21,6 +22,11 @@
 - fromage frais, cream cheese, (fromage à pâte fraiche) : 
     - philadelphia : 30% matière grasse (22g lipide / 100g)
     - saint morêt : 25% (18g / 100g) : 
+
+# Biscuit
+
+- utiliser comme base du riz souflé nature
+- recouvrir de choco et mettre au frigo
 
 
 # Cheesecake sans cuisson 
