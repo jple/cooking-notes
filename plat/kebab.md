@@ -9,6 +9,17 @@ voir [pita](../pain/pita.md)
     - cannelle
     - curcuma
 
+- à tester :
+    * paprika fort (fumé ?)
+    * cumin
+    * poivre
+    * cannelle
+    * ail
+    * (cardamome ?)
+    * (piment ?)
+    * (curcuma ?)
+    * (girofle ?)
+
 
 - cumin, coriandre, ail, cannelle, paprika fumé (poivré fumé ?), curcuma (amer ?), sel, poivre (piquant)
 

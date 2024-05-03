@@ -20,7 +20,7 @@
 - [chawarma](https://cuisinezavecdjouza.fr/pain-au-yaourt-a-la-poele/)
 - durum
 - pain libanais
-- chapatis
+- chapatis (indien)
 
 
 # Pita (four) (**best**)
