@@ -1,9 +1,24 @@
+
+<!-- vim-markdown-toc GFM -->
+
+* [Recette Me](#recette-me)
+    * [Ingrédient](#ingrédient)
+    * [Recette](#recette)
+* [Info sur internet](#info-sur-internet)
+    * [Sur les épices](#sur-les-épices)
+    * [Choix de la viande](#choix-de-la-viande)
+    * [Cuisson](#cuisson)
+
+<!-- vim-markdown-toc -->
+
 - origine : char sieu, cantonais
 - variante : chashu (japonais)
 
 
 # Recette Me
+
 ## Ingrédient
+
 - épices :
     * 5 épices 
         + poivre
@@ -79,6 +94,7 @@
 - cuire jusqu'à évaporation de l'eau
 
 # Info sur internet
+
 ## Sur les épices
 
 Note : les vrais épices inclus :
