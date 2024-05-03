@@ -102,11 +102,13 @@ Note : les vrais épices inclus :
 - alcool de riz ? (sherry ou huangju)
 
 ## Choix de la viande
+
 * épaule (pour le gras qui donne du moelleux)
 * filet mignon
 * poitrine de porc (ok, mais gras)
 
 ## Cuisson
+
 - roti, barbecue (traditionel)
 - grill
 - four
