@@ -5,9 +5,14 @@
     * [Ingrédient](#ingrédient)
     * [Recette](#recette)
 * [Info sur internet](#info-sur-internet)
-    * [Sur les épices](#sur-les-épices)
-    * [Choix de la viande](#choix-de-la-viande)
-    * [Cuisson](#cuisson)
+* [Epice](#epice)
+    * [Veille](#veille)
+    * [épices commerciales](#épices-commerciales)
+* [Choix de la viande](#choix-de-la-viande)
+* [Cuisson](#cuisson)
+    * [Four](#four)
+    * [Grill](#grill)
+    * [Bouillir, four](#bouillir-four)
 
 <!-- vim-markdown-toc -->
 
@@ -33,52 +38,6 @@
 - ail haché
 
 
-- épices
-    - sachet 1
-        - soya bean
-        - sucre
-        - ail
-        - miel
-        - sauce soja
-        - sel
-        - eau
-        - 5 épices
-        - vinaigre riz
-        - farine blé
-    - sachet 2
-        - oignon, ail, ciboulette : 38%
-        - sucre
-        - sauce soja
-        - sel
-        - huile
-        - sauce huitre
-        - fecule mais
-        - colorant : paprika
-    - sachet 3
-        - sauce soja
-        - sucre
-        - sel
-        - huile
-        - anis etoile
-        - canelle
-        - gingembre
-        - piment
-        - clou girofle
-        - curcuma
-        - colorant : paprika
-        - laurier
-        - poivre
-        - graine de coriandre
-        - ail
-        - farine
-        - huile sesame
-    - sachet teriyaki
-        - sucre
-        - sauce soja
-        - canelle
-        - poivre
-        - anis étoilé
-        - ail
 
 ## Recette
 - (éventuellement nettoyer la viande en frottant au sel. La rincer et sécher)
@@ -95,21 +54,100 @@
 
 # Info sur internet
 
-## Sur les épices
+# Epice
+ 
+## Veille
+
+- misskichtenette, 2 variantes
+    * sauce soja, hoisin, pate de soja fermenté rouge (miso rouge), alcool de riz, 5 épices, miel
+    * sauce soja, hoisin, sauce huitre, 5 épices, miel
+
+    * dans les 2 cas, ails en poudre, huile sesame
+
 
 Note : les vrais épices inclus :
 - sauce hoisin
 - alcool de riz ? (sherry ou huangju)
 
-## Choix de la viande
+
+## épices commerciales
+
+- sachet 1
+    - soya bean
+    - sucre
+    - ail
+    - miel
+    - sauce soja
+    - sel
+    - eau
+    - 5 épices
+    - vinaigre riz
+    - farine blé
+- sachet 2
+    - oignon, ail, ciboulette : 38%
+    - sucre
+    - sauce soja
+    - sel
+    - huile
+    - sauce huitre
+    - fecule mais
+    - colorant : paprika
+- sachet 3
+    - sauce soja
+    - sucre
+    - sel
+    - huile
+    - anis etoile
+    - canelle
+    - gingembre
+    - piment
+    - clou girofle
+    - curcuma
+    - colorant : paprika
+    - laurier
+    - poivre
+    - graine de coriandre
+    - ail
+    - farine
+    - huile sesame
+- sachet teriyaki
+    - sucre
+    - sauce soja
+    - canelle
+    - poivre
+    - anis étoilé
+    - ail
+
+
+
+# Choix de la viande
 
 * épaule (pour le gras qui donne du moelleux)
 * filet mignon
 * poitrine de porc (ok, mais gras)
+* échine
 
-## Cuisson
+# Cuisson
 
 - roti, barbecue (traditionel)
 - grill
 - four
 - pôeler puis finir à l'eau
+
+## Four
+
+Pour 1 kg de filet mignon
+- 220°C pendant 15 mn
+- retourner la viande, badigeonner de marinade
+- baisser à 180°C pendant 10 mn
+- retourner la viande, passer une couche de miel
+- grill pendant 5mn pour laquer. A surveiller
+
+## Grill
+
+- Enfourner à froid
+- 260°C en mode grill pendant 20-25mn
+
+## Bouillir, four
+
+Voir [porc sauce bbq](../plat/porc-bbq.md)
