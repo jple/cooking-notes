@@ -25,6 +25,9 @@
 
 ## Ingrédient
 
+- [explication](https://www.unomafu.fr/recette-sauce-hoisin-maison/)
+- [ingrédient](https://www.mesinspirationsculinaires.com/article-hoisin-sauce-recette-maison.html)
+
 2 versions :
 - simili 5-épices
     * badiane (anis étoilé)
@@ -53,16 +56,7 @@
     * un peu d'eau pour avoir une texture pateuse
 
 
-épices :
-* 5 épices (fake)
-    + poivre
-    + badiane (anis étoilé)
-    + cannelle
-    + ~~clous de girofle~~
-    + ~~fenouille~~
-    * sauce soja
-    * colorant rouge
-- poitrine de porc
+- poitrine de porc :  600 g
 - poivre
 - ail haché
 
