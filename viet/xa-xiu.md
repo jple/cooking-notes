@@ -6,6 +6,7 @@
     * [Recette](#recette)
 * [Info sur internet](#info-sur-internet)
 * [Epice](#epice)
+    * [Version Me](#version-me)
     * [Veille](#veille)
     * [épices commerciales](#épices-commerciales)
 * [Choix de la viande](#choix-de-la-viande)
@@ -24,13 +25,41 @@
 
 ## Ingrédient
 
-- épices :
-    * 5 épices 
-        + poivre
-        + badiane (anis étoilé)
-        + cannelle
-        + clous de girofle
-        + fenouille
+2 versions :
+- simili 5-épices
+    * badiane (anis étoilé)
+    * cannelle
+    * poivre
+    * piment (pas officiellement dans 5 épices)
+    * (version 2) gingembre
+    * (version 2) curcuma
+    * (version 2) fenugrec
+- simili sauce hoisin (2 fois trop de sauce en quantité totale pour 600 g de porc)
+    * sauce soja        : 2 cas
+    * beurre cacahuète  : 2 cas  
+      --> consistance
+      (idéalement pate de soja fermenté, eg. miso)
+    * vinaigre de cidre : 2 cas  
+      (idéalement de riz)
+    * miel              : 2 cas (à tester 1 cas !)
+      (idéalement, utiliser mélasse)
+    * huile sésame      : 1 cac
+    * piment            : 1/2 cac
+    * manque
+        + ail           : 1/2 cac
+        + fecule maïs   : 1 cac si on veut texture
+- pour humidifier
+    * sauce soja        : 2 cas
+    * un peu d'eau pour avoir une texture pateuse
+
+
+épices :
+* 5 épices (fake)
+    + poivre
+    + badiane (anis étoilé)
+    + cannelle
+    + ~~clous de girofle~~
+    + ~~fenouille~~
     * sauce soja
     * colorant rouge
 - poitrine de porc
@@ -55,7 +84,19 @@
 # Info sur internet
 
 # Epice
+
+## Version Me
+- épices :
+    * 5 épices 
+        + poivre
+        + badiane (anis étoilé)
+        + cannelle
+        + clous de girofle
+        + fenouille
+    * sauce soja
+    * colorant rouge
  
+
 ## Veille
 
 - misskichtenette, 2 variantes
