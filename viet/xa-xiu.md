@@ -1,6 +1,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Best Recette](#best-recette)
 * [Recette Me](#recette-me)
     * [Ingrédient](#ingrédient)
     * [Recette](#recette)
@@ -20,6 +21,22 @@
 - origine : char sieu, cantonais
 - variante : chashu (japonais)
 
+# Best Recette
+
+- échine de porc : 350 g
+- épice
+    * badiane   : 1 étoile écrasé
+    * cannelle  : 2/3 cac
+    * gingembre : 2/3 cac
+    * paprika   : 2/3 cac
+    * curcuma   : 2/3 cac
+    * piment    : 2/3 cac
+- sauce soja : 2 cas
+- miel       : 1 cas
+
+- four 180°C, environ 30-40mn  
+mouiller régulièrement la viande  
+éventuellement la retourner
 
 # Recette Me
 
