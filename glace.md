@@ -1,17 +1,18 @@
 # Crème anglaise
 - lait              : 500 g
 - jaune oeuf        : 100 g (4-5)
-- sucre             : 
-    * 65 g (prop. tarte vanille)
-    * 75 g (mercotte)
-    * 80 g (CAP)
-- gousse vanille    : 1
+- sucre             : 65 g (très bien. test: 60 g ?)
+- gousse vanille    : 1 (test: 75% ?)
 
 
 - chauffer lait + vanille jusque 70-85°C
 - laisser refroidir 15 mn
 - mélanger jaunes et sucres (inutile de blanchir parait-il)
 - fouetter en versant lentement le lait
+- mélanger continuellement sur feux doux jusque :
+    - texture onctueuse / crémeuse (arrive d'un coup)
+    - nappe sur la cuillère en bois
+    - ne doit jamais dépasser 85 °C (coagulation des oeufs)
 
 Conseils :
 - plus onctueux si
@@ -27,6 +28,10 @@ Conseils :
 # Glace
 
 TODO
+- refroidir la crème anglaise
+- mettre au congélateur
+- la sortir toutes les 30 mn et touiller pour retirer les cristaux de glaces
+- après X temps, mettre encore 3h au congélo avant dégustation
 
 # Panna cotta
 
