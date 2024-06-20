@@ -1,16 +1,17 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Notes](#notes)
-* [Ingrédients](#ingrédients)
-    * [Biscuit](#biscuit)
-    * [Crème tiramisu](#crème-tiramisu)
-        * [La version du flemmard](#la-version-du-flemmard)
-    * [Pour le montage](#pour-le-montage)
-* [Recette](#recette)
-    * [Biscuit](#biscuit-1)
-    * [Tiramisu](#tiramisu)
-    * [Montage](#montage)
+- [Notes](#notes)
+- [Idée biscuit](#idée-biscuit)
+- [Ingrédients](#ingrédients)
+    - [Biscuit](#biscuit)
+    - [Crème tiramisu](#crème-tiramisu)
+        - [La version du flemmard](#la-version-du-flemmard)
+    - [Pour le montage](#pour-le-montage)
+- [Recette](#recette)
+    - [Biscuit](#biscuit-1)
+    - [Tiramisu](#tiramisu)
+    - [Montage](#montage)
 
 <!-- vim-markdown-toc -->
 
@@ -20,6 +21,10 @@
 - Les variantes du biscuit sont le biscuit Joconde (simple) et le biscuit à la cuillère (chiant)
 - Notez qu'il y a grosso modo 2 oeufs complets à utiliser entre le biscuit et le tiramisu
 - 
+
+# Idée biscuit
+
+- canistrellie : plus de matière en bouche
 
 # Ingrédients
 

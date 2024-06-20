@@ -1,33 +1,48 @@
 <!-- vim-markdown-toc Marked -->
 
-* [Choix du fromage](#choix-du-fromage)
-* [Biscuit](#biscuit)
-* [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
-    * [mesdelicieuse creations](#mesdelicieuse-creations)
-        * [Ingrédients](#ingrédients)
-        * [Recette](#recette)
-* [Cheesecake cuit](#cheesecake-cuit)
-    * [Questions](#questions)
-    * [Ingrédients](#ingrédients)
-    * [Recette](#recette)
-* [(todo) Chessecake japonais](#(todo)-chessecake-japonais)
-* [(à tester) Cheesecake à l'avocat](#(à-tester)-cheesecake-à-l'avocat)
+- [Composition](#composition)
+    - [Choix du fromage](#choix-du-fromage)
+    - [Idées biscuit](#idées-biscuit)
+    - [Variantes](#variantes)
+- [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
+    - [mesdelicieuse creations](#mesdelicieuse-creations)
+        - [Ingrédients](#ingrédients)
+        - [Recette](#recette)
+- [Cheesecake cuit](#cheesecake-cuit)
+    - [Questions](#questions)
+    - [Ingrédients](#ingrédients-1)
+    - [Recette](#recette-1)
+- [(todo) Chessecake japonais](#todo-chessecake-japonais)
+- [(à tester) Cheesecake à l'avocat](#à-tester-cheesecake-à-lavocat)
 
 <!-- vim-markdown-toc -->
 
 
-
-# Choix du fromage
+# Composition
+## Choix du fromage
 
 - fromage frais, cream cheese, (fromage à pâte fraiche) : 
     - philadelphia : 30% matière grasse (22g lipide / 100g)
     - saint morêt : 25% (18g / 100g) : 
 
-# Biscuit
+## Idées biscuit
 
-- utiliser comme base du riz souflé nature
-- recouvrir de choco et mettre au frigo
+- riz souflé --> bien !
+    - utiliser comme base du riz souflé nature
+    - recouvrir de choco et mettre au frigo
+- pate sablée
+    - voir [tarte-vanille.md](./tarte-vanille.md) 
+    - pour 480 g de fromage, 200 g de farine pour 2 tartes de 14x14
+    - ajouter 8 g de cannelle
 
+## Variantes
+
+- tarte ricotta
+- fiadona
+- tarte bourbonnaise
+- kaskuche
+- tourteau fromage
+- vatrouchka
 
 # Cheesecake sans cuisson 
 ## mesdelicieuse creations
