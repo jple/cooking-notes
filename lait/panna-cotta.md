@@ -21,4 +21,5 @@ Pour 2 pots (ou 4 petits) :
 Note expérimentale :
 - mes pots étaient de 6cm de diamètre, 6cm rempli
 - après 1h20, c'est toujours assez liquide d'apparence. Le dessus n'est pas vraiment ferme. Le contenu était à 60°C. Ca coagulera peut-être avec le froid
+    - cela dit, en ayant renversé 1, c'est pas tout liquide. Ca tient un peu
 
