@@ -14,14 +14,16 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
     - sucre      : 30 g
     - oeufs      : 70 g
     - beurre     : 25 g
+    - (basilic   : 7  g, 5 feuilles ciselées finement)
 
 - Recette
     * laisser infuser sucre + zeste pendant 10mn
-    * ajouter jus citron, oeuf
+    * ajouter jus citron, oeuf, (basilic ciselé)
     * faire épaissir au bain marie en fouettant
     * étapes : liquide > mousseux > crème qui se tient  
       On s'arrête dès qu'on a une texture qui se tient  
       (au thermomètre : <85°C, sinon les oeufs coagulent)
+        + astuce : faire un tourbillon, s'il s'arrête de suite, c'est bon. S'il continue de tourner, on continue
 
     * Laisser refroidir à 35° à l'air libre  
       (éventuellement plonger cul de poule dans eau froide)
