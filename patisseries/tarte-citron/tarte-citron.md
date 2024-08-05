@@ -11,7 +11,7 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
 - Ingrédient
     - jus citron : 58 g
     - zeste      : 1
-    - sucre      : 30 g
+    - sucre      : 25 g
     - oeufs      : 70 g
     - beurre     : 25 g
     - (basilic   : 7  g, 5 feuilles ciselées finement)
