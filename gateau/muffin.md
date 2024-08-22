@@ -8,6 +8,15 @@
 
 # Recette ?
 
+    100 g de pépites de chocolat
+    200 g de farine
+    70 g de sucre
+    2 oeufs
+    60 g de beurre fondu
+    120 ml de lait
+    1 cuiller à café de vanille liquide
+    1 pincée de sel
+
 ▢ 340 grammes de farine fluide
 X 200 grammes de sucre en poudre blanc
 ▢ 2 œufs
@@ -21,14 +30,6 @@ X 200 grammes de sucre en poudre blanc
 ▢ 180 grammes de pépites de chocolat
 
 
-    100 g de pépites de chocolat
-    200 g de farine
-    80 g de sucre
-    2 oeufs
-    80 g de beurre fondu
-    120 ml de lait
-    1 cuiller à café de vanille liquide
-    1 pincée de sel
 
 four 10mn 220C --> 10mn 180C
 (garder 220°C jusqu'à ce que ça gonfle, surface doré et craquelé)
