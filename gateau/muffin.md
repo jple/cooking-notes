@@ -10,7 +10,7 @@
 
     100 g de pépites de chocolat
     200 g de farine
-    70 g de sucre
+    60 g de sucre
     2 oeufs
     60 g de beurre fondu
     120 ml de lait
