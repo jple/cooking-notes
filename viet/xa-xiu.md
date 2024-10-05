@@ -23,7 +23,7 @@
 
 # Best Recette
 
-- échine de porc : 350 g
+- échine de porc : 500 g
 - épice
     * badiane   : 1 étoile écrasé
     * cannelle  : 1 cac
