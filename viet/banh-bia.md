@@ -8,8 +8,8 @@
     * ban bao chi (Ben Tre), qui correspond au sorte de Mochi ailleurs
 
 # Ressources
-- https://www.youtube.com/watch?v=wBLHu84CrAU
 - https://www.youtube.com/watch?v=2wOOj0DAHAw
+- https://www.youtube.com/watch?v=wBLHu84CrAU
 
 # Farce de haricot mungo et durian
 
@@ -17,13 +17,13 @@
 Ingrédients
 - haricot mungo :   100 g
 - sel           :   1 g
-- sucre         :   50 g ? (original 90 g)
+- sucre         :   40 g
 - eau           :   30 g
 - fécule mais   :   10 g
-- huile coco    :   35 g (remplacable par huile quelconque ?)
+- huile coco    :   25 g (dans la vidéo 35 g)
 
 remarque :
-- l'huile de coco devrait pouvoir se remplacer par huile quelconque (quoique ça tiendrait moins bien)
+- l'huile de coco devrait pouvoir se remplacer par huile quelconque (quoique ça tiendrait moins bien). Mais ça donne du gout !
 - la fécule de maïs doit donner de l'élasticité, mais est-ce utile ?  
 Peut être que ça donne une pâte qui colle moins à la casserole (en comparaison avec https://www.youtube.com/watch?v=rZ-mSHZPyks&list=PLFLlB8sRg7-yEBThemtZRblCNsD5Z3I8D)
 
@@ -41,7 +41,15 @@ La cuisson se fait comme le riz :
 ### Patification
 
 - mélanger eau + fécule mais jusque homogène
-- mélanger avec haricots + sucre, faire fondre sucre
+- mélanger haricots + sucre, faire fondre sucre
+- mélanger le tout
+
+**A TESTER**
+- La vidéo suggère d'ajouter 100 g d'eau avant de mixer  
+Ca donnerait in fine une sorte de pate pateuse  
+Sans cette eau, on a au départ une purée, et in fine une purée pateuse  
+Il est possible que l'ajout d'eau permettrait d'avoir une farce moins seche
+
 - mixer  
 éventuellement mettre un peu d'eau pour faciliter le mixage
 
@@ -66,18 +74,17 @@ Recette
 - soit mettre une boule de durian dans la pate de haricot
 - former une boule
 
-# Patons
+# Patons (8 gateaux)
 
-**Note importante**: n'ayant pas de durian, on va réduire la quantité de pate  
-Les quantités sont ceux incluant le durian  
-**Les quantités à tester sont indiqué entre parenthèse, et sont défini au pif (x35/50)**
+**Note importante**: si on fait la farce sans durian, on peut prendre 70% des quantités indiqués ci-dessous  
+La valeur est indiquée entre parenthèses
 
 ## Paton principal
 Ingrédients:
 - farine blé    :   200 g (140)
-(- levure       :   1/2 cac)
+(- levure       :   1/2 cac) (pas mis)
 - eau           :   100 g (70)
-- sucre         :   35 g (25)
+- sucre         :   35 g (20 ---> **à tester** 10 g)
 - sel           :   1 g (1/2 cac)
 - huile         :   30 g (20)
 - huile coco    :   30 g (surtout pour le gout ?)
@@ -95,8 +102,8 @@ la pâte doit être légèrement élastique
 - laisser la pate reposer 15 mn
 - prendre la pâte et l'aérer en la balaçant sur le plan de travail 10 fois  
 (voir technique pour [panification](../pain/pain.md)
-- repos 1h
-- séparer en 10 parts (~ 40-45g)
+- repos 1h (en pratique, j'ai laissé moins, le temps de faire le reste)
+- séparer en 8 boules (~ 40g)
 - reposer 15 mn (faire le paton d'huile)
 
 ## Paton d'huile
@@ -107,30 +114,32 @@ Ingrédients:
 
 Recette :  
 - tout mélanger, jusque homogène
-- séparer en 10 parts (~13g)
+- séparer en 8 boules (~13g)
 
 ## Formage de chaque part
 L'idée est de faire une sorte de pate feuilleté avec le paton à huile dans le paton principale
 
 - étaler grossièrement à la main (taille d'une paume) paton principale
-- placer le paton à huile au centre, et remballer le tout
+- placer le paton à huile au centre, et remballer tous les bords bers le haut
 (- repos 15 mn, pour facilement étaler)
-- étaler en longueur, épaisseur de 2-3mm
+- étaler en longueur (épaisseur de 2-3mm --> on s'en fiche)
 - fermer en 3 (porte feuille)
-- refaire 1 ou 2 fois
+- refaire 1 (pas 2, car c'est trop fin sinon)
 (- repos 15 mn, pour facilement étaler)
-
 
 
 # Formage finale
 
-- étale la pate épaisseur 1-2 mm (pas trop fin, sinon ça casse)
+- étale la pate épaisseur 3mm (pas trop fin, sinon ça casse)
 - mettre farce au centre
 - refermer en boule
-- pincer le dessus de la boule et couper au ciseau le superflu
+- pincer le dessus de la boule et couper au ciseau le superflu si besoin
 - bouler, aplatir la boule à la main (forme de roue)
 - dorer au jaune d'oeuf+eau, 2 fois
 
 ## Cuisson
 
 - four 170°C, 15-20mn, jusque ça gonle
+
+Certains gateaux commencent à gongler à 10 mn  
+D'autres vraiment à 15 mn ou plus
