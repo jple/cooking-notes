@@ -26,13 +26,13 @@
 - échine de porc : 350 g
 - épice
     * badiane   : 1 étoile écrasé
-    * cannelle  : 2/3 cac
-    * gingembre : 2/3 cac
-    * paprika   : 2/3 cac
-    * curcuma   : 2/3 cac
-    * piment    : 2/3 cac
+    * cannelle  : 1 cac
+    * gingembre : 1 cac
+    * paprika   : 1 cac
+    * curcuma   : 1 cac
+    * piment    : 1/2 cac
 - sauce soja : 2 cas
-- miel       : 1 cas
+- miel       : 1 cac
 
 - four 180°C, environ 30-40mn  
 mouiller régulièrement la viande  
