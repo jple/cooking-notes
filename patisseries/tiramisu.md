@@ -1,37 +1,79 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Notes](#notes)
-- [Idée biscuit](#idée-biscuit)
-- [Ingrédients](#ingrédients)
-    - [Biscuit](#biscuit)
-    - [Crème tiramisu](#crème-tiramisu)
-        - [La version du flemmard](#la-version-du-flemmard)
-    - [Pour le montage](#pour-le-montage)
-- [Recette](#recette)
-    - [Biscuit](#biscuit-1)
-    - [Tiramisu](#tiramisu)
-    - [Montage](#montage)
+* [Note](#note)
+    * [Variantes du biscuit](#variantes-du-biscuit)
+        * [Biscuit cuillère](#biscuit-cuillère)
+* [Recette flemmard](#recette-flemmard)
+* [Recette livre](#recette-livre)
+    * [Notes](#notes)
+    * [Ingrédients](#ingrédients)
+        * [Biscuit](#biscuit)
+        * [Crème tiramisu](#crème-tiramisu)
+        * [Pour le montage](#pour-le-montage)
+    * [Recette](#recette)
+        * [Biscuit](#biscuit-1)
+        * [Tiramisu](#tiramisu)
+        * [Montage](#montage)
 
 <!-- vim-markdown-toc -->
 
-# Notes
+# Note
+
+- le café doit être bien corsé !
+- trempez les biscuits seulement à mi-hauteur pour garder du mordant
+
+- pour 200g de mascarpone, 120 g de biscuit semble bien
+
+## Variantes du biscuit 
+- biscuit cuillère / boudoir / savoiardi (chiant) : l'officiel
+- biscuit Joconde (simple)
+- (à tester) canistrellie : plus de matière en bouche
+
+### Biscuit cuillère
+
+Proportion ?
+- oeuf      :   25%
+- farine    :   35%
+- sucre     :   35%
+- autre     :   5%
+
+
+# Recette flemmard
+
+Pour 5 pots de confitures (diamètres 6cm - 6 cm hauteur)
+
+Crème tiramisu
+- mascarpone    :   200 g
+- sucre         :   15g (subtil) - 20g (pas plus)
+- oeufs         
+    * jaune     :   2
+    * blanc     :   2
+
+Boudoirs achetés : 120 g (50% sucre)
+
+La recette :
+1. Fouetter jaune et sucre
+    - test à faire: mettre le sucre avec le blanc pour meringuer. Ca rendrait plus dense la crème
+3. Ajouter la mascarpone et fouetter
+4. Monter le blanc en neige
+5. Incorporer
+
+
+# Recette livre
+## Notes
 
 - La recette du biscuit est issu du livre "Le Grand Manuel de Patisseries"
-- Les variantes du biscuit sont le biscuit Joconde (simple) et le biscuit à la cuillère (chiant)
+
 - Notez qu'il y a grosso modo 2 oeufs complets à utiliser entre le biscuit et le tiramisu
-- 
 
-# Idée biscuit
 
-- canistrellie : plus de matière en bouche
-
-# Ingrédients
+## Ingrédients
 
 Pour 1,5 personnes  
 Pour 2 étages d'un petit 12 cm x 12 cm (à la louche) ?
 
-## Biscuit
+### Biscuit
 - poudre d'amande       :   11  g
 - farine                :   7.5 g
 - maizena               :   15  g
@@ -47,7 +89,7 @@ Pour 2 étages d'un petit 12 cm x 12 cm (à la louche) ?
     
 **En pratique** : j'ai pris 1 oeuf entier, qui faisait 45 g
 
-## Crème tiramisu
+### Crème tiramisu
 - mascarpone        :   200g
 - crème liq ou lait :   ~2 cas (pour diluer)
 - sirop (bombe)
@@ -66,36 +108,23 @@ Pour 2 étages d'un petit 12 cm x 12 cm (à la louche) ?
     * 1 + 1/2 oeuf
     * 1 jaune d'oeuf
 
-### La version du flemmard
 
-- mascarpone    :   200 g
-- sucre         :   30  g
-- oeufs         
-    * jaune     :   2
-    * blanc     :   2
-
-La recette :
-
-1. Fouetter jaune et sucre
-2. Ajouter la mascarpone et fouetter
-3. Monter le blanc en neige
-4. Incorporer
-
-## Pour le montage
+### Pour le montage
 
 - café
 - chocolat en poudre
 
-# Recette
-## Biscuit
+## Recette
+### Biscuit
 
-1. Battre oeuf, amande, sucre --> jusqu'à texture aérée. Doubler de volume (possible seulement à la batteuse électrique...?)
+1. Battre oeuf, amande, sucre  
+--> jusqu'à texture aérée. Doubler de volume (possible seulement à la batteuse électrique...?)
 2. Préparer la méringue
     a. Monter le blanc en neige
     b. Ajouter 1/4 de sucre.  
        Fouetter jusque l'obtention de vaguelette
     c. Recommencer jusque écoulement du sucre  
-       On doit obtenir un bec d'oiseau lorsqu'on lève le fouet
+       --> On doit obtenir un bec d'oiseau lorsqu'on lève le fouet
 3. Incorporer à la maryse 1/3 de meringue dans la préparation
 4. Recommencer en ajoutant farine + maizena
 5. Recommencer avec le reste de meringue
@@ -103,13 +132,15 @@ La recette :
    Etaler pour avoir en gros 1 cm de hauteur (12cm x 24cm ?)
    En fourner à 180°C jusqu'à ce que ça cuise et dore (~10mn)
 
-## Tiramisu
+### Tiramisu
 
 1. Fouetter la mascarpone
 2. Préparer la bombe
-    a. Fouetter les oeufs --> doit x3 de volume (pareil, sans batteur, ça monte pas autant)
+    a. Fouetter les oeufs  
+       --> doit x3 de volume (pareil, sans batteur, ça monte pas autant)
     b. Préparer le sirop
-        i. Chauffer eau et sucre dans une casserole --> jusque 115 °C (des bulles qui montent)
+        i. Chauffer eau et sucre dans une casserole  
+           --> jusque 115 °C (des bulles qui montent)
         ii. Stopper la cuisson en plongeant la casserole dans un bain d'eau froide  
             Attendre que les bulles disparaissent
         iii. Fouetter énergétiquement en versant les oeufs en filet jusque refroidissement  
@@ -118,7 +149,7 @@ La recette :
 3. Fouetter la mascarpone avec 1/3 de bombe
 4. Incorporer à la maryse le reste de la bombe
 
-## Montage
+### Montage
 
 1. Préparer le café
 2. Couper une bande de biscuit pour le bas
