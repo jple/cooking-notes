@@ -3,8 +3,10 @@
 Mix entre
 - [muffin](./muffin.md)
 - [cheesecake jap](../patisseries/cheesecake-jap.md)
-- chiffon cake
+- [chiffon cake](https://www.mercotte.fr/2018/04/18/chiffon-cake-il-nest-jamais-trop-tard/)
 - [banh bon lan](https://misstamkitchenette.com/gateau-moelleux-a-la-vanille-banh-bong-lan/#.VJdObAvB4)
+- sponge cake
+
 
 # Ingrédients
 
