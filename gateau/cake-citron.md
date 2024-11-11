@@ -26,3 +26,8 @@
 - sucre         :   50 g
 - citron (jus)  :   60 g
 - levure        :   1/2 cac
+
+- Préparer sucre + zeste pour infuser. Laisser 30mn
+- Cremer beurre + sucre
+- ajouter oeuf 1 à 1
+- ajouter farine
