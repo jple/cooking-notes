@@ -8,7 +8,10 @@ Mix entre
 - sponge cake
 
 
-# Ingrédients
+
+# Gateau lait-fromage-blanc sans gras
+
+## Ingrédients
 
 - farine        :   200 g
 - levure        :   1/2 sachet
@@ -19,7 +22,7 @@ Mix entre
     * jaune     :   2
     * blanc     :   2 
 
-# Recette
+## Recette
 
 - faire meringue avec blanc d'oeuf + 1-2 cas de sucre
 - mélanger jaune + sucre, puis + lait + fromage
@@ -28,3 +31,9 @@ Mix entre
 
 - préchauffer le four à 180°C
 - enfourner à 160°C pendant 1h
+
+## Note
+
+- c'est pas mal
+- c'est légèrement sec (pas de gras, normale), mais pas gênant
+- c'est un peu humide, et une fois redroidi, ça colle l'assiette. Mais pas gênant
