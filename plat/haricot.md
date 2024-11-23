@@ -23,8 +23,20 @@
     - préférez une cuisson à petite ébullition 90° (évite l'éclatement des haricots)
         - cad environ 1h30
     - ne pas saler l'eau de cuisson, seulement en fin de cuisson si besoin (évite que la peau durcisse)
+    - l'eau doit dépasser de 3cm les haricots (comme les lentilles, un peu plus que le riz)
 
+
+- les façons de cuisiner
+    - mijoté (avec saucisse, confit, façon ragout, potée)
+    - purée, velouté, soupe
+    - cuit dans un bouillon
 
 - idées recette
     - soupe pistou
+        * patate, carotte, courgette + pistou (basilic, ail, huile olive)
     - cassoulet
+        * confit canard/oie, saucisse, 
+    - paella de Valencia (Espagne)
+        * tomate, safran, romarin, piment doux
+    * velouté haricot
+
