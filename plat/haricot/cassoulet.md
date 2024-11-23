@@ -2,17 +2,17 @@ issu d'un livre quelconque
 
 # Ingrédient
 - par personne
-- haricot   : 100 g
-- eau       : 3/4 L
-- confit    : 1/2 cuisses
-- saucisse  : 80 g
-- porc      : 50 g (jarret, épaule ou poitrine)
-- graisse   : 65 g (couenne de porc)
-- lard salé : un peu
-- os de porc: 1/4
-- oignon    : 1/2
-- carotte   : 1/2
-- ail       : un peu
+    - haricot   : 100 g
+    - eau       : 3/4 L
+    - confit    : 1/2 cuisses
+    - saucisse  : 80 g
+    - porc      : 50 g (jarret, épaule ou poitrine)
+    - graisse   : 65 g (couenne de porc)
+    - lard salé : un peu
+    - os de porc: 1/4
+    - oignon    : 1/2
+    - carotte   : 1/2
+    - ail       : un peu
 
 # Recette
 
