@@ -1,4 +1,4 @@
-Pour un moule 12x12 cm (3 personnes):
+Pour un moule 14x14 cm (3 personnes):
 
 # pate sablée
 - 100g farine
