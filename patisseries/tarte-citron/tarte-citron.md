@@ -6,11 +6,12 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
 - [ingrédient](../tarte-vanille.md?plain=1#L3-L8)
 - [recette](../tarte-vanille.md?plain=1#L30-L37)
 
-| ingrédient | moule 16 | 20 |
-| farine     | 100 g    | 150|
+| ingrédient | moule 16 | 20    |
+| ---------- | -------- | ----- |
+| farine     | 100 g    | 150   |
 | beurre     | 35 g     | 50-55 |
-| sucre      | 15 g     | 20 |
-| oeufs      | 25 g     | 40 |
+| sucre      | 15 g     | 20    |
+| oeufs      | 25 g     | 40    |
 
 ## Crème citron
 - Ingrédient
@@ -21,13 +22,14 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
     - beurre     : 25 g
     - (basilic   : 7  g, 5 feuilles ciselées finement)
 
-| ingrédient | moule 16 | 20 |
-| jus citron | 58 g     | 90 |
-| zeste      | 1        | 1.5|
-| sucre      | 25 g     | 40 |
-| oeufs      | 70 g     | 110|
-| beurre     | 25 g     | 40 |
-| (basilic)  | 7  g     | 11 |
+| ingrédient | moule 16 | 20  |
+| ---------- | -------- | --- |
+| jus citron | 58 g     | 90  |
+| zeste      | 1        | 1.5 |
+| sucre      | 25 g     | 40  |
+| oeufs      | 70 g     | 110 |
+| beurre     | 25 g     | 40  |
+| (basilic)  | 7  g     | 11  |
 
 (basilic : 7g = 5 feuilles, à ciseler finement!)
 
