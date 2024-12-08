@@ -24,7 +24,7 @@ Quantité d'eau :
 - épices
     * baton de canelle      : 1 par 2L
     * badiane (anis étoile) : 1 par 1L
-    * gingembre grillé      : 2x8cm
+    * gingembre grillé      : 2 morceaux de 2x8cm
 
 - navet     : 2 pour 5L, 3 pour 7L
 - oignon    : 1 pour 5L, 2 pour 7L
