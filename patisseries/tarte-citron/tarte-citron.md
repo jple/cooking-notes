@@ -20,7 +20,7 @@ Voir la recette [tarte vanille](../tarte-vanille.md)
     - sucre      : 25 g
     - oeufs      : 70 g
     - beurre     : 25 g
-    - (basilic   : 7  g, 5 feuilles ciselées finement)
+    - (basilic/menthe   : 7  g, 5 feuilles ciselées finement)
 
 | ingrédient | moule 16 | 20  |
 | ---------- | -------- | --- |
