@@ -3,3 +3,4 @@
 - https://www.papillesetpupilles.fr/
 - chefsimon
 - chefnini : intéressant et belle photo
+- https://inspirations-cuisine.fr/ 
