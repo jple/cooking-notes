@@ -4,7 +4,7 @@
     * oignon             : 1
     * ail                : 2
     * tomate écrasé      : 2 (ou coulis)
-    * purée de cacahuète : 4 cas
+    * purée de cacahuète : 4 cas --> 2 cas suffisent
     * huile
     * eau        --> remplacer par bouillon
     * non testé 
