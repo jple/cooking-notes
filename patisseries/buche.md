@@ -3,6 +3,8 @@
 - cassonade :   35g (original = poids farine)
 - oeuf      :   100g (2)
 
+voir [recette](./moka.md#Genoise)
+
 # Ganache crémeuse
 - lait          :   100g
 - jaune oeuf    :   20g

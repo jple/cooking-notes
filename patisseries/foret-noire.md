@@ -12,7 +12,7 @@ Remarque :
     - sucre au lieu de cassonade
     - poids sucre = poids farine + cacao 
 
-recette : https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/ 
+recette : [genoise](./moka.md#Genoise)
 
 # Chantilly
 - crème liquide :   200ml

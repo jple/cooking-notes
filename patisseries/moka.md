@@ -8,11 +8,14 @@ alors que pour un moule à 16cm, on serait à 1/2
 - cassonade :   17g (original = poids farine)
 - oeuf      :   50g (1)
 
+2 techniques :
+- battre à froid (sans bain marie)
+    * il faut battre 15 mn, pour chauffer le mélanger. Idéalement au robot chauffant)
+    * résultat : petites bulles d’air, une mie serrée et une texture moelleuse
+- battre au bain marie
+    * résultat : grosses bulles d’air et une texture plus sèche
 
 
-- (opt) préparer bain marie
-    - si on monte à froid à petites quantité : petites bulles d’air, une mie serrée et une texture moelleuse
-    - si on monte à chaud en grande quantité : grosses bulles d’air et une texture plus sèche.
 - mettre oeufs + sucre dans un cul-de-poule 
 - lorsque eau frémissante, mettre le cul-de-poule dessus, et battre jusque 40°C-50°C (sans dépasser 50°C) --> ~5mn
 
@@ -27,7 +30,7 @@ alors que pour un moule à 16cm, on serait à 1/2
 
 
 
-- https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/
+- [genoise](https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-et-un-peu-dactu-aussi/)
 - autres infos mercotte
     - Les oeufs entiers permettent : 
         - le foisonnement grâce à leur teneur en protéines et à leur capacité sous l’action du fouet du robot à retenir et stabiliser des bulles d’air dans la masse pour obtenir après cuisson un réseau alvéolé. 
