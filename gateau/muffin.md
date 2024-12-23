@@ -17,19 +17,6 @@
     1 cuiller à café de vanille liquide
     1 pincée de sel
 
-▢ 340 grammes de farine fluide
-X 200 grammes de sucre en poudre blanc
-▢ 2 œufs
-▢ 60 grammes de beurre demi-sel
-▢ 310 ml de babeurre pour moi : 300 millilitres de lait demi-écrémé et 3 cuillères à café rases de vinaigre blanc
-▢ 45 grammes d'huile de tournesol
-
-▢ 1 cuillère à café d'extrait de vanille
-▢ 2 cuillère à café rases de levure chimique 8 grammes
-▢ 1/2 cuillère à café rase de bicarbonate de soude 2.5 ml
-▢ 180 grammes de pépites de chocolat
-
-
 
 four 10mn 220C --> 10mn 180C
 (garder 220°C jusqu'à ce que ça gonfle, surface doré et craquelé)
