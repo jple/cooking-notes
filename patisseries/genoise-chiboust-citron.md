@@ -1,4 +1,3 @@
-
 <!-- vim-markdown-toc GFM -->
 
 * [Description](#description)
@@ -9,6 +8,7 @@
     * [Crème patissière](#crème-patissière)
     * [Meringue française](#meringue-française)
     * [Resource](#resource)
+* [Montage finale](#montage-finale)
 
 <!-- vim-markdown-toc -->
 
@@ -82,3 +82,9 @@ Recette
 
 [chiboust citron](https://www.mercotte.fr/2014/09/03/tarte-chiboust-legere-au-citron-libre-interpretation-dune-recette-de-nicolas-masse/)
 [chiboust](https://encoreungateau.com/creme-chiboust/)
+
+
+# Montage finale
+
+J'ai voulu faire une buche, mais c'est une mauvaise idée : la crème est trop liquide (sans gélatine)
+Peut-être le présenter comme une tarte, ou entremet, voire dans des verrines façon tiramisu
