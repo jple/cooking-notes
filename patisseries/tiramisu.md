@@ -1,6 +1,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Todo](#todo)
 * [Note](#note)
     * [Variantes du biscuit](#variantes-du-biscuit)
         * [Biscuit cuillère](#biscuit-cuillère)
@@ -17,6 +18,10 @@
         * [Montage](#montage)
 
 <!-- vim-markdown-toc -->
+
+# Todo
+
+Pour avoir un bon goût, tremper le biscuit dans amaretto
 
 # Note
 
