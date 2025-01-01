@@ -22,6 +22,7 @@
 # Todo
 
 Pour avoir un bon goût, tremper le biscuit dans amaretto
+Donne un gout d'amande, amer qui équilibre le sucré
 
 # Note
 
