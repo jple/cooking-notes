@@ -15,7 +15,7 @@ Mix entre
 
 - farine        :   200 g
 - levure        :   1/2 sachet
-- lait          :   150 g
+- petit lait    :   150 g
 - fromage blanc (bien sec) :   80 g
 - sucre         :   60 g
 - oeufs
@@ -32,8 +32,12 @@ Mix entre
 - préchauffer le four à 180°C
 - enfourner à 160°C pendant 1h
 
+
 ## Note
 
-- c'est pas mal
+- j'avais fait préchauffé à 200°C et cuit à 160°C pendant 40mn  
+--> c'était déjà doré dessus, mais collant en bas
+
+- au goût c'est pas mal
 - c'est légèrement sec (pas de gras, normale), mais pas gênant
 - c'est un peu humide, et une fois redroidi, ça colle l'assiette. Mais pas gênant
