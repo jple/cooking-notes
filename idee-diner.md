@@ -6,6 +6,7 @@
 * [gratin](#gratin)
 * [mijotée](#mijotée)
 * [ragout](#ragout)
+* [soupe](#soupe)
 * [tartine](#tartine)
 * [boulette](#boulette)
 * [charcut](#charcut)
@@ -68,6 +69,9 @@
     - boeuf bourgignon
     - goulasch (bourguignon biere)
 
+# soupe
+- pois cassé
+
 # tartine
     - welsch (pain, cheddar, jambon)
 
@@ -99,7 +103,10 @@
 
 # Du monde
 ## italie
-    - cannelloni ricaotte epinard 
+- cannelloni ricaotte epinard 
+- sauce
+    * caccio pepe : pecorino, poivre
+    * boscaiola (champi, mayo)
 
 ## afrique
     - domoda (voir blog aistou)
