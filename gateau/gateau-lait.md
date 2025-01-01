@@ -13,6 +13,8 @@ Mix entre
 
 ## Ingrédients
 
+Pour un moule de 20cm de diamètre, sur une hauteur de 3 cm
+
 - farine        :   200 g
 - levure        :   1/2 sachet
 - petit lait    :   150 g
