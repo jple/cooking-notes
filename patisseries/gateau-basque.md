@@ -20,8 +20,13 @@
 | Rhum               |      1 cas       |     2 cas     |  2 cas   |                    |                           |
 
 - source :
-    * (mercotte)[https://www.mercotte.fr/2013/02/27/gateau-basque-tout-simplement-et-casting-pour-la-saison-2-du-meilleur-patissier/]
-    * (autre mercotte moins bien)[https://www.mercotte.fr/2020/05/23/gateau-basque-version-thierry-bamas/]
+    * [mercotte (Pierre Hermé)](https://www.mercotte.fr/2013/02/27/gateau-basque-tout-simplement-et-casting-pour-la-saison-2-du-meilleur-patissier/)
+    * [mercotte moins bien (Thierry Bamas)](https://www.mercotte.fr/2020/05/23/gateau-basque-version-thierry-bamas/)
+
+# Note
+- variante pour la crème patissière
+    - Pierre Hermé : semoule fine de blé + zeste citron
+    - Thierry Bamas : amande
 
 # Ingrédients (à retester...)
 - pate 
