@@ -17,8 +17,8 @@ Temps de réalisation : 2h (sans glaçage)
     * crème anglaise
         + lait          : 105 g
         + jaune oeuf    : 20 g (**à tester**: 0 g)
-    * choco blanc   : 80 g (**à tester**: 60 g)
-    * choco noir    : 90 g
+    * choco blanc   : 80 g (**à tester**: 90 g ?)
+    * choco noir    : 90 g (**à tester**: 80 g) ?
     * crème liquide : 200 g (250 g ?)
 
 
@@ -49,8 +49,8 @@ Temps de réalisation : 2h (sans glaçage)
     - **il faut probablement ne pas faire trop épaissir la crème**
     - il est probable que du lait chaud suffise
 - mousse choco noir : il y en avait assez peu
-    - On peut probablement essayer avec 60 g de blanc
     - Peut-être pas assez de chantilly ?
+    - EDIT: le gout amer écrasé le chocolat blanc... réduire le chocolat noir ?
 
 - plaque de chocolat :
     - j'obtiens une épaisseur de 3-4 mm (ce qui me semble déjà épais), et 2 fois trop long !
