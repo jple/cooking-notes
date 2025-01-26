@@ -42,12 +42,7 @@ recette : https://www.mercotte.fr/2019/05/01/genoise-les-secrets-de-la-reussite-
     - crème liquide :   160g
     - mascarpone    :   106g
 
-Conseil:
-- si les 3 jaunes d'oeufs ne font pas 64g, utiliser le blanc
-- le beurre n'est pas nécessaire dans la crème patissière
-    - il sert seulement à éviter la formation de la croûte. 
-    - A la place, il suffit de filmer la crème au contact. 
-    - Voir https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
+Conseil: voir [creme-patissiere.md](base/creme-patissiere.md)
 
 # punch
 - citron jaune  :   35g

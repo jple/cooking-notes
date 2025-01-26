@@ -24,11 +24,7 @@ Pour 200g de crème ?
     - café          : 2,5g (--> 2g ?)
 - beurre pommade    : 50g
 
-- remarque: 
-    - mercotte dit poids du beurre = 1/2 poids de la crème patissière https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%e2%80%99amandes/
-    - éventuellement, on peut compter beurre = 1/2 poids du lait https://devenirpatissier.fr/creme-mousseline/
-    - beurre = 2/5 de lait https://chefsimon.com/gourmets/chef-simon/recettes/creme-mousseline--3
-  
+- remarque sur la quantité du beurre : voir [creme-patissiere.md](base/creme-patissiere.md)
 
 - realiser la creme patissiere
     - blanchir jaune avec sucre, puis farine

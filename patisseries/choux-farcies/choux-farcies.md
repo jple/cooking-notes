@@ -166,10 +166,7 @@ pour 400g de crème
 | maizena     | 25   |      | 10     | 25   |
 | chocolat    | 60   | 60 ? |        |      |
 
-astuce
-- https://www.mercotte.fr/creme-anglaise-creme-patissiere-et-creme-d%E2%80%99amandes/
-- https://www.mercotte.fr/2015/05/24/la-creme-patissiere-retour-aux-fondamentaux-et-suite-du-tournage-de-saison-4-du-meilleur-patissier/
-
+astuce ; voir [creme-patissiere.md](base/creme-patissiere.md)
 
 Note : 
 - la dernière recette a été faite avec la "test"
@@ -177,19 +174,6 @@ Note :
     - en quantité, compter 20 choux = 500g de lait
 
 
-## New
-- selon mercotte :
-    - jaune : gras qui fixe les aromes, onctueuse, soyeux, couleur
-    - blanc : proteines donc plus ferme
+## New astuce
+voir [creme-patissiere.md#New](base/creme-patissiere.md#New)
 
-- une fois sucre avec oeuf, fouetter de suite pour ne pas coaguler (réagir)
-- blanchir les oeufs pour réduire le temps de coagulation lorsqu'on verse le liquide chaud
-- pour limiter grumeaux, mélanger dans un 1° temps de l'intérieur vers extérieur
-
-- j'ai fait bouillir le lait, avant incorporer un bout dans les oeufs
-    - le temps d'arriver à ebullition ensuite était beaucoup plus court
-- cuisson de la crème
-    - laisser bouillir  feux doux ?(en fouettant) jusque épais
-    - quand bouillit, laisser 30s encore
-    - on verse pour refroidir sur un plat
-    - filmer au contact
