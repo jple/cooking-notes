@@ -45,7 +45,7 @@ La cuisson se fait comme le riz :
 - mélanger le tout
 
 **A TESTER**
-- La vidéo suggère d'ajouter 100 g d'eau avant de mixer  
+- La vidéo suggère d'ajouter 100 g d'eau avant de mixer (**NOTE**: trop liquide, et ne devient jamais pateux. Essayer avec 50 g)  
 Ca donnerait in fine une sorte de pate pateuse  
 Sans cette eau, on a au départ une purée, et in fine une purée pateuse  
 Il est possible que l'ajout d'eau permettrait d'avoir une farce moins seche
@@ -87,7 +87,7 @@ Ingrédients:
 - sucre         :   35 g (20 ---> **à tester** 10 g)
 - sel           :   1 g (1/2 cac)
 - huile         :   30 g (20)
-- huile coco    :   30 g (surtout pour le gout ?)
+- huile coco    :   30 g (surtout pour le gout ?) (**NOTE**: sans coco, essayer avec seulement 10g d'huile, voire 0. Car c'est assez gras...)
 
 Notes :
 - l'huile de coco est peut-être utilisé seulement pour le goût  
