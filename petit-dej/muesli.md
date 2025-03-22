@@ -2,6 +2,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Vocabulaire](#vocabulaire)
+* [Recette pour cheesecake](#recette-pour-cheesecake)
 * [(todo) Recette 2](#todo-recette-2)
     * [Ingrédients](#ingrédients)
     * [Recette](#recette)
@@ -12,6 +13,9 @@
 # Vocabulaire
 - granola : cuit au four
 - muesli : cru
+
+# Recette pour cheesecake
+Voir [cheesecake](patisserie/cheesecake.md)
 
 # (todo) Recette 2
 Source : https://lacuisinedebernard.com/le-granola-maison-extra-croustillant/
