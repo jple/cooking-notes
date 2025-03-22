@@ -1,19 +1,23 @@
 <!-- vim-markdown-toc Marked -->
 
-- [Composition](#composition)
-    - [Choix du fromage](#choix-du-fromage)
-    - [Idées biscuit](#idées-biscuit)
-    - [Variantes](#variantes)
-- [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
-    - [mesdelicieuse creations](#mesdelicieuse-creations)
-        - [Ingrédients](#ingrédients)
-        - [Recette](#recette)
-- [Cheesecake cuit](#cheesecake-cuit)
-    - [Questions](#questions)
-    - [Ingrédients](#ingrédients-1)
-    - [Recette](#recette-1)
-- [(todo) Chessecake japonais](#todo-chessecake-japonais)
-- [(à tester) Cheesecake à l'avocat](#à-tester-cheesecake-à-lavocat)
+* [Composition](#composition)
+    * [Choix du fromage](#choix-du-fromage)
+    * [Idées biscuit](#idées-biscuit)
+    * [Variantes](#variantes)
+* [Cheesecake sans cuisson](#cheesecake-sans-cuisson)
+    * [Freestyle 03-2025](#freestyle-03-2025)
+        * [ Ingrédient](# ingrédient)
+        * [Recette](#recette)
+        * [Note](#note)
+    * [mesdelicieuse creations](#mesdelicieuse-creations)
+        * [Ingrédients](#ingrédients)
+        * [Recette](#recette)
+* [Cheesecake cuit](#cheesecake-cuit)
+    * [Questions](#questions)
+    * [Ingrédients](#ingrédients)
+    * [Recette](#recette)
+* [(todo) Chessecake japonais](#(todo)-chessecake-japonais)
+* [(à tester) Cheesecake à l'avocat](#(à-tester)-cheesecake-à-l'avocat)
 
 <!-- vim-markdown-toc -->
 
@@ -30,6 +34,7 @@
 - riz souflé --> bien !
     - utiliser comme base du riz souflé nature
     - recouvrir de choco et mettre au frigo
+- **muesli** --> très très bien !
 - pate sablée
     - voir [tarte-vanille.md](./tarte-vanille.md) 
     - pour 480 g de fromage, 200 g de farine pour 2 tartes de 14x14
@@ -45,7 +50,6 @@
 - vatrouchka
 
 # Cheesecake sans cuisson 
-## mesdelicieuse creations
 
 - !!! la recette https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
 - les alternatives https://mesdelicieusescreations.com/category/cheesecake/
@@ -62,6 +66,51 @@
 - [yum1](https://www.yumelise.fr/cheesecake-speculoos-sans-cuisson/)
 - [yum2](https://www.yumelise.fr/cheesecake-chocolat-sans-cuisson/)
 
+## Freestyle 03-2025
+
+Inspiration : 
+- la crème est inspiré de yum2
+- le biscuit est une sorte de muesli torréfié à base de petit beurre
+
+### Ingrédient
+
+- crème
+    - Fromage frais     : 300g (st Morêt)
+    - Crème liquide     : 30cl --> 15cl ?
+    - Sucre             : 45g
+
+- Base biscuit
+    - biscuits petit beurre : 100g
+    - amande, cerneau       : 1 poignée concassée chacun
+    - miel                  : 1 cas
+    - huile                 : un peu
+    - cannelle : 2 cac (mais on le sent pas assez :( )
+
+### Recette
+
+- muesli
+    * concasser les noix
+    * torréfier les noix (avec l'huile dès le départ ?) 5-10 mn
+    * ajouter petit beurre
+    * ajouter huile
+    * ajouter miel
+    * laisser 2-3 mn
+    * laisser refroidir dans un plat plat
+- crème
+    * monter la crème en chantilly
+    * incorporer le fromage et le sucre
+- former le tout
+
+### Note 
+
+- il y a trop de crème. Le muesli est bon, autant en profité  
+--> testé avec seulement 15cl de crème
+- durée de frigo
+    * après 3h, la crème est coulante
+    * après 1 nuit, la crème se tient, sans être trop prise --> pas mal, mais pas la bonne texture
+
+## mesdelicieuse creations
+https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
 
 ### Ingrédients
 - crème
@@ -71,7 +120,7 @@
     - Sucre             : 40g
     - vanille liquide   : 1 c-à-café
 
-- Base biscuit (éventuellement utiliser seulement 3/4 ?)
+- Base biscuit (éventuellement utiliser seulement 3/4 ? --> probablement pas)
     - biscuits (*)  : 250g (type Spéculoos ou palets bretons )
     - Beurre fondu  : 60g
     - **Attention** ça semble pas assez coller
@@ -82,8 +131,6 @@
 
 ### Recette
 voir https://mesdelicieusescreations.com/cheesecake-framboise-sans-cuisson/
-
-
 
 
 # Cheesecake cuit
