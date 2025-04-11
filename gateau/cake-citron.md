@@ -5,9 +5,9 @@
 
 - un cake se cuit à basse température, et longtemps
     * 160°C, 1h
-- on peut faire infuser le zeste de citron dans le sucre qq minutes
+- préparer en amont zeste et sucre, et laisser infuser 10 mn pour plus de goût
 - il paraît que 
-    - ajout de poudra d'amande le rend plus moelleux
+    - ajout de poudre d'amande le rend plus moelleux
     - mettre 1 cuillère de miel au lieu du sucre évite de sécher (garde humidité)
 
 # Recette
@@ -31,3 +31,32 @@
 - Cremer beurre + sucre
 - ajouter oeuf 1 à 1
 - ajouter farine
+
+## Version Joséphine
+
+## Astuces
+- bien blanchir les oeufs pour incorporer un maximum d'air
+- pour faire réagir la levure, il faut un écart de température.  
+    --> Donc on peut mettre le mélange 30mn au frigo avant d'enfourner
+- la levure chimique réagit avec les éléments basiques (je crois).  
+    --> Donc éviter d'acidifier le mélange avant d'incorporer la levure chimique
+- mettre du beurre (fondu ou pas) sur le dessus du cake pour créer la craquelure
+
+##  Ingrédient
+* oeuf         : 150 g
+* sucre        : 200 g (très sucré --> 80 g ?)
+* zeste        : 15 g  (1 citron a été suffisant)
+* crème liq    : 95 g
+* sel          : 3 g
+* farine       : 190 g
+* levure       : 8 g
+* beurre fondu : 65 g
+
+## Recette
+* fouetter oeufs, sucre, zeste --> bien faire blanchir pour incorporer de l'air
+* ajouter crème, sel farine, levure. Homogénéiser
+* (garder de côté 1 cas de beurre fondu). Ajouter beurre. Mélanger
+* mettre la préparation dans le moule à cake
+* mettre le restant de beurre fondu en un filet sur le dessus --> pour faire la fente du cake
+* Four 180°C 30-40mn
+
