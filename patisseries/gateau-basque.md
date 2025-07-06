@@ -30,16 +30,19 @@
 
 # Ingrédients (à retester...)
 - pate 
-    - beurre mou    :   125 g
+    - beurre mou    :   125 g 
     - sucre         :   80 g
     - oeuf          :   2 (A TESTER avec 1 + fraiser avant filmer)
     - farine        :   300 g
+
+Note 2025-07: en faisant 2 pates (x2 en quantités), avec 230g de beurre et 3 oeufs, c'est friable  
+Mais c'est peut-être dû à la canicule, le jour de la réalisation
 
 - crème patissière
     - lait      :   500 ml
     - vanille   :   1 gousse
     - oeuf      :   2
-    - sucre     :   80 g
+    - sucre     :   80 g --> 55 g OK
     - farine    :   50 g
 
 ## Note
