@@ -1,7 +1,9 @@
-sel: 1 cuillère à café pour 5 g
+- sel: 1 cuillère à café pour 5 g
+- 1 citron = 30-40g de jus
 
-- Cuillère à café: 5ml
-- ou à soupe: 15ml
+- liquide
+    - Cuillère à café: 5ml
+    - ou à soupe: 15ml
 
 | Ingrédients | Poids (café) | Poids (soupe) |
 | :---------- | :----------: | :-----------: |
