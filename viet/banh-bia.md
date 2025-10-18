@@ -7,6 +7,11 @@
     * banh pia (nord)
     * ban bao chi (Ben Tre), qui correspond au sorte de Mochi ailleurs
 
+- pas sûr:
+    * banh dau do
+    * banh bia do
+    * banh dau xan
+
 # Ressources
 - https://www.youtube.com/watch?v=2wOOj0DAHAw
 - https://www.youtube.com/watch?v=wBLHu84CrAU
