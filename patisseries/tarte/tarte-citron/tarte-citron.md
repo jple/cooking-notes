@@ -1,3 +1,29 @@
+# Tentative #2
+## Crème orange 
+- Ingrédient
+    - jus orange : 110 g
+    - zeste      : 1
+    - sucre      : 2 cac
+    - oeufs      : 100 g
+
+Suffisant pour 3 cas de crèmes par tartelette
+
+## Pate sucré
+- Ingrédient
+    - farine    : 120 g
+    - beurre    : 35 g
+    - sucre     : 15 g
+    - eau       : 40 g (c'était une farine T80 assez sèche. Commencer par 35 g !)
+
+## Chocolat nappage dur
+- Ingrédient
+    - chocolot 60% : 70 g ?
+
+La technique manquait :(  
+Peut-être ajouté un peu de crème liquide pour le rendre fluide
+
+
+
 # Tentative (moule de 16cm)
 
 ## Pate sucré
