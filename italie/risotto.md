@@ -1,12 +1,13 @@
 # Recette générale
 - chauffer le bouillon pour la suite
 - faire revenir les oignons
-- ajouter le riz jusqu'à translucide (nacrage)  
+- ajouter le riz jusqu'à translucide (`nacrage`)  
 - (certaines recettes indiquent de déglacer au vin blanc jusqu'à évaporation)
-- ajouter le bouillon **chaud** comme indiqué :
+- ajouter le bouillon **chaud** de la façon suivante :
     * ajouter louche par louche
     * laisser s'évaporer (presque tout) avant d'en remettre, sans noyer le riz
     * remuer régulièrement pour libérer l'amidon, et ne pas brûler le riz
+        + mais éviter de remuer constamment et trop fort, ce qui casse le grain
     * à faire jusqu'à ce que le riz soit al dente (environ 20mn)
 
 - réalisation de la mantecatura: pour texture onctueuse et goutu
@@ -16,7 +17,7 @@
     * laisser reposer 1-2mn avant de servir
 
 ## Explications
-- le nacrage prépare le riz à absorber le bouillon
+- le `nacrage` prépare le riz à absorber le bouillon
 - le bouillon chaud :
     * ajouter par louche pour 
         + libérer l'amidon ce qui fait le moelleux et l'onctuosité (sans crème !)
@@ -24,7 +25,6 @@
     * bouillon à maintenir chaud tout du long pour ne pas casser la cuisson du riz
 
 ## Conseils
-- éviter de remuer constamment et trop fort, ce qui casse le grain
 - le riz est utilisé non lavé
 - le risotto ne se réchauffe pas...
 
