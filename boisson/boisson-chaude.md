@@ -1,0 +1,4 @@
+- citron chaud: eau + citron + miel (+ gingembre)
+- grog : citron chaud + cannelle
+- lait chaud miel : lait + miel
+- golden latte : lait coco + curcuma + gingembre + cannelle + poivre + miel (+ huile coco, cardamome, muscade)
