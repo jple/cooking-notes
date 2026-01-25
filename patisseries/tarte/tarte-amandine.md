@@ -22,9 +22,9 @@ synonymes :
 - sel
 
 ## crème d'amande (quantité tout juste)
-- beurre pommade : 50g
-- sucre : 40g
-- amande : 60g
+- beurre pommade : 50g --> 25 g
+- sucre : 20 g
+- amande : 75 g
 - oeufs : 1/2
 
 - original : 50g de tout
