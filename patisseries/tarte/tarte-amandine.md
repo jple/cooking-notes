@@ -14,6 +14,10 @@ synonymes :
 # Ingrédients
 - poires 
 
+- Pour qu'elles ne se délitent pas lors du pochage
+    * comice, conférence
+    * pas trop mûre
+
 ## pate sablée
 - 100g farine
 - 35g beurre
@@ -29,6 +33,30 @@ synonymes :
 
 - original : 50g de tout
 
+## sirop de pochage
+Pour 4-6 poires
+- eau   : 1L
+- sucre : 200g
+- épices
+    * cannelle
+    * badiane
+    * cardamome
+
+Note: ces épices permettent 
+- le ralentissement de la digestion des glucides
+- la sensation de satiété
+
+### alternatives sans sucre
+
+#### pochage
+    - sans sucre (risque de retirer du sucre de la poire ??) [recette](https://recettes-sans.fr/recette/poire-pochee-sans-sucre-dessert-leger-et-naturel/)
+    - 1L d'eau + 1cas (20g) de miel [recette](https://www.recette-pour-diabetique.com/poires-pochees-aux-epices/)
+    - 50% eau, 50% jus de raisin [recette](https://www.manondeloche.fr/mes-recettes/recettes-desserts/poires-pochees-sans-sucre-ajoute)
+    - au vin
+
+#### au four
+- couper la poire en 2
+- au four 180°C, 30mn, face vers le haut
 
 # Recette
 - pate brisé : voir tarte-vanille.md
@@ -40,6 +68,12 @@ synonymes :
 - mettre la crème d'amande
 - poser les demi-poires (éventuellement en lamelle)
 - four 180°C, 30mn
+
+**ATTENTION**
+- si les poires ne sont pas pochées, elles restent trop dures à la dégustation  
+- à tester les options suivantes :
+    * les couper plus finement
+    * les enfourner avant avec la pâte brisé (voir plus haut "alternative au pochage")
 
 ## bonus: pocher les poires
 - pocher les poires 15mn dans le sirop :
