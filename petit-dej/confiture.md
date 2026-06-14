@@ -3,8 +3,9 @@
 
 * [Confiture abricot: Recette à l'arrache](#confiture-abricot-recette-à-larrache)
     * [Essai 2](#essai-2)
-    * [Essai 1](#essai-1)
         * [Conclusion](#conclusion)
+    * [Essai 1](#essai-1)
+        * [Conclusion](#conclusion-1)
 * [Lu par-ci parlà](#lu-par-ci-parlà)
 * [Confiture de pomme](#confiture-de-pomme)
 * [Généralité (info à vérifier)](#généralité-info-à-vérifier)
@@ -13,10 +14,17 @@
 
 # Confiture abricot: Recette à l'arrache
 ## Essai 2 
+Pour 4 pots :
 - abricot   : 1100 g
 - sucre     : 335 g 
 - citron    : 1 gros pour le jus (sûrement trop 😬)
 - noyau     : abricots + citron + cerise (5)
+
+### Conclusion
+- laisser 8h de repos, ça aide
+- 1 demi-citron devrait suffire. Ca a complètement submergé le tout :(
+- j'ai ajouté un sachet d'agar-agar en fin de cuisson par dépit
+- j'ai du pas mal écumer. Faut-il le faire seulement en fin de cuisson ?
 
 ## Essai 1
 - abricot   : 730 g
