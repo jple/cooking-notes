@@ -1,3 +1,8 @@
+# Note
+
+Apparemment, il manque 1 ingrédient majeur : 
+- poudre de soumbara : 1 cac
+
 # Version végé (WIP)
 
 - Ingrédient pour 4 plats
