@@ -1,15 +1,16 @@
 
 <!-- vim-markdown-toc Marked -->
 
-- [Choucroute crue](#choucroute-crue)
-    - [Expé du 28/10/2023](#expé-du-28102023)
-    - [Conseil](#conseil)
-    - [Ingrédient (pour un bocal de 1L)](#ingrédient-pour-un-bocal-de-1l)
-    - [Recette](#recette)
-    - [Utilisation](#utilisation)
-- [Recette](#recette-1)
-    - [Choucroute garnie](#choucroute-garnie)
-    - [Oeuf brouillé](#oeuf-brouillé)
+* [Choucroute crue](#choucroute-crue)
+    * [Expé du 28/10/2023](#expé-du-28/10/2023)
+    * [Conseil](#conseil)
+    * [Ingrédient (pour un bocal de 1L)](#ingrédient-(pour-un-bocal-de-1l))
+    * [Recette](#recette)
+    * [Utilisation](#utilisation)
+* [Recette](#recette)
+    * [Choucroute garnie](#choucroute-garnie)
+    * [Oeuf brouillé](#oeuf-brouillé)
+    * [Des idées](#des-idées)
 
 <!-- vim-markdown-toc -->
 
@@ -167,3 +168,12 @@ Des variantes :
 - faire rapidement revenir la choucroute
 - mettre les oeufs
 - brouiller. Ne pas trop cuire pour le crémeux
+
+## Des idées
+- [tarte](https://cuillereetsaladier.blogspot.com/2016/11/tarte-la-choucroute-vegan.html)
+- [pierogi?](https://revolutionfermentation.com/fra/blogs/legumes-fermentes/recette-pierogi-choucroute/)
+- [soupe](https://revolutionfermentation.com/fra/blogs/legumes-fermentes/recette-soupe-choucroute/)
+- [Jota (soupe)](https://happypapilles.fr/jota-soupe-repas-slovene-choucroute-saucisse-fumee/)
+- [galette](https://www.jevaisvouscuisiner.com/galettes-vegan-de-choucroute-legumes-et-lentilles/01/2019/)
+- [salade bettarave](https://jevaisvouscuisiner.com/chou-rouge-choucroute-crue-betterave/01/2018/)
+
