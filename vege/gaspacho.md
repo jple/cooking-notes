@@ -5,7 +5,7 @@
 - poivron rouge     : 1
 - piment long doux  : 2
 - ail               : 1 gousse
-- viaigre xérès     : 1 cc
+- vinaigre xérès     : 1 cc
 - huile olive       : 3 cs
 - cumin             : 1/2 cc
 - sel
