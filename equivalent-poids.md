@@ -5,14 +5,15 @@
     - Cuillère à café: 5ml
     - ou à soupe: 15ml
 
-| Ingrédients | Poids (café) | Poids (soupe) |
-| :---------- | :----------: | :-----------: |
-| sel         |      5g      |      15g      |
-| eau         |      5g      |      15g      |
-| moutarde    |      5g      |      20g      |
-| farine      |      4g      |      12g      |
-| miel        |      7g      |      21g      |
-| sucre       |      7g      |      21g      |
+ | Ingrédients | Poids (cc: 5ml) | Poids (cs: 15ml) |
+ |:------------|:---------------:|:----------------:|
+ | sel         | 5g              | 15g              |
+ | eau         | 5g              | 15g              |
+ | huile       | 4g - 4.8g       | 12g-14g          |
+ | moutarde    | 5g              | 20g              |
+ | farine      | 4g              | 12g              |
+ | miel        | 7g              | 21g              |
+ | sucre       | 7g              | 21g              |
 
 | Ingrédients      | Poids |
 | :--------------- | :---: |
