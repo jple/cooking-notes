@@ -1,3 +1,17 @@
+<!-- vim-markdown-toc GFM -->
+
+* [Granola](#granola)
+    * [Ingrédients pour ~15 biscuits](#ingrédients-pour-15-biscuits)
+        * [A tester :](#a-tester-)
+    * [Recette](#recette)
+    * [Comparatif d'ingrédients pour 20 biscuits](#comparatif-dingrédients-pour-20-biscuits)
+* [Zimmet Kuch](#zimmet-kuch)
+    * [Source](#source)
+    * [Ingrédients](#ingrédients)
+    * [Recette faite](#recette-faite)
+    * [Recette à tester](#recette-à-tester)
+
+<!-- vim-markdown-toc -->
 
 # Granola
 
